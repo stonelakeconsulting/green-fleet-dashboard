@@ -1,0 +1,1368 @@
+Model,Displ,Cyl,Trans,Drive,Fuel,Sales Area,Stnd,Underhood ID,Veh Class,Air Pollution Score,FE Calc Appr,City MPG,Hwy MPG,Cmb MPG,Unadj Cmb MPG,Greenhouse Gas Score,SmartWay
+ACURA 3.2CL,3.2,(6 cyl),Auto-S5,2WD,Gasoline,CL,ULEV,2HNXV03.2HYT,small car,3,N/A,17,27,21,26.7188,6,no
+ACURA 3.2CL,3.2,(6 cyl),Auto-S5,2WD,Gasoline,CL,LEV,2HNXV03.2JYC,small car,2,N/A,17,27,21,26.7188,6,no
+ACURA 3.2CL,3.2,(6 cyl),Auto-S5,2WD,Gasoline,CL,LEV,2HNXV03.2X21,small car,2,N/A,17,27,21,26.7188,6,no
+ACURA 3.2TL,3.2,(6 cyl),Auto-S5,2WD,Gasoline,CL,ULEV,2HNXV03.2HYT,midsize car,3,N/A,17,27,21,26.7309,6,no
+ACURA 3.2TL,3.2,(6 cyl),Auto-S5,2WD,Gasoline,CL,LEV,2HNXV03.2JYC,midsize car,2,N/A,17,27,21,26.7309,6,no
+ACURA 3.2TL,3.2,(6 cyl),Auto-S5,2WD,Gasoline,CL,LEV,2HNXV03.2X21,midsize car,2,N/A,17,27,21,26.7309,6,no
+ACURA 3.5RL,3.5,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2HNXV03.5BYC,midsize car,2,N/A,16,22,18,23.2252,5,no
+ACURA MDX,3.5,(6 cyl),Auto-L5,4WD,Gasoline,CL,ULEV,2HNXT03.5KYT,SUV,2,N/A,15,21,17,22.6222,4,no
+ACURA NSX,3,(6 cyl),Auto-S4,2WD,Gasoline,CL,LEV,2HNXV03.2AYC,small car,2,N/A,15,22,18,22.9121,5,no
+ACURA NSX,3.2,(6 cyl),Man-6,2WD,Gasoline,CL,LEV,2HNXV03.2AYC,small car,2,N/A,15,22,18,22.6171,5,no
+ACURA RSX,2,(4 cyl),Man-6,2WD,Gasoline,CL,LEV,2HNXV02.0EKC,small car,6,N/A,21,28,24,31.597,7,yes
+ACURA RSX,2,(4 cyl),Auto-S5,2WD,Gasoline,CL,LEV,2HNXV02.0VBP,small car,6,N/A,21,30,24,32.0258,7,yes
+ACURA RSX,2,(4 cyl),Man-5,2WD,Gasoline,CL,LEV,2HNXV02.0VBP,small car,6,N/A,23,30,26,34.1351,8,yes
+ASTON MARTIN Vanquish,5.9,(12 cyl),Auto-S6,2WD,Gasoline,CL,LEV,2ASXX05.9V03,small car,2,N/A,11,18,13,17.0042,1,no
+AUDI A4,1.8,(4 cyl),Auto-L5,4WD,Gasoline,CL,ULEV,2ADXV01.8342,small car,3,N/A,17,26,20,26.1596,6,no
+AUDI A4,1.8,(4 cyl),Auto-AV,2WD,Gasoline,CL,ULEV,2ADXV01.8342,small car,3,N/A,18,26,21,27.3349,6,no
+AUDI A4,1.8,(4 cyl),Man-5,4WD,Gasoline,CL,ULEV,2ADXV01.8342,small car,3,N/A,18,26,21,27.8234,6,no
+AUDI A4,1.8,(4 cyl),Man-5,2WD,Gasoline,CL,ULEV,2ADXV01.8342,small car,3,N/A,20,29,23,29.7799,7,no
+AUDI A4,3,(6 cyl),Auto-L5,4WD,Gasoline,CL,ULEV,2ADXV03.0344,small car,3,N/A,15,23,18,23.4859,5,no
+AUDI A4,3,(6 cyl),Man-6,4WD,Gasoline,CL,ULEV,2ADXV03.0344,small car,3,N/A,16,23,18,23.6383,5,no
+AUDI A4,3,(6 cyl),Auto-AV,2WD,Gasoline,CL,ULEV,2ADXV03.0344,small car,3,N/A,17,25,19,25.1029,5,no
+AUDI A4 Avant,1.8,(4 cyl),Auto-L5,4WD,Gasoline,CL,ULEV,2ADXV01.8342,station wagon,3,N/A,17,26,20,26.1596,6,no
+AUDI A4 Avant,1.8,(4 cyl),Man-5,4WD,Gasoline,CL,ULEV,2ADXV01.8342,station wagon,3,N/A,18,26,21,27.8234,6,no
+AUDI A4 Avant,3,(6 cyl),Auto-L5,4WD,Gasoline,CL,ULEV,2ADXV03.0344,station wagon,3,N/A,15,23,18,23.4859,5,no
+AUDI A4 Avant,3,(6 cyl),Man-6,4WD,Gasoline,CL,ULEV,2ADXV03.0344,station wagon,3,N/A,16,23,18,23.6383,5,no
+AUDI A6,3,(6 cyl),Auto-L5,4WD,Gasoline,CL,ULEV,2ADXV03.0344,midsize car,3,N/A,15,23,18,23.4859,5,no
+AUDI A6,3,(6 cyl),Auto-AV,2WD,Gasoline,CL,ULEV,2ADXV03.0344,midsize car,3,N/A,17,23,19,24.6889,5,no
+AUDI A6,4.2,(8 cyl),Auto-S5,4WD,Gasoline,CL,LEV,2ADXV04.2345,midsize car,2,N/A,15,23,18,23.1903,5,no
+AUDI A6,2.7,(6 cyl),Man-6,4WD,Gasoline,CL,TLEV,2ADXV02.7333,midsize car,1,N/A,15,22,18,23.0883,5,no
+AUDI A6,2.7,(6 cyl),Auto-S5,4WD,Gasoline,CL,TLEV,2ADXV02.7333,midsize car,1,N/A,16,23,18,23.7696,5,no
+AUDI A6 Avant,3,(6 cyl),Auto-L5,4WD,Gasoline,CL,ULEV,2ADXV03.0344,station wagon,3,N/A,15,23,18,23.4859,5,no
+AUDI A8,4.2,(8 cyl),Auto-S5,4WD,Gasoline,CL,LEV,2ADXV04.2345,midsize car,2,N/A,15,23,18,23.1903,5,no
+AUDI A8 L,4.2,(8 cyl),Auto-S5,4WD,Gasoline,CL,LEV,2ADXV04.2345,large car,2,N/A,15,23,18,23.178,5,no
+AUDI Allroad,2.7,(6 cyl),Auto-L5,4WD,Gasoline,CL,TLEV,2ADXV02.7333,SUV,1,N/A,14,19,16,20.2182,4,no
+AUDI Allroad,2.7,(6 cyl),Man-6,4WD,Gasoline,CL,TLEV,2ADXV02.7333,SUV,1,N/A,14,19,16,20.7883,4,no
+AUDI S4,2.7,(6 cyl),Auto-S5,4WD,Gasoline,CL,TLEV,2ADXV02.7333,small car,1,N/A,15,22,18,22.9022,5,no
+AUDI S4,2.7,(6 cyl),Man-6,4WD,Gasoline,CL,TLEV,2ADXV02.7333,small car,1,N/A,15,22,18,22.9027,5,no
+AUDI S4 Avant,2.7,(6 cyl),Auto-S5,4WD,Gasoline,CL,TLEV,2ADXV02.7333,station wagon,1,N/A,15,22,18,22.9022,5,no
+AUDI S4 Avant,2.7,(6 cyl),Man-6,4WD,Gasoline,CL,TLEV,2ADXV02.7333,station wagon,1,N/A,15,22,18,22.9027,5,no
+AUDI S6 Avant,4.2,(8 cyl),Auto-S5,4WD,Gasoline,CL,TLEV,2ADXV04.2335,station wagon,1,N/A,12,19,15,18.7181,3,no
+AUDI S8,4.2,(8 cyl),Auto-S5,4WD,Gasoline,CL,TLEV,2ADXV04.2335,midsize car,1,N/A,13,20,15,19.8136,3,no
+AUDI TT Coupe,1.8,(4 cyl),Man-5,4WD,Gasoline,CL,LEV,2ADXV01.8347,small car,2,N/A,18,27,21,27.5532,6,no
+AUDI TT Coupe,1.8,(4 cyl),Man-5,2WD,Gasoline,CL,LEV,2ADXV01.8346,small car,2,N/A,20,29,23,30.5489,7,no
+AUDI TT Coupe,1.8,(4 cyl),Man-6,4WD,Gasoline,CL,TLEV,2ADXV01.8336,small car,1,N/A,18,26,21,26.9692,6,no
+AUDI TT Roadster,1.8,(4 cyl),Man-5,2WD,Gasoline,CL,LEV,2ADXV01.8346,small car,2,N/A,20,28,23,29.8651,7,no
+AUDI TT Roadster,1.8,(4 cyl),Man-6,4WD,Gasoline,CL,TLEV,2ADXV01.8336,small car,1,N/A,18,26,21,26.9692,6,no
+BENTLEY Arnage,6.8,(8 cyl),Auto-L4,2WD,Gasoline,CL,TLEV,2RRXV06.7TTC,midsize car,1,N/A,9,14,11,13.7887,0,no
+BMW 325ci,2.5,(6 cyl),Auto-S5,2WD,Gasoline,NF,LEV,2BMXV03.0LER,small car,2,N/A,17,24,20,25.659,6,no
+BMW 325ci,2.5,(6 cyl),Man-5,2WD,Gasoline,NF,LEV,2BMXV03.0LER,small car,2,N/A,18,27,21,27.5864,6,no
+BMW 325ci Convertible,2.5,(6 cyl),Auto-S5,2WD,Gasoline,NF,LEV,2BMXV03.0LER,small car,2,N/A,17,24,19,24.8053,5,no
+BMW 325ci Convertible,2.5,(6 cyl),Man-5,2WD,Gasoline,NF,LEV,2BMXV03.0LER,small car,2,N/A,17,24,19,25.2462,5,no
+BMW 325i,2.5,(6 cyl),Auto-S5,2WD,Gasoline,NF,LEV,2BMXV03.0LER,small car,2,N/A,17,24,20,25.659,6,no
+BMW 325i,2.5,(6 cyl),Man-5,2WD,Gasoline,NF,LEV,2BMXV03.0LER,small car,2,N/A,18,27,21,27.5864,6,no
+BMW 325i Sport Wagon,2.5,(6 cyl),Auto-S5,2WD,Gasoline,NF,LEV,2BMXV03.0LER,station wagon,2,N/A,17,24,20,25.659,6,no
+BMW 325i Sport Wagon,2.5,(6 cyl),Man-5,2WD,Gasoline,NF,LEV,2BMXV03.0LER,station wagon,2,N/A,18,27,21,27.5864,6,no
+BMW 325xi,2.5,(6 cyl),Auto-S5,4WD,Gasoline,NF,LEV,2BMXV03.0LER,small car,2,N/A,17,23,19,24.884,5,no
+BMW 325xi,2.5,(6 cyl),Man-5,4WD,Gasoline,NF,LEV,2BMXV03.0LER,small car,2,N/A,17,25,20,26.0205,6,no
+BMW 325xi Sport Wagon,2.5,(6 cyl),Auto-S5,4WD,Gasoline,NF,LEV,2BMXV03.0LER,station wagon,2,N/A,17,23,19,24.884,5,no
+BMW 325xi Sport Wagon,2.5,(6 cyl),Man-5,4WD,Gasoline,NF,LEV,2BMXV03.0LER,station wagon,2,N/A,17,24,20,25.3682,6,no
+BMW 330ci,3,(6 cyl),Auto-L5,2WD,Gasoline,NF,ULEV,2BMXV03.0M5R,small car,3,N/A,17,25,20,25.8195,6,no
+BMW 330ci,3,(6 cyl),Man-5,2WD,Gasoline,NF,ULEV,2BMXV03.0M5R,small car,3,N/A,18,27,22,28.0737,6,no
+BMW 330ci Convertible,3,(6 cyl),Auto-L5,2WD,Gasoline,NF,ULEV,2BMXV03.0M5R,small car,3,N/A,16,24,19,24.3396,5,no
+BMW 330ci Convertible,3,(6 cyl),Man-5,2WD,Gasoline,NF,ULEV,2BMXV03.0M5R,small car,3,N/A,17,26,20,26.5365,6,no
+BMW 330i,3,(6 cyl),Auto-L5,2WD,Gasoline,NF,ULEV,2BMXV03.0M5R,small car,3,N/A,17,25,20,25.8195,6,no
+BMW 330i,3,(6 cyl),Man-5,2WD,Gasoline,NF,ULEV,2BMXV03.0M5R,small car,3,N/A,18,27,22,28.0737,6,no
+BMW 330xi,3,(6 cyl),Auto-L5,4WD,Gasoline,NF,LEV,2BMXV03.0LER,small car,2,N/A,16,23,18,23.4815,5,no
+BMW 330xi,3,(6 cyl),Man-5,4WD,Gasoline,NF,LEV,2BMXV03.0LER,small car,2,N/A,18,25,20,26.3894,6,no
+BMW 525i,2.5,(6 cyl),Auto-S5,2WD,Gasoline,NF,LEV,2BMXV03.0LER,small car,2,N/A,17,24,20,25.659,6,no
+BMW 525i,2.5,(6 cyl),Man-5,2WD,Gasoline,NF,LEV,2BMXV03.0LER,small car,2,N/A,18,27,21,27.5864,6,no
+BMW 525i Sport Wagon,2.5,(6 cyl),Auto-S5,2WD,Gasoline,NF,LEV,2BMXV03.0LER,station wagon,2,N/A,17,24,19,24.8053,5,no
+BMW 525i Sport Wagon,2.5,(6 cyl),Man-5,2WD,Gasoline,NF,LEV,2BMXV03.0LER,station wagon,2,N/A,17,24,19,25.2462,5,no
+BMW 530i,3,(6 cyl),Auto-L5,2WD,Gasoline,NF,ULEV,2BMXV03.0M5R,small car,3,N/A,16,24,19,24.3396,5,no
+BMW 530i,3,(6 cyl),Man-5,2WD,Gasoline,NF,ULEV,2BMXV03.0M5R,small car,3,N/A,18,27,22,28.0737,6,no
+BMW 540i,4.4,(8 cyl),Auto-S5,2WD,Gasoline,NF,LEV,2BMXV04.4LEV,small car,2,N/A,14,19,16,20.4457,4,no
+BMW 540i,4.4,(8 cyl),Man-6,2WD,Gasoline,NF,LEV,2BMXV04.4LEV,small car,2,N/A,14,21,16,21.0902,4,no
+BMW 540i,4.4,(8 cyl),Auto-L5,2WD,Gasoline,NF,LEV,2BMXV04.4LEV,small car,2,N/A,16,22,18,23.7738,5,no
+BMW 540i Sport Wagon,4.4,(8 cyl),Auto-S5,2WD,Gasoline,NF,LEV,2BMXV04.4LEV,station wagon,2,N/A,14,19,16,20.4457,4,no
+BMW 745i,4.4,(8 cyl),Auto-L6,2WD,Gasoline,NF,LEV,2BMXV04.4LEV,large car,2,N/A,16,24,19,24.4303,5,no
+BMW 745li,4.4,(8 cyl),Auto-L6,2WD,Gasoline,NF,LEV,2BMXV04.4LEV,large car,2,N/A,16,24,19,24.4303,5,no
+BMW M3,3.2,(6 cyl),Auto-S6,2WD,Gasoline,NF,LEV,2BMXV03.2S54,small car,2,N/A,15,21,17,22.1167,4,no
+BMW M3 Convertible,3.2,(6 cyl),Auto-S6,2WD,Gasoline,NF,LEV,2BMXV03.2S54,small car,2,N/A,14,20,16,21.2583,4,no
+BMW M5,4.9,(8 cyl),Man-6,2WD,Gasoline,CL,TLEV,2BMXV04.9S62,small car,1,N/A,12,19,15,18.5963,3,no
+BMW Mini Cooper,1.6,(4 cyl),Auto-AV,2WD,Gasoline,NF,LEV,2BMXV01.6R50,small car,2,N/A,22,29,25,32.3652,7,no
+BMW X5,3,(6 cyl),Auto-S5,4WD,Gasoline,CA,ULEV,2BMXT03.0E5R,SUV,1,N/A,14,19,16,20.2177,4,no
+BMW X5,3,(6 cyl),Man-5,4WD,Gasoline,CA,ULEV,2BMXT03.0E5R,SUV,1,N/A,14,19,16,20.3127,4,no
+BMW X5,4.4,(8 cyl),Auto-L5,4WD,Gasoline,CA,LEV,2BMXT04.4E53,SUV,1,N/A,12,16,14,17.4521,2,no
+BMW X5,4.6,(8 cyl),Auto-S5,4WD,Gasoline,CA,LEV,2BMXT04.6XHP,SUV,1,N/A,11,16,13,16.3911,1,no
+BMW X5,3,(6 cyl),Auto-S5,4WD,Gasoline,FA,T1,2BMXT03.0E5R,SUV,0,N/A,14,19,16,20.2177,4,no
+BMW X5,3,(6 cyl),Man-5,4WD,Gasoline,FA,T1,2BMXT03.0E5R,SUV,0,N/A,14,19,16,20.3127,4,no
+BMW X5,4.4,(8 cyl),Auto-L5,4WD,Gasoline,FA,T1,2BMXT04.4E53,SUV,0,N/A,12,16,14,17.4521,2,no
+BMW X5,4.6,(8 cyl),Auto-S5,4WD,Gasoline,FA,T1,2BMXT04.6XHP,SUV,0,N/A,11,16,13,16.3911,1,no
+BMW Z3 Coupe,3,(6 cyl),Auto-L5,2WD,Gasoline,NF,ULEV,2BMXV03.0M5R,small car,3,N/A,17,25,20,25.8195,6,no
+BMW Z3 Coupe,3,(6 cyl),Man-5,2WD,Gasoline,NF,ULEV,2BMXV03.0M5R,small car,3,N/A,19,26,21,27.879,6,no
+BMW Z3 Roadster,3,(6 cyl),Auto-L5,2WD,Gasoline,NF,ULEV,2BMXV03.0M5R,small car,3,N/A,17,23,19,24.7573,5,no
+BMW Z3 Roadster,3,(6 cyl),Man-5,2WD,Gasoline,NF,ULEV,2BMXV03.0M5R,small car,3,N/A,19,26,21,27.879,6,no
+BMW Z3 Roadster,2.5,(6 cyl),Auto-S5,2WD,Gasoline,NF,LEV,2BMXV03.0LER,small car,2,N/A,17,24,20,25.5414,6,no
+BMW Z3 Roadster,2.5,(6 cyl),Man-5,2WD,Gasoline,NF,LEV,2BMXV03.0LER,small car,2,N/A,18,25,20,26.4684,6,no
+BMW Z8,4.9,(8 cyl),Man-6,2WD,Gasoline,CL,TLEV,2BMXV04.9S62,small car,1,N/A,12,19,15,18.5963,3,no
+BUICK Century,3.1,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2GMXV03.8043,midsize car,2,N/A,18,26,21,27.0691,6,no
+BUICK LeSabre,3.8,(6 cyl),Auto-L4,2WD,Gasoline,CA,ULEV,2GMXV03.8044,large car,3,N/A,17,27,21,26.7043,6,no
+BUICK LeSabre,3.8,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2GMXV03.8043,large car,2,N/A,17,27,21,26.7043,6,no
+BUICK Park Avenue,3.8,(6 cyl),Auto-L4,2WD,Gasoline,CA,ULEV,2GMXV03.8044,large car,3,N/A,17,27,21,26.7043,6,no
+BUICK Park Avenue,3.8,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2GMXV03.8043,large car,2,N/A,16,25,19,24.5463,5,no
+BUICK Park Avenue,3.8,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2GMXV03.8043,large car,2,N/A,17,27,21,26.7043,6,no
+BUICK Regal,3.8,(6 cyl),Auto-L4,2WD,Gasoline,CA,ULEV,2GMXV03.8044,midsize car,3,N/A,17,27,20,26.502,6,no
+BUICK Regal,3.8,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2GMXV03.8043,midsize car,2,N/A,16,25,19,24.5463,5,no
+BUICK Regal,3.8,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2GMXV03.8043,midsize car,2,N/A,17,27,20,26.502,6,no
+BUICK Rendezvous,3.4,(6 cyl),Auto-L4,2WD,Gasoline,CA,ULEV,2GMXT03.4142,SUV,2,N/A,17,24,20,25.3963,6,no
+BUICK Rendezvous,3.4,(6 cyl),Auto-L4,4WD,Gasoline,CA,ULEV,2GMXT03.4142,SUV,2,N/A,16,22,18,23.565,5,no
+BUICK Rendezvous,3.4,(6 cyl),Auto-L4,2WD,Gasoline,NL,LEV,2GMXT03.4141,SUV,1,N/A,17,24,20,25.3963,6,no
+BUICK Rendezvous,3.4,(6 cyl),Auto-L4,4WD,Gasoline,NL,LEV,2GMXT03.4141,SUV,1,N/A,16,22,18,23.565,5,no
+CADILLAC Deville,4.6,(8 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2GMXV04.6065,large car,2,N/A,16,25,19,24.2432,5,no
+CADILLAC Eldorado,4.6,(8 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2GMXV04.6065,midsize car,2,N/A,16,25,19,24.2432,5,no
+CADILLAC Escalade,5.3,(8 cyl),Auto-L4,2WD,Gasoline,CA,ULEV,2GMXA05.3185,SUV,1,N/A,13,17,14,18.4479,2,no
+CADILLAC Escalade,5.3,(8 cyl),Auto-L4,2WD,Gasoline,FA,T1,2GMXT05.3182,SUV,0,N/A,13,17,14,18.4479,2,no
+CADILLAC Escalade,6,(8 cyl),Auto-L4,4WD,Gasoline,CA,LEV,2GMXA06.0194,SUV,0,N/A,10,14,12,15.031,0,no
+CADILLAC Escalade,6,(8 cyl),Auto-L4,4WD,Gasoline,FA,T1,2GMXT06.0187,SUV,0,N/A,10,14,12,15.031,0,no
+CADILLAC Limousine,4.6,(8 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2GMXV04.6066,large car,2,N/A,13,20,15,19.6935,3,no
+CADILLAC Seville,4.6,(8 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2GMXV04.6065,midsize car,2,N/A,16,25,19,24.2432,5,no
+CHEVROLET Astro,4.3,(6 cyl),Auto-L4,4WD,Gasoline,NL+CF,LEV,2GMXT04.3183,van,1,N/A,14,18,15,19.8471,3,no
+CHEVROLET Astro,4.3,(6 cyl),Auto-L4,4WD,Gasoline,CL,LEV,2GMXT04.3188,van,1,N/A,14,18,15,19.8471,3,no
+CHEVROLET Astro,4.3,(6 cyl),Auto-L4,2WD,Gasoline,NL+CF,LEV,2GMXT04.3183,van,1,N/A,15,20,17,22.2491,4,no
+CHEVROLET Astro,4.3,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2GMXT04.3188,van,1,N/A,15,20,17,22.2491,4,no
+CHEVROLET Astro,4.3,(6 cyl),Auto-L4,2WD,Gasoline,NL+CF,LEV,2GMXT04.3183,van,1,N/A,14,18,16,20.076,4,no
+CHEVROLET Astro,4.3,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2GMXT04.3188,van,1,N/A,14,18,16,20.076,4,no
+CHEVROLET Astro,4.3,(6 cyl),Auto-L4,4WD,Gasoline,CA,ULEV,2GMXA04.3189,van,1,N/A,13,17,15,19.0098,3,no
+CHEVROLET Astro,4.3,(6 cyl),Auto-L4,4WD,Gasoline,FA,T1,2GMXT04.3181,van,0,N/A,14,18,15,19.8471,3,no
+CHEVROLET Astro,4.3,(6 cyl),Auto-L4,4WD,Gasoline,FA,T1,2GMXT04.3181,van,0,N/A,13,17,15,19.0098,3,no
+CHEVROLET Avalanche 1500,5.3,(8 cyl),Auto-L4,2WD,Gasoline,CA,ULEV,2GMXA05.3185,SUV,1,N/A,13,17,14,18.2973,2,no
+CHEVROLET Avalanche 1500,5.3,(8 cyl),Auto-L4,4WD,Gasoline,CA,ULEV,2GMXA05.3185,SUV,1,N/A,12,15,13,16.9778,1,no
+CHEVROLET Avalanche 1500,5.3,(8 cyl),Auto-L4,2WD,Gasoline,FA,T1,2GMXT05.3182,SUV,0,N/A,13,17,14,18.2973,2,no
+CHEVROLET Avalanche 1500,5.3,(8 cyl),Auto-L4,4WD,Gasoline,FA,T1,2GMXT05.3182,SUV,0,N/A,12,15,13,16.9778,1,no
+CHEVROLET Avalanche 2500,8.1,,,2WD,Gasoline,CA,LEV,2GMXA08.1201,SUV,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+CHEVROLET Avalanche 2500,8.1,,,4WD,Gasoline,CA,LEV,2GMXA08.1201,SUV,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+CHEVROLET Blazer,4.3,(6 cyl),Man-5,2WD,Gasoline,NL+CF,LEV,2GMXT04.3182,SUV,1,N/A,14,20,16,20.8677,4,no
+CHEVROLET Blazer,4.3,(6 cyl),Man-5,2WD,Gasoline,CL,LEV,2GMXT04.3187,SUV,1,N/A,14,20,16,20.8677,4,no
+CHEVROLET Blazer,4.3,(6 cyl),Auto-L4,2WD,Gasoline,NL+CF,LEV,2GMXT04.3182,SUV,1,N/A,15,20,17,22.2491,4,no
+CHEVROLET Blazer,4.3,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2GMXT04.3187,SUV,1,N/A,15,20,17,22.2491,4,no
+CHEVROLET Blazer,4.3,(6 cyl),Man-5,4WD,Gasoline,CL,LEV,2GMXT04.3187,SUV,1,N/A,12,16,14,17.6413,2,no
+CHEVROLET Blazer,4.3,(6 cyl),Auto-L4,4WD,Gasoline,NL+CF,LEV,2GMXT04.3182,SUV,1,N/A,14,18,15,19.8471,3,no
+CHEVROLET Blazer,4.3,(6 cyl),Auto-L4,4WD,Gasoline,CL,LEV,2GMXT04.3187,SUV,1,N/A,14,18,15,19.8471,3,no
+CHEVROLET Camaro,3.8,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2GMXV03.8043,small car,2,N/A,17,28,21,26.8254,6,no
+CHEVROLET Camaro,3.8,(6 cyl),Man-5,2WD,Gasoline,CL,LEV,2GMXV03.8043,small car,2,N/A,17,29,21,26.8862,6,no
+CHEVROLET Camaro,5.7,(8 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2GMXV05.7081,small car,2,N/A,16,23,19,23.9926,5,no
+CHEVROLET Camaro,5.7,(8 cyl),Man-6,2WD,Gasoline,CL,LEV,2GMXV05.7081,small car,2,N/A,17,26,20,26.019,6,no
+CHEVROLET Cavalier,2.2,(4 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2GMXV02.4022,small car,2,N/A,21,30,24,31.5689,7,no
+CHEVROLET Cavalier,2.2,(4 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2GMXV02.4022,small car,2,N/A,21,30,24,31.6475,7,no
+CHEVROLET Cavalier,2.2,(4 cyl),Man-5,2WD,Gasoline,CL,LEV,2GMXV02.4022,small car,2,N/A,22,30,25,32.6572,7,no
+CHEVROLET Cavalier,2.4,(4 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2GMXV02.4022,small car,2,N/A,18,26,21,27.541,6,no
+CHEVROLET Cavalier,2.4,(4 cyl),Man-5,2WD,Gasoline,CL,LEV,2GMXV02.4022,small car,2,N/A,19,29,23,29.5762,7,no
+CHEVROLET Cavalier,2.2,(4 cyl),Man-5,2WD,Gasoline,CL,TLEV,2GMXV02.2024,small car,1,N/A,21,30,24,31.7398,7,no
+CHEVROLET Cavalier Dual-Fuel,2.2,(4 cyl),Auto-4,2WD,CNG/gas,NF,LEV,2TJXV02.2022,small car,2/2,N/A,18/20,25/28,21/23,27.1163,7/7,no
+CHEVROLET Corvette,5.7,(8 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2GMXV05.7081,small car,2,N/A,16,23,19,23.9435,5,no
+CHEVROLET Corvette,5.7,(8 cyl),Man-6,2WD,Gasoline,CL,LEV,2GMXV05.7081,small car,2,N/A,17,26,20,26.0713,6,no
+CHEVROLET Corvette,5.7,(8 cyl),Man-6,2WD,Gasoline,CL,LEV,2GMXV05.7082,small car,2,N/A,17,26,20,26.0713,6,no
+CHEVROLET Express 1500,4.3,(6 cyl),Auto-L4,2WD,Gasoline,CA,LEV,2GMXA04.3192,van,1,N/A,13,16,14,18.2743,2,no
+CHEVROLET Express 1500,4.3,(6 cyl),Auto-L4,2WD,Gasoline,FA+CF,LEV,2GMXT04.3193,van,0,N/A,13,16,14,18.2743,2,no
+CHEVROLET Express 1500,4.3,(6 cyl),Auto-L4,2WD,Gasoline,FA,T1,2GMXT04.3185,van,0,N/A,13,16,14,18.2743,2,no
+CHEVROLET Express 1500,5,(8 cyl),Auto-L4,2WD,Gasoline,FA,T1,2GMXT05.0182,van,0,N/A,13,17,15,18.7116,3,no
+CHEVROLET Express 1500,5,(8 cyl),Auto-L4,2WD,Gasoline,CA,T1,2GMXT05.0182,van,0,N/A,13,17,15,18.7116,3,no
+CHEVROLET Express 1500,5.7,(8 cyl),Auto-L4,2WD,Gasoline,FA+CF,LEV,2GMXT05.7195,van,0,N/A,12,16,14,17.346,2,no
+CHEVROLET Express 1500,5.7,(8 cyl),Auto-L4,2WD,Gasoline,CA,LEV,2GMXA06.0194,van,0,N/A,12,16,14,17.346,2,no
+CHEVROLET Express 1500,5.7,(8 cyl),Auto-L4,2WD,Gasoline,FA,T1,2GMXT06.0187,van,0,N/A,12,16,14,17.346,2,no
+CHEVROLET Express 2500,4.3,(6 cyl),Auto-L4,2WD,Gasoline,CA,LEV,2GMXA04.3192,van,1,N/A,13,16,14,18.2743,2,no
+CHEVROLET Express 2500,4.3,(6 cyl),Auto-L4,2WD,Gasoline,FA+CF,LEV,2GMXT04.3193,van,0,N/A,13,16,14,18.2743,2,no
+CHEVROLET Express 2500,4.3,(6 cyl),Auto-L4,2WD,Gasoline,FA,T1,2GMXT04.3185,van,0,N/A,13,16,14,18.2743,2,no
+CHEVROLET Express 2500,5,(8 cyl),Auto-L4,2WD,Gasoline,FA,T1,2GMXT05.0182,van,0,N/A,13,17,15,18.7116,3,no
+CHEVROLET Express 2500,5,(8 cyl),Auto-L4,2WD,Gasoline,CA,T1,2GMXT05.0182,van,0,N/A,13,17,15,18.7116,3,no
+CHEVROLET Express 2500,5.7,(8 cyl),Auto-L4,2WD,Gasoline,FA+CF,LEV,2GMXT05.7195,van,0,N/A,12,16,14,17.346,2,no
+CHEVROLET Express 2500,5.7,(8 cyl),Auto-L4,2WD,Gasoline,CA,LEV,2GMXA06.0194,van,0,N/A,12,16,14,17.346,2,no
+CHEVROLET Express 2500,5.7,(8 cyl),Auto-L4,2WD,Gasoline,FA,T1,2GMXT06.0187,van,0,N/A,12,16,14,17.346,2,no
+CHEVROLET Express 2500 Dual-Fuel,5.7,,,,CNG/gas,CA,LEV,2TJXT05.7188,van,0/0,N/A,N/A,N/A,N/A,N/A,N/A,no
+CHEVROLET Express 3500,5.7,,,,Gasoline,CA,LEV,2GMXA06.0188,van,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+CHEVROLET Express 3500,6,,,,Gasoline,CA,LEV,2GMXA06.0188,van,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+CHEVROLET Express 3500,8.1,,,,Gasoline,CA,LEV,2GMXA08.1201,van,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+CHEVROLET Express 3500 Dual-Fuel,5.7,,,,CNG/gas,CA,LEV,2TJXT05.7188,van,0/0,N/A,N/A,N/A,N/A,N/A,N/A,no
+CHEVROLET Impala,3.8,(6 cyl),Auto-L4,2WD,Gasoline,CA,ULEV,2GMXV03.8044,large car,3,N/A,17,27,20,26.502,6,no
+CHEVROLET Impala,3.4,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2GMXV03.8043,large car,2,N/A,19,29,22,29.2549,6,no
+CHEVROLET Impala,3.8,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2GMXV03.8043,large car,2,N/A,16,26,20,25.2968,6,no
+CHEVROLET Impala,3.8,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2GMXV03.8043,large car,2,N/A,17,27,20,26.502,6,no
+CHEVROLET Malibu,3.1,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2GMXV03.8043,midsize car,2,N/A,18,26,21,27.0691,6,no
+CHEVROLET Monte Carlo,3.8,(6 cyl),Auto-L4,2WD,Gasoline,CA,ULEV,2GMXV03.8044,midsize car,3,N/A,17,27,20,26.502,6,no
+CHEVROLET Monte Carlo,3.4,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2GMXV03.8043,midsize car,2,N/A,19,29,22,29.2549,6,no
+CHEVROLET Monte Carlo,3.8,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2GMXV03.8043,midsize car,2,N/A,17,27,20,26.502,6,no
+CHEVROLET Prizm,1.8,(4 cyl),Auto-L3,2WD,Gasoline,CL,LEV,2NTXV01.8FFA,small car,2,N/A,25,30,27,35.9588,8,no
+CHEVROLET Prizm,1.8,(4 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2NTXV01.8FFA,small car,2,N/A,26,36,30,39.8566,8,no
+CHEVROLET Prizm,1.8,(4 cyl),Man-5,2WD,Gasoline,CL,LEV,2NTXV01.8FFA,small car,2,N/A,27,37,31,41.5815,9,no
+CHEVROLET S10,2.2,(4 cyl),Auto-L4,2WD,Gasoline,NF,LEV,2GMXT02.2122,pickup,2,N/A,17,23,19,24.7686,5,no
+CHEVROLET S10,2.2,(4 cyl),Man-5,2WD,Gasoline,NF,LEV,2GMXT02.2122,pickup,2,N/A,19,25,22,28.3953,6,no
+CHEVROLET S10,4.3,(6 cyl),Man-5,2WD,Gasoline,CL,LEV,2GMXT04.3186,pickup,2,N/A,14,20,16,21.1548,4,no
+CHEVROLET S10,4.3,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2GMXT04.3186,pickup,2,N/A,15,20,17,22.2783,4,no
+CHEVROLET S10,4.3,(6 cyl),Man-5,2WD,Gasoline,NL+CF,LEV,2GMXT04.3182,pickup,1,N/A,14,20,16,21.1548,4,no
+CHEVROLET S10,4.3,(6 cyl),Man-5,2WD,Gasoline,CL,LEV,2GMXT04.3187,pickup,1,N/A,14,20,16,21.1548,4,no
+CHEVROLET S10,4.3,(6 cyl),Auto-L4,2WD,Gasoline,NL+CF,LEV,2GMXT04.3182,pickup,1,N/A,15,20,17,22.2783,4,no
+CHEVROLET S10,4.3,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2GMXT04.3187,pickup,1,N/A,15,20,17,22.2783,4,no
+CHEVROLET S10,4.3,(6 cyl),Man-5,4WD,Gasoline,NL+CF,LEV,2GMXT04.3182,pickup,1,N/A,12,16,14,17.6413,2,no
+CHEVROLET S10,4.3,(6 cyl),Man-5,4WD,Gasoline,CL,LEV,2GMXT04.3187,pickup,1,N/A,12,16,14,17.6413,2,no
+CHEVROLET S10,4.3,(6 cyl),Auto-L4,4WD,Gasoline,NL+CF,LEV,2GMXT04.3182,pickup,1,N/A,14,18,15,19.8471,3,no
+CHEVROLET S10,4.3,(6 cyl),Auto-L4,4WD,Gasoline,CL,LEV,2GMXT04.3187,pickup,1,N/A,14,18,15,19.8471,3,no
+CHEVROLET Silverado 1500,4.8,(8 cyl),Auto-L4,2WD,Gasoline,CA,LEV,2GMXA04.8183,pickup,1,N/A,14,18,15,19.9382,3,no
+CHEVROLET Silverado 1500,4.8,(8 cyl),Man-5,4WD,Gasoline,CA,LEV,2GMXA04.8183,pickup,1,N/A,12,16,14,17.4651,2,no
+CHEVROLET Silverado 1500,4.8,(8 cyl),Auto-L4,4WD,Gasoline,CA,LEV,2GMXA04.8183,pickup,1,N/A,13,16,14,18.3477,2,no
+CHEVROLET Silverado 1500,5.3,(8 cyl),Auto-L4,2WD,Gasoline,CA,ULEV,2GMXA05.3187,pickup,1,N/A,13,17,15,18.928,3,no
+CHEVROLET Silverado 1500,5.3,(8 cyl),Auto-L4,4WD,Gasoline,CA,ULEV,2GMXA05.3187,pickup,1,N/A,13,16,14,17.847,2,no
+CHEVROLET Silverado 1500,5.3,(8 cyl),Auto-L4,4WD,Gasoline,CA,ULEV,2GMXA05.3185,pickup,1,N/A,13,16,14,17.847,2,no
+CHEVROLET Silverado 1500,4.3,(6 cyl),Auto-L4,2WD,Gasoline,FA,T1,2GMXT04.3184,pickup,0,N/A,14,18,16,20.076,4,no
+CHEVROLET Silverado 1500,4.3,(6 cyl),Man-5,2WD,Gasoline,FA,T1,2GMXT04.3184,pickup,0,N/A,15,19,16,21.2604,4,no
+CHEVROLET Silverado 1500,4.3,(6 cyl),Man-5,4WD,Gasoline,FA,T1,2GMXT04.3184,pickup,0,N/A,13,16,14,17.9971,2,no
+CHEVROLET Silverado 1500,4.3,(6 cyl),Auto-L4,4WD,Gasoline,FA,T1,2GMXT04.3184,pickup,0,N/A,13,17,15,19.0098,3,no
+CHEVROLET Silverado 1500,4.8,(8 cyl),Auto-L4,2WD,Gasoline,FA,T1,2GMXT05.3181,pickup,0,N/A,14,18,15,19.9382,3,no
+CHEVROLET Silverado 1500,4.8,(8 cyl),Man-5,2WD,Gasoline,FA,T1,2GMXT05.3181,pickup,0,N/A,14,19,16,20.7897,4,no
+CHEVROLET Silverado 1500,4.8,(8 cyl),Man-5,4WD,Gasoline,FA,T1,2GMXT05.3181,pickup,0,N/A,12,16,14,17.4651,2,no
+CHEVROLET Silverado 1500,4.8,(8 cyl),Auto-L4,4WD,Gasoline,FA,T1,2GMXT05.3181,pickup,0,N/A,13,16,14,18.3477,2,no
+CHEVROLET Silverado 1500,5.3,(8 cyl),Auto-L4,2WD,Gasoline,FA,T1,2GMXT05.3181,pickup,0,N/A,13,17,15,18.928,3,no
+CHEVROLET Silverado 1500,5.3,(8 cyl),Auto-L4,2WD,Gasoline,FA,T1,2GMXT05.3177,pickup,0,N/A,13,17,15,18.946,3,no
+CHEVROLET Silverado 1500,5.3,(8 cyl),Auto-L4,4WD,Gasoline,FA,T1,2GMXT05.3177,pickup,0,N/A,12,16,14,17.6267,2,no
+CHEVROLET Silverado 1500,5.3,(8 cyl),Auto-L4,4WD,Gasoline,FA,T1,2GMXT05.3181,pickup,0,N/A,13,16,14,17.847,2,no
+CHEVROLET Silverado 1500,5.3,(8 cyl),Auto-L4,4WD,Gasoline,FA,T1,2GMXT05.3182,pickup,0,N/A,13,16,14,17.847,2,no
+CHEVROLET Silverado 2500,5.7,,,2WD,Gasoline,CA,LEV,2GMXA06.0188,pickup,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+CHEVROLET Silverado 2500,5.7,,,4WD,Gasoline,CA,LEV,2GMXA06.0188,pickup,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+CHEVROLET Silverado 2500,6,,,2WD,CNG,CA,LEV,2TJXT06.0TCU,pickup,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+CHEVROLET Silverado 2500,6,(8 cyl),Auto-L4,2WD,CNG,CA,LEV,2TJXT06.0TCU,pickup,0,N/A,10,12,11,13.8707,1,no
+CHEVROLET Silverado 2500,6,(8 cyl),Auto-L4,2WD,Gasoline,CA,LEV,2TJXT06.0188,pickup,0,N/A,10,13,11,14.3109,0,no
+CHEVROLET Silverado 2500,6,,,4WD,CNG,CA,LEV,2TJXT06.0TCU,pickup,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+CHEVROLET Silverado 2500,6,,,2WD,Gasoline,CA,LEV,2GMXA06.0188,pickup,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+CHEVROLET Silverado 2500,6,,,4WD,Gasoline,CA,LEV,2GMXA06.0188,pickup,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+CHEVROLET Silverado 2500,8.1,,,2WD,Gasoline,CA,LEV,2GMXA08.1201,pickup,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+CHEVROLET Silverado 2500,8.1,,,4WD,Gasoline,CA,LEV,2GMXA08.1201,pickup,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+CHEVROLET Silverado 2500,6,,,2WD,CNG/gas,CA,LEV,2TJXT06.0188,pickup,0/0,N/A,N/A,N/A,N/A,N/A,N/A,no
+CHEVROLET Silverado 2500,6,,,4WD,CNG/gas,CA,LEV,2TJXT06.0188,pickup,0/0,N/A,N/A,N/A,N/A,N/A,N/A,no
+CHEVROLET Silverado 2500,6,,,2WD,CNG/gas,CF,N/A*,2TJXT06.0188,pickup,N/A*,N/A,N/A,N/A,N/A,N/A*,N/A*,N/A*
+CHEVROLET Silverado 2500,6,,,2WD,CNG,CF,N/A*,2TJXT06.0TCU,pickup,N/A*,N/A,N/A,N/A,N/A,N/A*,N/A*,N/A*
+CHEVROLET Silverado 2500,6,(8 cyl),Auto-L4,2WD,CNG,CF,N/A*,2TJXT06.0TCU,pickup,N/A*,N/A,N/A*,N/A*,N/A*,N/A*,N/A*,N/A*
+CHEVROLET Silverado 2500,6,(8 cyl),Auto-L4,2WD,Gasoline,CF,N/A*,2TJXT06.0188,pickup,N/A*,N/A,N/A*,N/A*,N/A*,N/A*,N/A*,N/A*
+CHEVROLET Silverado 2500,6,,,4WD,CNG/gas,CF,N/A*,2TJXT06.0188,pickup,N/A*,N/A,N/A,N/A,N/A,N/A*,N/A*,N/A*
+CHEVROLET Silverado 2500,6,,,4WD,CNG,CF,N/A*,2TJXT06.0TCU,pickup,N/A*,N/A,N/A,N/A,N/A,N/A*,N/A*,N/A*
+CHEVROLET Silverado 3500,5.7,,,2WD,Gasoline,CA,LEV,2GMXA06.0188,pickup,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+CHEVROLET Silverado 3500,5.7,,,4WD,Gasoline,CA,LEV,2GMXA06.0188,pickup,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+CHEVROLET Silverado 3500,6,,,2WD,Gasoline,CA,LEV,2GMXA06.0188,pickup,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+CHEVROLET Silverado 3500,6,,,4WD,Gasoline,CA,LEV,2GMXA06.0188,pickup,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+CHEVROLET Silverado 3500,8.1,,,2WD,Gasoline,CA,LEV,2GMXA08.1203,pickup,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+CHEVROLET Silverado 3500,8.1,,,4WD,Gasoline,CA,LEV,2GMXA08.1203,pickup,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+CHEVROLET Suburban 1500,5.3,(8 cyl),Auto-L4,2WD,Gasoline,CA,ULEV,2GMXA05.3185,SUV,1,N/A,13,17,14,18.4479,2,no
+CHEVROLET Suburban 1500,5.3,(8 cyl),Auto-L4,4WD,Gasoline,CA,ULEV,2GMXA05.3185,SUV,1,N/A,12,15,13,16.9778,1,no
+CHEVROLET Suburban 1500,5.3,(8 cyl),Auto-L4,2WD,Gasoline,FA,T1,2GMXT05.3188,SUV,0,N/A,13,17,14,18.3529,2,no
+CHEVROLET Suburban 1500,5.3,(8 cyl),Auto-L4,4WD,Gasoline,FA,T1,2GMXT05.3188,SUV,0,N/A,12,16,14,17.4032,2,no
+CHEVROLET Suburban 2500,5.7,,,2WD,Gasoline,CA,LEV,2GMXA06.0188,SUV,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+CHEVROLET Suburban 2500,5.7,,,4WD,Gasoline,CA,LEV,2GMXA06.0188,SUV,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+CHEVROLET Suburban 2500,6,,,2WD,Gasoline,CA,LEV,2GMXA06.0188,SUV,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+CHEVROLET Suburban 2500,6,,,4WD,Gasoline,CA,LEV,2GMXA06.0188,SUV,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+CHEVROLET Suburban 2500,8.1,,,2WD,Gasoline,CA,LEV,2GMXA08.1201,SUV,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+CHEVROLET Suburban 2500,8.1,,,4WD,Gasoline,CA,LEV,2GMXA08.1201,SUV,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+CHEVROLET Tahoe 1500,5.3,(8 cyl),Auto-L4,2WD,Gasoline,CA,ULEV,2GMXA05.3185,SUV,1,N/A,13,17,14,18.4479,2,no
+CHEVROLET Tahoe 1500,5.3,(8 cyl),Auto-L4,4WD,Gasoline,CA,ULEV,2GMXA05.3185,SUV,1,N/A,13,16,14,17.7557,2,no
+CHEVROLET Tahoe 1500,4.8,(8 cyl),Auto-L4,2WD,Gasoline,CA,LEV,2GMXA04.8184,SUV,0,N/A,13,18,15,19.2452,3,no
+CHEVROLET Tahoe 1500,4.8,(8 cyl),Auto-L4,4WD,Gasoline,CA,LEV,2GMXA04.8184,SUV,0,N/A,13,16,14,17.9971,2,no
+CHEVROLET Tahoe 1500,4.8,(8 cyl),Auto-L4,2WD,Gasoline,FA,T1,2GMXT05.3182,SUV,0,N/A,13,18,15,19.2452,3,no
+CHEVROLET Tahoe 1500,4.8,(8 cyl),Auto-L4,4WD,Gasoline,FA,T1,2GMXT05.3182,SUV,0,N/A,13,16,14,17.9971,2,no
+CHEVROLET Tahoe 1500,5.3,(8 cyl),Auto-L4,2WD,Gasoline,FA,T1,2GMXT05.3188,SUV,0,N/A,13,17,14,18.3529,2,no
+CHEVROLET Tahoe 1500,5.3,(8 cyl),Auto-L4,2WD,Gasoline,FA,T1,2GMXT05.3182,SUV,0,N/A,13,17,14,18.4479,2,no
+CHEVROLET Tahoe 1500,5.3,(8 cyl),Auto-L4,4WD,Gasoline,FA,T1,2GMXT05.3188,SUV,0,N/A,12,16,14,17.5142,2,no
+CHEVROLET Tracker,2,(4 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2SKXX2.00LC4,SUV,2,N/A,20,24,22,28.5011,6,no
+CHEVROLET Tracker,2,(4 cyl),Man-5,2WD,Gasoline,CL,LEV,2SKXX2.00LC4,SUV,2,N/A,20,24,22,28.5011,6,no
+CHEVROLET Tracker,2,(4 cyl),Auto-L4,4WD,Gasoline,CL,LEV,2SKXX2.00LC4,SUV,2,N/A,20,23,21,27.5233,6,no
+CHEVROLET Tracker,2,(4 cyl),Man-5,4WD,Gasoline,CL,LEV,2SKXX2.00LC4,SUV,2,N/A,20,23,21,27.5888,6,no
+CHEVROLET Tracker Convertible,2,(4 cyl),Man-5,2WD,Gasoline,CL,LEV,2SKXX2.00LC4,SUV,2,N/A,20,24,22,28.5011,6,no
+CHEVROLET Tracker Convertible,2,(4 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2SKXX2.00LC4,SUV,2,N/A,20,24,22,28.6082,6,no
+CHEVROLET Tracker Convertible,2,(4 cyl),Auto-L4,4WD,Gasoline,CL,LEV,2SKXX2.00LC4,SUV,2,N/A,20,23,21,27.6619,6,no
+CHEVROLET Tracker Convertible,2,(4 cyl),Man-5,4WD,Gasoline,CL,LEV,2SKXX2.00LC4,SUV,2,N/A,20,23,21,27.8986,6,no
+CHEVROLET Tracker LT,2.5,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2SKXT2.49LC1,SUV,2,N/A,17,19,18,23.0629,5,no
+CHEVROLET Tracker LT,2.5,(6 cyl),Auto-L4,4WD,Gasoline,CL,LEV,2SKXT2.49LC1,SUV,2,N/A,16,19,17,22.3507,4,no
+CHEVROLET Tracker ZR2,2.5,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2SKXT2.49LC1,SUV,2,N/A,16,19,17,22.4524,4,no
+CHEVROLET Tracker ZR2 Convertible,2,(4 cyl),Auto-L4,4WD,Gasoline,CL,LEV,2SKXX2.00LC4,SUV,2,N/A,19,23,21,27.2833,6,no
+CHEVROLET Tracker ZR2 Convertible,2,(4 cyl),Man-5,4WD,Gasoline,CL,LEV,2SKXX2.00LC4,SUV,2,N/A,20,23,21,28.1354,6,no
+CHEVROLET Trailblazer,4.2,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2GMXT04.2185,SUV,1,N/A,14,20,16,20.8709,4,no
+CHEVROLET Trailblazer,4.2,(6 cyl),Auto-L4,4WD,Gasoline,CL,LEV,2GMXT04.2185,SUV,1,N/A,14,20,16,20.5838,4,no
+CHEVROLET Trailblazer,4.2,(6 cyl),Auto-L4,2WD,Gasoline,CA,LEV,2GMXA04.2187,SUV,1,N/A,14,19,16,20.0082,4,no
+CHEVROLET Trailblazer,4.2,(6 cyl),Auto-L4,4WD,Gasoline,CA,LEV,2GMXA04.2187,SUV,1,N/A,14,19,15,19.8854,3,no
+CHEVROLET Trailblazer,4.2,(6 cyl),Auto-L4,2WD,Gasoline,FA,T1,2GMXT04.2188,SUV,0,N/A,14,19,16,20.0082,4,no
+CHEVROLET Trailblazer,4.2,(6 cyl),Auto-L4,4WD,Gasoline,FA,T1,2GMXT04.2188,SUV,0,N/A,14,19,15,19.8854,3,no
+CHEVROLET Van 1500,4.3,(6 cyl),Auto-L4,2WD,Gasoline,CA,LEV,2GMXA04.3192,van,1,N/A,13,17,15,18.9215,3,no
+CHEVROLET Van 1500,4.3,(6 cyl),Auto-L4,2WD,Gasoline,FA+CF,LEV,2GMXT04.3193,van,0,N/A,13,17,15,18.9215,3,no
+CHEVROLET Van 1500,4.3,(6 cyl),Auto-L4,2WD,Gasoline,FA,T1,2GMXT04.3180,van,0,N/A,13,17,15,18.9215,3,no
+CHEVROLET Van 1500,4.3,(6 cyl),Auto-L4,2WD,Gasoline,FA,T1,2GMXT04.3185,van,0,N/A,13,17,15,18.9215,3,no
+CHEVROLET Van 1500,5,(8 cyl),Auto-L4,2WD,Gasoline,FA,T1,2GMXT05.0181,van,0,N/A,13,17,15,19.0459,3,no
+CHEVROLET Van 1500,5,(8 cyl),Auto-L4,2WD,Gasoline,FA,T1,2GMXT05.0182,van,0,N/A,13,17,15,19.0459,3,no
+CHEVROLET Van 1500,5,(8 cyl),Auto-L4,2WD,Gasoline,CA,T1,2GMXT05.0181,van,0,N/A,13,17,15,19.0459,3,no
+CHEVROLET Van 1500,5,(8 cyl),Auto-L4,2WD,Gasoline,CA,T1,2GMXT05.0182,van,0,N/A,13,17,15,19.0459,3,no
+CHEVROLET Van 1500,5.7,(8 cyl),Auto-L4,2WD,Gasoline,FA+CF,LEV,2GMXT05.7195,van,0,N/A,12,16,14,17.7255,2,no
+CHEVROLET Van 1500,5.7,(8 cyl),Auto-L4,2WD,Gasoline,CA,LEV,2GMXA06.0194,van,0,N/A,12,16,14,17.7255,2,no
+CHEVROLET Van 1500,5.7,(8 cyl),Auto-L4,2WD,Gasoline,FA,T1,2GMXT06.0187,van,0,N/A,12,16,14,17.7255,2,no
+CHEVROLET Van 2500,4.3,(6 cyl),Auto-L4,2WD,Gasoline,CA,LEV,2GMXA04.3192,van,1,N/A,13,17,15,18.9215,3,no
+CHEVROLET Van 2500,4.3,(6 cyl),Auto-L4,2WD,Gasoline,FA+CF,LEV,2GMXT04.3193,van,0,N/A,13,17,15,18.9215,3,no
+CHEVROLET Van 2500,4.3,(6 cyl),Auto-L4,2WD,Gasoline,FA,T1,2GMXT04.3180,van,0,N/A,13,17,15,18.9215,3,no
+CHEVROLET Van 2500,4.3,(6 cyl),Auto-L4,2WD,Gasoline,FA,T1,2GMXT04.3185,van,0,N/A,13,17,15,18.9215,3,no
+CHEVROLET Van 2500,5,(8 cyl),Auto-L4,2WD,Gasoline,FA,T1,2GMXT05.0181,van,0,N/A,13,17,15,19.0459,3,no
+CHEVROLET Van 2500,5,(8 cyl),Auto-L4,2WD,Gasoline,FA,T1,2GMXT05.0182,van,0,N/A,13,17,15,19.0459,3,no
+CHEVROLET Van 2500,5,(8 cyl),Auto-L4,2WD,Gasoline,CA,T1,2GMXT05.0181,van,0,N/A,13,17,15,19.0459,3,no
+CHEVROLET Van 2500,5,(8 cyl),Auto-L4,2WD,Gasoline,CA,T1,2GMXT05.0182,van,0,N/A,13,17,15,19.0459,3,no
+CHEVROLET Van 2500,5.7,(8 cyl),Auto-L4,2WD,Gasoline,FA+CF,LEV,2GMXT05.7195,van,0,N/A,12,16,14,17.7255,2,no
+CHEVROLET Van 2500,5.7,(8 cyl),Auto-L4,2WD,Gasoline,CA,LEV,2GMXA06.0194,van,0,N/A,12,16,14,17.7255,2,no
+CHEVROLET Van 2500,5.7,(8 cyl),Auto-L4,2WD,Gasoline,FA,T1,2GMXT06.0187,van,0,N/A,12,16,14,17.7255,2,no
+CHEVROLET Van 3500,5.7,,,,Gasoline,CA,LEV,2GMXA06.0188,van,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+CHEVROLET Van 3500,6,,,,Gasoline,CA,LEV,2GMXA06.0188,van,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+CHEVROLET Van 3500,8.1,,,,Gasoline,CA,LEV,2GMXA08.1201,van,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+CHEVROLET Van 3500 Dual-Fuel,5.7,,,,CNG/gas,CA,LEV,2TJXT05.7188,van,0/0,N/A,N/A,N/A,N/A,N/A,N/A,no
+CHEVROLET Venture,3.4,(6 cyl),Auto-L4,2WD,Gasoline,CA,ULEV,2GMXT03.4142,minivan,2,N/A,17,24,20,25.3963,6,no
+CHEVROLET Venture,3.4,(6 cyl),Auto-L4,4WD,Gasoline,CA,ULEV,2GMXT03.4142,minivan,2,N/A,16,22,18,23.565,5,no
+CHEVROLET Venture,3.4,(6 cyl),Auto-L4,2WD,Gasoline,NL,LEV,2GMXT03.4141,minivan,1,N/A,17,24,20,25.3963,6,no
+CHEVROLET Venture,3.4,(6 cyl),Auto-L4,2WD,Gasoline,NL+CF,LEV,2GMXT03.4143,minivan,1,N/A,17,24,20,25.3963,6,no
+CHEVROLET Venture,3.4,(6 cyl),Auto-L4,4WD,Gasoline,NL,LEV,2GMXT03.4141,minivan,1,N/A,16,22,18,23.565,5,no
+CHEVROLET Venture,3.4,(6 cyl),Auto-L4,4WD,Gasoline,NL+CF,LEV,2GMXT03.4143,minivan,1,N/A,16,22,18,23.565,5,no
+CHRYSLER 300,3.5,(6 cyl),Auto-S4,2WD,Gasoline,CL,LEV,2CRXV03.5VD0,large car,2,N/A,16,24,19,24.358,5,no
+CHRYSLER Caravan,3.8,(6 cyl),Auto-S4,4WD,Gasoline,CL,LEV,2CRXT03.82D0,minivan,1,N/A,15,21,17,22.3883,4,no
+CHRYSLER Caravan,3.8,(6 cyl),Auto-L4,4WD,Gasoline,CL,LEV,2CRXT03.82D0,minivan,1,N/A,15,21,18,22.7251,5,no
+CHRYSLER Concorde,2.7,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2CRXV03.5VD0,large car,2,N/A,18,26,21,26.8322,6,no
+CHRYSLER Concorde,3.5,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2CRXV03.5VD0,large car,2,N/A,16,24,19,24.6822,5,no
+CHRYSLER PT Cruiser,2.4,(4 cyl),Auto-L4,2WD,Gasoline,CA,ULEV,2CRXV0148V40,SUV,3,N/A,17,23,20,25.4501,6,no
+CHRYSLER PT Cruiser,2.4,(4 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2CRXV02.4VD0,SUV,2,N/A,17,23,20,25.4501,6,no
+CHRYSLER PT Cruiser,2.4,(4 cyl),Man-5,2WD,Gasoline,CL,LEV,2CRXV02.4VD0,SUV,2,N/A,19,27,22,28.3352,6,no
+CHRYSLER Prowler,3.5,(6 cyl),Auto-S4,2WD,Gasoline,CL,T1,2CRXV03.5VB0,small car,1,N/A,16,21,18,23.1139,5,no
+CHRYSLER Sebring,2.4,(4 cyl),Auto-L4,2WD,Gasoline,NF,LEV,2CRXV02.4VD0,midsize car,2,N/A,19,27,22,28.3466,6,no
+CHRYSLER Sebring,2.4,(4 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2DSXV02.4GNG,small car,2,N/A,19,26,21,27.6434,6,no
+CHRYSLER Sebring,2.4,(4 cyl),Man-5,2WD,Gasoline,CL,LEV,2DSXV02.4GNG,small car,2,N/A,19,27,22,28.8702,6,no
+CHRYSLER Sebring,2.7,(6 cyl),Auto-S4,2WD,Gasoline,CL,LEV,2CRXV02.7VD0,midsize car,2,N/A,18,25,21,26.7303,6,no
+CHRYSLER Sebring,2.7,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2CRXV02.7VD0,midsize car,2,N/A,18,26,21,26.8322,6,no
+CHRYSLER Sebring,3,(6 cyl),Auto-S4,2WD,Gasoline,CL,LEV,2DSXV03.0GNS,small car,2,N/A,17,26,20,26.5361,6,no
+CHRYSLER Sebring,3,(6 cyl),Auto-S4,2WD,Gasoline,CL,LEV,2DSXV03.0GNF,small car,2,N/A,18,25,20,26.5166,6,no
+CHRYSLER Sebring,3,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2DSXV03.0GNF,small car,2,N/A,18,25,20,26.6506,6,no
+CHRYSLER Sebring,3,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2DSXV03.0GNS,small car,2,N/A,18,26,20,26.6171,6,no
+CHRYSLER Sebring,3,(6 cyl),Man-5,2WD,Gasoline,CL,LEV,2DSXV03.0GNS,small car,2,N/A,18,26,21,27.0586,6,no
+CHRYSLER Sebring,3,(6 cyl),Man-5,2WD,Gasoline,CL,LEV,2DSXV03.0GNF,small car,2,N/A,19,26,22,28.3038,6,no
+CHRYSLER Sebring Convertible,2.4,(4 cyl),Auto-L4,2WD,Gasoline,NF,LEV,2CRXV02.4VD0,small car,2,N/A,19,27,22,28.3466,6,no
+CHRYSLER Sebring Convertible,2.7,(6 cyl),Auto-S4,2WD,Gasoline,CL,LEV,2CRXV02.7VD0,small car,2,N/A,17,24,20,25.7621,6,no
+CHRYSLER Sebring Convertible,2.7,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2CRXV02.7VD0,small car,2,N/A,17,24,20,26.1024,6,no
+CHRYSLER Sebring Convertible,2.7,(6 cyl),Man-5,2WD,Gasoline,CL,LEV,2CRXV02.7VD0,small car,2,N/A,17,25,20,26.2965,6,no
+CHRYSLER Town & Country,2.4,(4 cyl),Auto-L3,2WD,Gasoline,CL,LEV,2CRXT02.42D0,minivan,1,N/A,17,23,19,25.026,5,no
+CHRYSLER Town & Country,2.4,(4 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2CRXT02.42D0,minivan,1,N/A,17,24,20,25.841,6,no
+CHRYSLER Town & Country,3.8,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2CRXT03.82D0,minivan,1,N/A,16,22,18,23.1987,5,no
+CHRYSLER Town & Country,3.8,(6 cyl),Auto-L4,4WD,Gasoline,CL,LEV,2CRXT03.82D0,minivan,1,N/A,15,21,17,22.1907,4,no
+CHRYSLER Town & Country,3.3,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2CRXT03.32DP,minivan,N/A,N/A,16,22,18,23.4338,5,no
+CHRYSLER Voyager,2.4,(4 cyl),Auto-L3,2WD,Gasoline,CL,LEV,2CRXT02.42D0,minivan,1,N/A,17,23,19,25.026,5,no
+CHRYSLER Voyager,2.4,(4 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2CRXT02.42D0,minivan,1,N/A,17,24,20,25.841,6,no
+CHRYSLER Voyager,3.8,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2CRXT03.82D0,minivan,1,N/A,16,22,18,23.1987,5,no
+CHRYSLER Voyager,3.3,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2CRXT03.32DP,minivan,N/A,N/A,16,22,18,23.4338,5,no
+DAEWOO Lanos,1.5,(4 cyl),Auto-4,2WD,Gasoline,NL,TLEV,2DWXV01.5S01,small car,1,N/A,21,33,25,32.9271,7,no
+DAEWOO Lanos,1.5,(4 cyl),Man-5,2WD,Gasoline,NL,TLEV,2DWXV01.5S01,small car,1,N/A,23,32,26,34.8121,8,no
+DAEWOO Leganza,2.2,(4 cyl),Auto-4,2WD,Gasoline,CL,LEV,2DWXV02.2D02,midsize car,2,N/A,17,25,20,26.2945,6,no
+DAEWOO Leganza,2.2,(4 cyl),Man-5,2WD,Gasoline,CL,LEV,2DWXV02.2D02,midsize car,2,N/A,18,26,21,26.9673,6,no
+DAEWOO Leganza,2.2,(4 cyl),Auto-4,2WD,Gasoline,NL,TLEV,2DWXV02.2D01,midsize car,1,N/A,17,25,20,26.2945,6,no
+DAEWOO Leganza,2.2,(4 cyl),Man-5,2WD,Gasoline,NL,TLEV,2DWXV02.2D01,midsize car,1,N/A,18,26,21,26.9673,6,no
+DAEWOO Nubira,2,(4 cyl),Auto-4,2WD,Gasoline,CL,LEV,2DWXV02.2D02,small car,2,N/A,19,28,22,29.3443,6,no
+DAEWOO Nubira,2,(4 cyl),Man-5,2WD,Gasoline,CL,LEV,2DWXV02.2D02,small car,2,N/A,19,29,23,29.7078,7,no
+DAEWOO Nubira,2,(4 cyl),Auto-4,2WD,Gasoline,NL,TLEV,2DWXV02.2D01,small car,1,N/A,19,28,22,29.3443,6,no
+DAEWOO Nubira,2,(4 cyl),Man-5,2WD,Gasoline,NL,TLEV,2DWXV02.2D01,small car,1,N/A,19,29,23,29.7078,7,no
+DAEWOO Nubira Station Wagon,2,(4 cyl),Auto-4,2WD,Gasoline,CL,LEV,2DWXV02.2D02,station wagon,2,N/A,19,28,22,29.3443,6,no
+DAEWOO Nubira Station Wagon,2,(4 cyl),Man-5,2WD,Gasoline,CL,LEV,2DWXV02.2D02,station wagon,2,N/A,19,28,23,29.6489,7,no
+DAEWOO Nubira Station Wagon,2,(4 cyl),Auto-4,2WD,Gasoline,NL,TLEV,2DWXV02.2D01,station wagon,1,N/A,19,28,22,29.3443,6,no
+DAEWOO Nubira Station Wagon,2,(4 cyl),Man-5,2WD,Gasoline,NL,TLEV,2DWXV02.2D01,station wagon,1,N/A,19,28,23,29.6489,7,no
+DODGE Caravan,2.4,(4 cyl),Auto-L3,2WD,Gasoline,CL,LEV,2CRXT02.42D0,minivan,1,N/A,17,23,19,25.026,5,no
+DODGE Caravan,2.4,(4 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2CRXT02.42D0,minivan,1,N/A,17,24,20,25.841,6,no
+DODGE Caravan,3.8,(6 cyl),Auto-S4,2WD,Gasoline,CL,LEV,2CRXT03.82D0,minivan,1,N/A,15,22,18,22.9379,5,no
+DODGE Caravan,3.8,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2CRXT03.82D0,minivan,1,N/A,16,22,18,23.1987,5,no
+DODGE Caravan,3.8,(6 cyl),Auto-S4,4WD,Gasoline,CL,LEV,2CRXT03.82D0,minivan,1,N/A,15,21,17,22.3883,4,no
+DODGE Caravan,3.8,(6 cyl),Auto-L4,4WD,Gasoline,CL,LEV,2CRXT03.82D0,minivan,1,N/A,15,21,18,22.7251,5,no
+DODGE Caravan,3.3,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2CRXT03.32DP,minivan,N/A,N/A,16,22,18,23.4264,5,no
+DODGE Dakota,2.5,(4 cyl),Man-5,2WD,Gasoline,CL,TLEV,2CRXT02.51C0,pickup,1,N/A,17,22,19,24.5682,5,no
+DODGE Dakota,3.9,(6 cyl),Man-5,2WD,Gasoline,CL,LEV,2CRXT03.92D0,pickup,1,N/A,14,20,16,20.5577,4,no
+DODGE Dakota,3.9,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2CRXT03.92D0,pickup,1,N/A,16,18,17,21.6914,4,no
+DODGE Dakota,3.9,(6 cyl),Auto-L4,4WD,Gasoline,CL,LEV,2CRXT03.92D0,pickup,1,N/A,13,16,14,18.321,2,no
+DODGE Dakota,3.9,(6 cyl),Man-5,4WD,Gasoline,CL,LEV,2CRXT03.92D0,pickup,1,N/A,14,18,15,19.8162,3,no
+DODGE Dakota,4.7,(8 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2CRXT04.72D1,pickup,1,N/A,13,18,15,19.3053,3,no
+DODGE Dakota,4.7,(8 cyl),Man-5,2WD,Gasoline,CL,LEV,2CRXT04.72D1,pickup,1,N/A,13,19,15,19.6885,3,no
+DODGE Dakota,4.7,(8 cyl),Auto-L4,4WD,Gasoline,CL,LEV,2CRXT04.72D1,pickup,1,N/A,12,16,14,17.3609,2,no
+DODGE Dakota,4.7,(8 cyl),Man-5,4WD,Gasoline,CL,LEV,2CRXT04.72D1,pickup,1,N/A,13,17,14,18.394,2,no
+DODGE Dakota,5.9,(8 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2CRXT05.92D0,pickup,1,N/A,11,15,13,16.412,1,no
+DODGE Dakota,3.9,(6 cyl),Man-5,2WD,Gasoline,FA,T1,2CRXT03.95B1,pickup,0,N/A,14,20,16,20.5577,4,no
+DODGE Dakota,3.9,(6 cyl),Auto-L4,2WD,Gasoline,FA,T1,2CRXT03.95B1,pickup,0,N/A,16,18,17,21.6914,4,no
+DODGE Dakota,3.9,(6 cyl),Auto-L4,4WD,Gasoline,FA,T1,2CRXT03.95B1,pickup,0,N/A,13,16,14,18.321,2,no
+DODGE Dakota,3.9,(6 cyl),Man-5,4WD,Gasoline,FA,T1,2CRXT03.95B1,pickup,0,N/A,14,18,15,19.8162,3,no
+DODGE Dakota,4.7,(8 cyl),Auto-L4,2WD,Gasoline,FA,T1,2CRXT04.75B0,pickup,0,N/A,13,18,15,19.3053,3,no
+DODGE Dakota,4.7,(8 cyl),Man-5,2WD,Gasoline,FA,T1,2CRXT04.75B0,pickup,0,N/A,13,19,15,19.6885,3,no
+DODGE Dakota,4.7,(8 cyl),Auto-L4,4WD,Gasoline,FA,T1,2CRXT04.75B0,pickup,0,N/A,12,16,14,17.3609,2,no
+DODGE Dakota,4.7,(8 cyl),Man-5,4WD,Gasoline,FA,T1,2CRXT04.75B0,pickup,0,N/A,13,17,14,18.394,2,no
+DODGE Dakota,5.9,(8 cyl),Auto-L4,2WD,Gasoline,FA,T1,2CRXT05.95B2,pickup,0,N/A,11,15,13,16.412,1,no
+DODGE Dakota,5.9,(8 cyl),Auto-L4,4WD,Gasoline,FA,T1,2CRXT05.95B2,pickup,0,N/A,11,15,12,15.7429,0,no
+DODGE Durango,4.7,(8 cyl),Auto-L5,2WD,Gasoline,CA,ULEV,2CRXA0287H40,SUV,1,N/A,13,17,14,18.543,2,no
+DODGE Durango,4.7,(8 cyl),Auto-L4,2WD,Gasoline,CA,ULEV,2CRXA0287H40,SUV,1,N/A,13,18,15,19.249,3,no
+DODGE Durango,4.7,(8 cyl),Auto-L4,4WD,Gasoline,CA,ULEV,2CRXA0287H40,SUV,1,N/A,12,16,14,17.3146,2,no
+DODGE Durango,4.7,(8 cyl),Auto-L5,4WD,Gasoline,CA,ULEV,2CRXA0287H40,SUV,1,N/A,12,16,14,17.5156,2,no
+DODGE Durango,5.9,(8 cyl),Auto-L4,2WD,Gasoline,CA,ULEV,2CRXA0360H41,SUV,1,N/A,11,16,13,16.3411,1,no
+DODGE Durango,5.9,(8 cyl),Auto-L4,4WD,Gasoline,CA,ULEV,2CRXA0360H41,SUV,1,N/A,11,15,12,15.7429,0,no
+DODGE Durango,4.7,(8 cyl),Auto-L5,2WD,Gasoline,FA,T1,2CRXT04.75B0,SUV,0,N/A,13,17,14,18.543,2,no
+DODGE Durango,4.7,(8 cyl),Auto-L4,2WD,Gasoline,FA,T1,2CRXT04.75B0,SUV,0,N/A,13,18,15,19.249,3,no
+DODGE Durango,4.7,(8 cyl),Auto-L4,4WD,Gasoline,FA,T1,2CRXT04.75B0,SUV,0,N/A,12,16,14,17.3146,2,no
+DODGE Durango,4.7,(8 cyl),Auto-L5,4WD,Gasoline,FA,T1,2CRXT04.75B0,SUV,0,N/A,12,16,14,17.5156,2,no
+DODGE Durango,5.9,(8 cyl),Auto-L4,2WD,Gasoline,FA,T1,2CRXT05.95B2,SUV,0,N/A,11,16,13,16.3411,1,no
+DODGE Durango,5.9,(8 cyl),Auto-L4,4WD,Gasoline,FA,T1,2CRXT05.95B2,SUV,0,N/A,11,15,12,15.7429,0,no
+DODGE Intrepid,2.7,(6 cyl),Auto-S4,2WD,Gasoline,CL,LEV,2CRXV03.5VD0,large car,2,N/A,18,25,21,26.7303,6,no
+DODGE Intrepid,2.7,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2CRXV03.5VD0,large car,2,N/A,18,26,21,26.8322,6,no
+DODGE Intrepid,3.5,(6 cyl),Auto-S4,2WD,Gasoline,CL,LEV,2CRXV03.5VD0,large car,2,N/A,16,24,19,24.358,5,no
+DODGE Intrepid,3.5,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2CRXV03.5VD0,large car,2,N/A,16,24,19,24.6822,5,no
+DODGE Neon,2,(4 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2CRXV02.0VD0,small car,2,N/A,21,29,24,31.577,7,no
+DODGE Neon,2,(4 cyl),Man-5,2WD,Gasoline,CL,LEV,2CRXV02.0VD0,small car,2,N/A,24,31,27,35.5687,8,no
+DODGE RAM 1500,4.7,(8 cyl),Man-5,2WD,Gasoline,CA,ULEV,2CRXA0287H41,pickup,1,N/A,13,18,15,18.6716,3,no
+DODGE RAM 1500,4.7,(8 cyl),Auto-L4,2WD,Gasoline,CA,ULEV,2CRXA0287H41,pickup,1,N/A,13,18,15,18.7248,3,no
+DODGE RAM 1500,4.7,(8 cyl),Auto-L4,4WD,Gasoline,CA,ULEV,2CRXA0287H41,pickup,1,N/A,11,16,13,16.6511,1,no
+DODGE RAM 1500,4.7,(8 cyl),Man-5,4WD,Gasoline,CA,ULEV,2CRXA0287H41,pickup,1,N/A,12,16,14,17.6532,2,no
+DODGE RAM 1500,5.9,(8 cyl),Auto-L4,2WD,Gasoline,CA,ULEV,2CRXA0360H40,pickup,1,N/A,11,16,12,15.9124,0,no
+DODGE RAM 1500,5.9,(8 cyl),Auto-L4,4WD,Gasoline,CA,ULEV,2CRXA0360H40,pickup,1,N/A,10,14,12,15.0459,0,no
+DODGE RAM 1500,3.7,(6 cyl),Auto-L4,2WD,Gasoline,CL,T1,2CRXT03.75B0,pickup,0,N/A,13,18,15,19.4163,3,no
+DODGE RAM 1500,3.7,(6 cyl),Man-5,2WD,Gasoline,CL,T1,2CRXT03.75B0,pickup,0,N/A,14,19,16,20.2961,4,no
+DODGE RAM 1500,4.7,(8 cyl),Man-5,2WD,Gasoline,FA,T1,2CRXT04.75B1,pickup,0,N/A,13,18,15,18.6716,3,no
+DODGE RAM 1500,4.7,(8 cyl),Auto-L4,2WD,Gasoline,FA,T1,2CRXT04.75B1,pickup,0,N/A,13,18,15,18.7248,3,no
+DODGE RAM 1500,4.7,(8 cyl),Auto-L4,4WD,Gasoline,FA,T1,2CRXT04.75B1,pickup,0,N/A,11,16,13,16.6511,1,no
+DODGE RAM 1500,4.7,(8 cyl),Man-5,4WD,Gasoline,FA,T1,2CRXT04.75B1,pickup,0,N/A,12,16,14,17.6532,2,no
+DODGE RAM 1500,5.9,(8 cyl),Auto-L4,2WD,Gasoline,FA,T1,2CRXT05.95B1,pickup,0,N/A,11,16,12,15.9124,0,no
+DODGE RAM 1500,5.9,(8 cyl),Auto-L4,4WD,Gasoline,FA,T1,2CRXT05.95B1,pickup,0,N/A,10,14,12,15.0459,0,no
+DODGE RAM 2500,5.9,,,2WD,Gasoline,CA,ULEV,2CRXA0360J40,pickup,1,N/A,N/A,N/A,N/A,N/A,N/A,no
+DODGE RAM 2500,5.9,,,4WD,Gasoline,CA,ULEV,2CRXA0360J40,pickup,1,N/A,N/A,N/A,N/A,N/A,N/A,no
+DODGE RAM 2500,5.9,,,,Gasoline,CA,ULEV,2CRXA0360J40,special purpose,1,N/A,N/A,N/A,N/A,N/A,N/A,no
+DODGE RAM 2500,5.2,,,2WD,Gasoline,FA,T1,2CRXT05.96B0,pickup,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+DODGE RAM 2500,5.2,,,4WD,Gasoline,FA,T1,2CRXT05.96B0,pickup,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+DODGE RAM 2500,5.2,,,,Gasoline,FA,T1,2CRXT05.96B0,special purpose,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+DODGE RAM 2500,5.9,,,2WD,Gasoline,CF,N/A*,2CRXT05.96J3,pickup,N/A*,N/A,N/A,N/A,N/A,N/A*,N/A*,N/A*
+DODGE RAM 2500,5.9,,,4WD,Gasoline,CF,N/A*,2CRXT05.96J3,pickup,N/A*,N/A,N/A,N/A,N/A,N/A*,N/A*,N/A*
+DODGE RAM 2500,5.9,,,,Gasoline,CF,N/A*,2CRXT05.96J3,special purpose,N/A*,N/A,N/A,N/A,N/A,N/A*,N/A*,N/A*
+DODGE RAM 2500,5.9,,,2WD,Gasoline,FA,T1,2CRXT05.96B0,pickup,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+DODGE RAM 2500,5.9,,,4WD,Gasoline,FA,T1,2CRXT05.96B0,pickup,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+DODGE RAM 2500,5.9,,,,Gasoline,FA,T1,2CRXT05.96B0,special purpose,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+DODGE RAM 2500,8,,,2WD,Gasoline,CA,T1,2CRXA0488J11,pickup,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+DODGE RAM 2500,8,,,4WD,Gasoline,CA,T1,2CRXA0488J11,pickup,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+DODGE RAM 2500,8,,,,Gasoline,CA,T1,2CRXA0488J11,special purpose,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+DODGE RAM 3500,5.2,,,2WD,Gasoline,CA,T1,2CRXA0360J10,pickup,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+DODGE RAM 3500,5.2,,,4WD,Gasoline,CA,T1,2CRXA0360J10,pickup,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+DODGE RAM 3500,5.9,,,2WD,Gasoline,CA,T1,2CRXA0360J10,pickup,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+DODGE RAM 3500,5.9,,,4WD,Gasoline,CA,T1,2CRXA0360J10,pickup,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+DODGE RAM 3500,5.9,,,4WD,Gasoline,CA,T1,2CRXA0360K10,pickup,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+DODGE RAM 3500,5.9,,,,Gasoline,CA,T1,2CRXA0360K10,special purpose,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+DODGE RAM 3500,8,,,2WD,Gasoline,CA,T1,2CRXA0488J11,pickup,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+DODGE RAM 3500,8,,,4WD,Gasoline,CA,T1,2CRXA0488J11,pickup,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+DODGE RAM 3500,8,,,4WD,Gasoline,CA,T1,2CRXA0488K11,pickup,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+DODGE RAM 3500,8,,,,Gasoline,CA,T1,2CRXA0488K11,special purpose,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+DODGE RAM Van 1500,5.9,(8 cyl),Auto-L4,2WD,Gasoline,CA,ULEV,2CRXA0360J40,van,1,N/A,11,16,13,16.3411,1,no
+DODGE RAM Van 1500,3.9,(6 cyl),Auto-L3,2WD,Gasoline,CL,T1,2CRXT03.95B0,van,0,N/A,13,15,14,17.9368,2,no
+DODGE RAM Van 1500,5.9,(8 cyl),Auto-L4,2WD,Gasoline,FA,T1,2CRXT05.95B0,van,0,N/A,11,16,13,16.3411,1,no
+DODGE RAM Van 1500,5.9,(8 cyl),Auto-L4,2WD,Gasoline,FA,T1,2CRXT05.96B0,van,0,N/A,11,16,13,16.3411,1,no
+DODGE RAM Van 2500,5.9,(8 cyl),Auto-L4,2WD,Gasoline,CA,ULEV,2CRXA0360J40,van,1,N/A,11,16,13,16.3411,1,no
+DODGE RAM Van 2500,3.9,(6 cyl),Auto-L3,2WD,Gasoline,CL,T1,2CRXT03.95B0,van,0,N/A,13,15,14,17.5491,2,no
+DODGE RAM Van 2500,5.9,(8 cyl),Auto-L4,2WD,Gasoline,FA,T1,2CRXT05.96B0,van,0,N/A,11,16,13,16.3411,1,no
+DODGE RAM Van 3500,5.2,,,,CNG,CA,SLEV,2CRXT05.26RC,van,2,N/A,N/A,N/A,N/A,N/A,N/A,no
+DODGE RAM Van 3500,5.2,,,,CNG,FA,ULEV,2CRXT05.26RC,van,1,N/A,N/A,N/A,N/A,N/A,N/A,no
+DODGE RAM Van 3500,5.9,,,,Gasoline,CA,ULEV,2CRXA0360J40,van,1,N/A,N/A,N/A,N/A,N/A,N/A,no
+DODGE RAM Van 3500,5.2,,,,Gasoline,CA,T1,2CRXA0360J10,van,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+DODGE RAM Van 3500,5.2,,,,Gasoline,FA,T1,2CRXT05.96B0,van,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+DODGE RAM Van 3500,5.9,,,,Gasoline,CF,N/A*,2CRXT05.96J3,van,N/A*,N/A,N/A,N/A,N/A,N/A*,N/A*,N/A*
+DODGE RAM Van 3500,5.9,,,,Gasoline,CA,T1,2CRXA0360J10,van,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+DODGE RAM Van 3500,5.9,,,,Gasoline,FA,T1,2CRXT05.96B0,van,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+DODGE RAM Wagon 1500,3.9,(6 cyl),Auto-L3,2WD,Gasoline,CL,T1,2CRXT03.95B0,van,0,N/A,13,15,14,17.5491,2,no
+DODGE RAM Wagon 2500,5.9,(8 cyl),Auto-L4,2WD,Gasoline,CA,ULEV,2CRXA0360J40,van,1,N/A,11,16,12,15.8033,0,no
+DODGE RAM Wagon 2500,5.9,(8 cyl),Auto-L4,2WD,Gasoline,FA,T1,2CRXT05.96B0,van,0,N/A,11,16,12,15.8033,0,no
+DODGE RAM Wagon 3500,5.2,,,,CNG,CA,SLEV,2CRXT05.26RC,van,2,N/A,N/A,N/A,N/A,N/A,N/A,no
+DODGE RAM Wagon 3500,5.2,,,,CNG,FA,ULEV,2CRXT05.26RC,van,1,N/A,N/A,N/A,N/A,N/A,N/A,no
+DODGE RAM Wagon 3500,5.9,,,,Gasoline,CA,ULEV,2CRXA0360J40,van,1,N/A,N/A,N/A,N/A,N/A,N/A,no
+DODGE RAM Wagon 3500,5.2,,,,Gasoline,CA,T1,2CRXA0360J10,van,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+DODGE RAM Wagon 3500,5.2,,,,Gasoline,FA,T1,2CRXT05.96B0,van,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+DODGE RAM Wagon 3500,5.9,,,,Gasoline,CF,N/A*,2CRXT05.96J3,van,N/A*,N/A,N/A,N/A,N/A,N/A*,N/A*,N/A*
+DODGE RAM Wagon 3500,5.9,,,,Gasoline,CA,T1,2CRXA0360J10,van,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+DODGE RAM Wagon 3500,5.9,,,,Gasoline,FA,T1,2CRXT05.96B0,van,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+DODGE Stratus,2.4,(4 cyl),Auto-L4,2WD,Gasoline,NF,LEV,2CRXV02.4VD0,midsize car,2,N/A,19,27,22,28.3466,6,no
+DODGE Stratus,2.4,(4 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2DSXV02.4GNG,small car,2,N/A,19,26,21,27.6434,6,no
+DODGE Stratus,2.4,(4 cyl),Man-5,2WD,Gasoline,CL,LEV,2DSXV02.4GNG,small car,2,N/A,19,27,22,28.8702,6,no
+DODGE Stratus,2.7,(6 cyl),Man-5,2WD,Gasoline,CL,LEV,2CRXV02.7VD0,midsize car,2,N/A,17,25,20,26.2965,6,no
+DODGE Stratus,2.7,(6 cyl),Auto-S4,2WD,Gasoline,CL,LEV,2CRXV02.7VD0,midsize car,2,N/A,18,25,21,26.7303,6,no
+DODGE Stratus,2.7,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2CRXV02.7VD0,midsize car,2,N/A,18,26,21,26.8322,6,no
+DODGE Stratus,3,(6 cyl),Auto-S4,2WD,Gasoline,CL,LEV,2DSXV03.0GNS,small car,2,N/A,17,26,20,26.5361,6,no
+DODGE Stratus,3,(6 cyl),Auto-S4,2WD,Gasoline,CL,LEV,2DSXV03.0GNF,small car,2,N/A,18,25,20,26.5179,6,no
+DODGE Stratus,3,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2DSXV03.0GNF,small car,2,N/A,18,25,20,26.6506,6,no
+DODGE Stratus,3,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2DSXV03.0GNS,small car,2,N/A,18,26,20,26.6171,6,no
+DODGE Stratus,3,(6 cyl),Man-5,2WD,Gasoline,CL,LEV,2DSXV03.0GNS,small car,2,N/A,18,26,21,27.0586,6,no
+DODGE Stratus,3,(6 cyl),Man-5,2WD,Gasoline,CL,LEV,2DSXV03.0GNF,small car,2,N/A,19,26,22,28.3038,6,no
+FERRARI 360 Modena/Spider,3.6,(8 cyl),Auto-S6,2WD,Gasoline,CL,LEV,2FEXV03.6LEV,small car,2,N/A,10,15,11,14.4583,0,no
+FERRARI 360 Modena/Spider,3.6,(8 cyl),Man-6,2WD,Gasoline,CL,LEV,2FEXV03.6LEV,small car,2,N/A,10,15,11,14.5995,0,no
+FERRARI 456 MGT/MGTA,5.5,(12 cyl),Auto-L4,2WD,Gasoline,CL,T1,2FEXV05.5C00,small car,1,N/A,9,14,11,13.3393,0,no
+FERRARI 456 MGT/MGTA,5.5,(12 cyl),Man-6,2WD,Gasoline,CL,T1,2FEXV05.5C00,small car,1,N/A,9,15,11,13.8306,0,no
+FERRARI 575,5.7,(12 cyl),Man-6,2WD,Gasoline,CL,LEV,2FEXV05.7LEV,small car,2,N/A,9,15,11,13.5036,0,no
+FERRARI 575,5.7,(12 cyl),Auto-S6,2WD,Gasoline,CL,LEV,2FEXV05.7LEV,small car,2,N/A,9,16,11,14.3025,0,no
+FORD Crown Victoria,4.6,(8 cyl),Auto-L4,2WD,CNG,NL,ULEV,2FMXV04.6VP5,large car,8,N/A,14,20,16,20.477,5,no
+FORD Crown Victoria,4.6,(8 cyl),Auto-L4,2WD,CNG,CA,ULEV,2FMXV04.6VP5,large car,7,N/A,14,20,16,20.477,5,no
+FORD Crown Victoria,4.6,(8 cyl),Auto-L4,2WD,Gasoline,NF,LEV,2FMXV04.6VF5,large car,2,N/A,15,23,18,23.3396,5,no
+FORD E150,4.2,(6 cyl),Auto-L4,2WD,Gasoline,CA,LEV,2FMXT04.2HF5,van,1,N/A,13,17,14,18.5045,2,no
+FORD E150,4.2,(6 cyl),Auto-L4,2WD,Gasoline,FA+CF,LEV,2FMXT04.2HF5,van,0,N/A,13,17,14,18.5045,2,no
+FORD E150,4.2,(6 cyl),Auto-L4,2WD,Gasoline,NF,LEV,2FMXT04.2JF5,van,0,N/A,13,17,14,18.5045,2,no
+FORD E150,4.2,(6 cyl),Auto-L4,2WD,Gasoline,NF,LEV,2FMXT04.2JF5,van,0,N/A,13,17,14,18.5045,2,no
+FORD E150,4.2,(6 cyl),Auto-L4,2WD,Gasoline,FA,T1,2FMXT04.25BF,van,0,N/A,13,17,14,18.5045,2,no
+FORD E150,4.2,(6 cyl),Auto-L4,2WD,Gasoline,FA,T1,2FMXT04.26BF,van,0,N/A,13,17,14,18.5045,2,no
+FORD E150,4.2,(6 cyl),Auto-L4,2WD,Gasoline,FA,T1,2FMXT04.26BF,van,0,N/A,13,17,14,18.5045,2,no
+FORD E150,4.6,(8 cyl),Auto-L4,2WD,Gasoline,NF,LEV,2FMXT05.4RF9,van,0,N/A,14,19,16,20.1038,4,no
+FORD E150,4.6,(8 cyl),Auto-L4,2WD,Gasoline,NF,LEV,2FMXT05.4RF9,van,0,N/A,12,17,14,17.7294,2,no
+FORD E150,5.4,(8 cyl),Auto-L4,2WD,Gasoline,NF,LEV,2FMXT05.4RF9,van,0,N/A,13,18,15,19.2178,3,no
+FORD E150,5.4,(8 cyl),Auto-L4,2WD,Gasoline,NF,LEV,2FMXT05.4RF9,van,0,N/A,12,16,13,17.0726,1,no
+FORD E250,5.4,,,,CNG,CA,SLEV,2FMXT05.4RP5,van,2,N/A,N/A,N/A,N/A,N/A,N/A,no
+FORD E250,5.4,,,,CNG,FA+CF,ULEV,2FMXT05.4RP5,van,1,N/A,N/A,N/A,N/A,N/A,N/A,no
+FORD E250,4.2,,,,Gasoline,NF,LEV,2FMXT04.2JF5,special purpose,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+FORD E250,4.2,(6 cyl),Auto-L4,2WD,Gasoline,NF,LEV,2FMXT04.2JF5,van,0,N/A,13,17,14,18.5045,2,no
+FORD E250,4.2,,,,Gasoline,FA,T1,2FMXT04.26BF,special purpose,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+FORD E250,4.2,(6 cyl),Auto-L4,2WD,Gasoline,FA,T1,2FMXT04.26BF,van,0,N/A,13,17,14,18.5045,2,no
+FORD E250,5.4,(8 cyl),Auto-L4,2WD,Gasoline,NF,LEV,2FMXT05.4RF9,van,0,N/A,12,17,13,17.1534,1,no
+FORD E350,5.4,,,,CNG,CA,SLEV,2FMXT05.4RP5,van,2,N/A,N/A,N/A,N/A,N/A,N/A,no
+FORD E350,5.4,,,,CNG,FA+CF,ULEV,2FMXT05.4RP5,van,1,N/A,N/A,N/A,N/A,N/A,N/A,no
+FORD E350,4.6,,,,Gasoline,NF,LEV,2FMXT05.4RF9,van,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+FORD E350,5.4,,,,Gasoline,NF,LEV,2FMXT05.4RF9,van,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+FORD E350,6.8,,,,Gasoline,CA,LEV,2FMXA06.8JFN,van,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+FORD Escape,2,(4 cyl),Man-5,2WD,Gasoline,NF,LEV,2FMXT02.01F5,SUV,2,N/A,20,25,22,29.1193,6,no
+FORD Escape,2,(4 cyl),Man-5,4WD,Gasoline,NF,LEV,2FMXT02.01F5,SUV,2,N/A,19,23,21,27.1163,6,no
+FORD Escape,3,(6 cyl),Auto-L4,2WD,Gasoline,NF,LEV,2FMXT03.01F6,SUV,2,N/A,17,23,19,24.4218,5,no
+FORD Escape,3,(6 cyl),Auto-L4,4WD,Gasoline,NF,LEV,2FMXT03.01F6,SUV,2,N/A,16,22,18,23.5775,5,no
+FORD Escort,2,(4 cyl),Auto-L4,2WD,Gasoline,NF,LEV,2FMXV02.0VF3,small car,2,N/A,23,32,26,34.2862,8,no
+FORD Escort ZX2,2,(4 cyl),Auto-L4,2WD,Gasoline,NF,LEV,2FMXV02.0VF3,small car,2,N/A,22,30,25,32.5311,7,no
+FORD Escort ZX2,2,(4 cyl),Man-5,2WD,Gasoline,NF,LEV,2FMXV02.0VF3,small car,2,N/A,23,31,26,33.7989,8,no
+FORD Excursion,5.4,,,2WD,Gasoline,CA,LEV,2FMXA05.4JFC,SUV,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+FORD Excursion,5.4,,,4WD,Gasoline,CA,LEV,2FMXA05.4JFC,SUV,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+FORD Excursion,6.8,,,2WD,Gasoline,CA,LEV,2FMXA06.8JFC,SUV,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+FORD Excursion,6.8,,,4WD,Gasoline,CA,LEV,2FMXA06.8JFC,SUV,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+FORD Expedition,4.6,(8 cyl),Auto-L4,2WD,Gasoline,NF,LEV,2FMXT04.66F7,SUV,0,N/A,14,19,16,20.1038,4,no
+FORD Expedition,4.6,(8 cyl),Auto-L4,4WD,Gasoline,NF,LEV,2FMXT04.66F7,SUV,0,N/A,12,16,14,17.6385,2,no
+FORD Expedition,5.4,(8 cyl),Auto-L4,2WD,Gasoline,NF,LEV,2FMXT05.4RF8,SUV,0,N/A,12,17,13,17.1534,1,no
+FORD Expedition,5.4,(8 cyl),Auto-L4,4WD,Gasoline,NF,LEV,2FMXT05.4RF8,SUV,0,N/A,11,15,13,16.0068,1,no
+FORD Explorer,4,(6 cyl),Auto-L5,2WD,Gasoline,NF,LEV,2FMXT04.02F8,SUV,1,N/A,14,19,16,20.5223,4,no
+FORD Explorer,4,(6 cyl),Man-5,2WD,Gasoline,NF,LEV,2FMXT04.02F8,SUV,1,N/A,15,20,17,21.572,4,no
+FORD Explorer,4,(6 cyl),Auto-L5,4WD,Gasoline,NF,LEV,2FMXT04.02F8,SUV,1,N/A,13,18,15,19.5887,3,no
+FORD Explorer,4,(6 cyl),Man-5,4WD,Gasoline,NF,LEV,2FMXT04.02F8,SUV,1,N/A,14,18,16,20.5007,4,no
+FORD Explorer,4.6,(8 cyl),Auto-L5,2WD,Gasoline,NF,LEV,2FMXT04.62F5,SUV,1,N/A,13,18,15,18.9359,3,no
+FORD Explorer,4.6,(8 cyl),Auto-L5,4WD,Gasoline,NF,LEV,2FMXT04.62F5,SUV,1,N/A,13,17,14,18.4891,2,no
+FORD Explorer Sport,4,(6 cyl),Auto-L5,2WD,Gasoline,NF,LEV,2FMXT04.02F3,SUV,1,N/A,15,20,17,21.5353,4,no
+FORD Explorer Sport,4,(6 cyl),Man-5,2WD,Gasoline,NF,LEV,2FMXT04.02F3,SUV,1,N/A,16,20,17,22.3791,4,no
+FORD Explorer Sport,4,(6 cyl),Auto-L5,4WD,Gasoline,NF,LEV,2FMXT04.02F3,SUV,1,N/A,13,18,15,19.5887,3,no
+FORD Explorer Sport,4,(6 cyl),Man-5,4WD,Gasoline,NF,LEV,2FMXT04.02F3,SUV,1,N/A,14,18,15,19.8766,3,no
+FORD Explorer Sport Trac,4,(6 cyl),Auto-L5,2WD,Gasoline,NF,LEV,2FMXT04.02F3,pickup,1,N/A,14,19,16,20.5179,4,no
+FORD Explorer Sport Trac,4,(6 cyl),Man-5,2WD,Gasoline,NF,LEV,2FMXT04.02F3,pickup,1,N/A,15,20,17,21.572,4,no
+FORD Explorer Sport Trac,4,(6 cyl),Auto-L5,4WD,Gasoline,NF,LEV,2FMXT04.02F3,pickup,1,N/A,13,18,15,19.5887,3,no
+FORD Explorer Sport Trac,4,(6 cyl),Man-5,4WD,Gasoline,NF,LEV,2FMXT04.02F3,pickup,1,N/A,14,18,16,20.5007,4,no
+FORD F150,5.4,(8 cyl),Auto-L4,2WD,CNG,CA,SLEV,2FMXT05.4RP5,pickup,2,N/A,11,15,12,15.6884,2,no
+FORD F150,4.2,(6 cyl),Auto-L4,2WD,Gasoline,NF,ULEV,2FMXT04.22H5,pickup,1,N/A,14,19,16,20.6121,4,no
+FORD F150,4.2,(6 cyl),Man-5,2WD,Gasoline,NF,ULEV,2FMXT04.22H5,pickup,1,N/A,15,19,17,21.5381,4,no
+FORD F150,4.2,(6 cyl),Auto-L4,4WD,Gasoline,NF,ULEV,2FMXT04.22H5,pickup,1,N/A,14,18,15,19.7604,3,no
+FORD F150,4.2,(6 cyl),Man-5,4WD,Gasoline,NF,ULEV,2FMXT04.22H5,pickup,1,N/A,14,18,15,19.8235,3,no
+FORD F150,4.6,,,2WD,Gasoline,FC,B10,2FMXT05.4RF6,pickup,1,N/A,N/A,N/A,N/A,N/A,N/A,no
+FORD F150,4.6,,,4WD,Gasoline,FC,B10,2FMXT05.4RF6,pickup,1,N/A,N/A,N/A,N/A,N/A,N/A,no
+FORD F150,4.6,(8 cyl),Man-5,2WD,Gasoline,CA,LEV,2FMXT05.4PF5,pickup,1,N/A,13,18,15,19.3892,3,no
+FORD F150,4.6,(8 cyl),Auto-L4,2WD,Gasoline,CA,LEV,2FMXT05.4PF5,pickup,1,N/A,14,19,16,20.318,4,no
+FORD F150,4.6,(8 cyl),Man-5,4WD,Gasoline,CA,LEV,2FMXT05.4PF5,pickup,1,N/A,12,17,14,18.0959,2,no
+FORD F150,4.6,(8 cyl),Auto-L4,4WD,Gasoline,CA,LEV,2FMXT05.4PF5,pickup,1,N/A,13,17,14,18.352,2,no
+FORD F150,5.4,,,2WD,Gasoline,FC,B10,2FMXT05.4RF6,pickup,1,N/A,N/A,N/A,N/A,N/A,N/A,no
+FORD F150,5.4,,,4WD,Gasoline,FC,B10,2FMXT05.4RF6,pickup,1,N/A,N/A,N/A,N/A,N/A,N/A,no
+FORD F150,5.4,(8 cyl),Auto-L4,2WD,Gasoline,NF,LEV,2FMXT05.42F5,pickup,1,N/A,11,15,12,15.7374,0,no
+FORD F150,5.4,(8 cyl),Auto-L4,2WD,Gasoline,CA,LEV,2FMXT05.4PF5,pickup,1,N/A,13,18,15,19.2273,3,no
+FORD F150,5.4,(8 cyl),Auto-L4,4WD,Gasoline,CA,LEV,2FMXT05.4PF5,pickup,1,N/A,12,16,14,17.7241,2,no
+FORD F150,5.4,,,2WD,Gasoline,CA,ULEV,2FMXA05.4HJD,pickup,1,N/A,N/A,N/A,N/A,N/A,N/A,no
+FORD F150,5.4,,,2WD,CNG,FA+CF,ULEV,2G9XT05.46NN,pickup,1,N/A,N/A,N/A,N/A,N/A,N/A,no
+FORD F150,5.4,(8 cyl),Auto-L4,2WD,CNG,FA+CF,ULEV,2FMXT05.4RP5,pickup,1,N/A,11,15,12,15.6884,2,no
+FORD F150,5.4,,,4WD,CNG,FA+CF,ULEV,2G9XT05.46NN,pickup,1,N/A,N/A,N/A,N/A,N/A,N/A,no
+FORD F150,4.6,(8 cyl),Man-5,2WD,Gasoline,FA+CF,LEV,2FMXT05.4PF5,pickup,0,N/A,13,18,15,19.3892,3,no
+FORD F150,4.6,(8 cyl),Auto-L4,2WD,Gasoline,FA+CF,LEV,2FMXT05.4PF5,pickup,0,N/A,14,19,16,20.318,4,no
+FORD F150,4.6,(8 cyl),Man-5,4WD,Gasoline,FA+CF,LEV,2FMXT05.4PF5,pickup,0,N/A,12,17,14,18.0959,2,no
+FORD F150,4.6,(8 cyl),Auto-L4,4WD,Gasoline,FA+CF,LEV,2FMXT05.4PF5,pickup,0,N/A,13,17,14,18.352,2,no
+FORD F150,4.6,,,2WD,Gasoline,NF,LEV,2FMXT05.4RF8,pickup,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+FORD F150,4.6,,,4WD,Gasoline,NF,LEV,2FMXT05.4RF8,pickup,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+FORD F150,4.6,(8 cyl),Auto-L4,4WD,Gasoline,NF,LEV,2FMXT05.4RF8,pickup,0,N/A,13,17,14,18.352,2,no
+FORD F150,5.4,(8 cyl),Auto-L4,2WD,Gasoline,FA+CF,LEV,2FMXT05.4PF5,pickup,0,N/A,13,18,15,19.2273,3,no
+FORD F150,5.4,(8 cyl),Auto-L4,4WD,Gasoline,FA+CF,LEV,2FMXT05.4PF5,pickup,0,N/A,12,16,14,17.7241,2,no
+FORD F150,5.4,,,2WD,Gasoline,NF,LEV,2FMXT05.4RF8,pickup,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+FORD F150,5.4,,,2WD,Gasoline,FA+CF,LEV,2G9XT05.46NN,pickup,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+FORD F150,5.4,(8 cyl),Auto-L4,2WD,Gasoline,NF,LEV,2FMXT05.4RF8,pickup,0,N/A,11,15,12,15.7374,0,no
+FORD F150,5.4,(8 cyl),Auto-L4,2WD,Gasoline,NF,LEV,2FMXT05.4RF8,pickup,0,N/A,13,18,15,19.2273,3,no
+FORD F150,5.4,,,4WD,Gasoline,NF,LEV,2FMXT05.4RF8,pickup,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+FORD F150,5.4,,,4WD,Gasoline,FA+CF,LEV,2G9XT05.46NN,pickup,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+FORD F150,5.4,(8 cyl),Auto-L4,4WD,Gasoline,NF,LEV,2FMXT05.4RF8,pickup,0,N/A,12,16,14,17.7241,2,no
+FORD F150,5.4,,,2WD,CNG/gas,CA,ULEV,2G9XT05.46NN,pickup,1/0,N/A,N/A,N/A,N/A,N/A,N/A,no
+FORD F150,5.4,,,4WD,CNG/gas,CA,ULEV,2G9XT05.46NN,pickup,1/0,N/A,N/A,N/A,N/A,N/A,N/A,no
+FORD F250,5.4,,,2WD,Gasoline,CA,LEV,2FMXA05.4JFC,pickup,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+FORD F250,5.4,,,4WD,Gasoline,CA,LEV,2FMXA05.4JFC,pickup,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+FORD F250,6.8,,,2WD,Gasoline,CA,LEV,2FMXA06.8JFC,pickup,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+FORD F250,6.8,,,4WD,Gasoline,CA,LEV,2FMXA06.8JFC,pickup,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+FORD F350,5.4,,,2WD,Gasoline,CA,LEV,2FMXA05.4JFC,pickup,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+FORD F350,5.4,,,4WD,Gasoline,CA,LEV,2FMXA05.4JFC,pickup,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+FORD F350,6.8,,,2WD,Gasoline,CA,LEV,2FMXA06.8JFC,pickup,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+FORD F350,6.8,,,4WD,Gasoline,CA,LEV,2FMXA06.8JFC,pickup,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+FORD Focus,2,(4 cyl),Man-5,2WD,Gasoline,NF,ULEV,2FMXV02.0VJ3,small car,3,N/A,22,31,25,33.5027,7,no
+FORD Focus,2,(4 cyl),Auto-L4,2WD,Gasoline,CA,ULEV,2FMXV02.0VJ4,small car,3,N/A,23,29,25,33.1634,7,no
+FORD Focus,2,(4 cyl),Auto-L4,2WD,Gasoline,NF,ULEV,2FMXV02.0VJ3,small car,3,N/A,23,29,25,33.2869,7,no
+FORD Focus,2,(4 cyl),Man-5,2WD,Gasoline,NF,ULEV,2FMXV02.0VJ3,small car,3,N/A,25,32,28,36.6636,8,no
+FORD Focus,2,(4 cyl),Man-6,2WD,Gasoline,NF,LEV,2FMXV02.0VF4,small car,2,N/A,18,23,20,26.3631,6,no
+FORD Focus,2,(4 cyl),Auto-L4,2WD,Gasoline,NF,LEV,2FMXV02.0VF3,small car,2,N/A,23,29,25,33.1634,7,no
+FORD Focus,2,(4 cyl),Auto-L4,2WD,Gasoline,NF,LEV,2FMXV02.0VF3,small car,2,N/A,23,29,25,33.2869,7,no
+FORD Focus,2,(4 cyl),Auto-L4,2WD,Gasoline,NF,LEV,2FMXV02.0VF6,small car,2,N/A,23,29,25,33.2869,7,no
+FORD Focus,2,(4 cyl),Man-5,2WD,Gasoline,NF,LEV,2FMXV02.0VF3,small car,2,N/A,25,32,28,36.6636,8,no
+FORD Focus Station Wagon,2,(4 cyl),Man-5,2WD,Gasoline,NF,ULEV,2FMXV02.0VJ3,station wagon,3,N/A,22,31,25,33.5027,7,no
+FORD Focus Station Wagon,2,(4 cyl),Auto-L4,2WD,Gasoline,CA,ULEV,2FMXV02.0VJ4,station wagon,3,N/A,23,29,25,33.1634,7,no
+FORD Focus Station Wagon,2,(4 cyl),Auto-L4,2WD,Gasoline,NF,LEV,2FMXV02.0VF3,station wagon,2,N/A,23,29,25,33.1036,7,no
+FORD Focus Station Wagon,2,(4 cyl),Auto-L4,2WD,Gasoline,NF,LEV,2FMXV02.0VF3,station wagon,2,N/A,23,29,25,33.1634,7,no
+FORD Focus Station Wagon,2,(4 cyl),Man-5,2WD,Gasoline,NF,LEV,2FMXV02.0VF3,station wagon,2,N/A,25,32,28,36.6636,8,no
+FORD Mustang,3.8,(6 cyl),Auto-L4,2WD,Gasoline,NF,ULEV,2FMXV03.8VH5,small car,3,N/A,17,25,20,25.876,6,no
+FORD Mustang,3.8,(6 cyl),Man-5,2WD,Gasoline,NF,ULEV,2FMXV03.8VH5,small car,3,N/A,17,27,21,26.8547,6,no
+FORD Mustang,3.8,(6 cyl),Auto-L4,2WD,Gasoline,NL+CF,LEV,2FMXV03.8VFB,small car,2,N/A,17,25,20,25.876,6,no
+FORD Mustang,3.8,(6 cyl),Man-5,2WD,Gasoline,NL+CF,LEV,2FMXV03.8VFB,small car,2,N/A,17,27,21,26.8547,6,no
+FORD Mustang,4.6,(8 cyl),Auto-L4,2WD,Gasoline,CL,TLEV,2FMXV04.6VD4,small car,1,N/A,16,22,18,23.2329,5,no
+FORD Mustang,4.6,(8 cyl),Man-5,2WD,Gasoline,CL,TLEV,2FMXV04.6VD4,small car,1,N/A,16,23,19,24.3967,5,no
+FORD Ranger,2.3,(4 cyl),Auto-L5,2WD,Gasoline,NF,LEV,2FMXT02.31F5,pickup,2,N/A,18,23,20,26.1276,6,no
+FORD Ranger,2.3,(4 cyl),Man-5,2WD,Gasoline,NF,LEV,2FMXT02.31F5,pickup,2,N/A,21,25,23,29.6888,7,no
+FORD Ranger,3,(6 cyl),Auto-L5,2WD,Gasoline,NF,LEV,2FMXT03.01F5,pickup,2,N/A,15,20,17,22.1094,4,no
+FORD Ranger,3,(6 cyl),Man-5,2WD,Gasoline,NF,LEV,2FMXT03.01F5,pickup,2,N/A,17,21,18,23.7253,5,no
+FORD Ranger,4,(6 cyl),Auto-L5,2WD,Gasoline,NF,LEV,2FMXT04.01F6,pickup,2,N/A,15,20,17,21.5534,4,no
+FORD Ranger,3,(6 cyl),Auto-L5,2WD,Gasoline,NF,LEV,2FMXT03.02F5,pickup,1,N/A,15,20,17,22.1094,4,no
+FORD Ranger,3,(6 cyl),Man-5,2WD,Gasoline,NF,LEV,2FMXT03.02F5,pickup,1,N/A,17,21,18,23.7253,5,no
+FORD Ranger,3,(6 cyl),Auto-L5,4WD,Gasoline,NF,LEV,2FMXT03.02F5,pickup,1,N/A,14,17,16,20.0312,4,no
+FORD Ranger,3,(6 cyl),Man-5,4WD,Gasoline,NF,LEV,2FMXT03.02F5,pickup,1,N/A,16,20,17,22.5,4,no
+FORD Ranger,4,(6 cyl),Auto-L5,2WD,Gasoline,NF,LEV,2FMXT04.02F3,pickup,1,N/A,15,20,17,21.5534,4,no
+FORD Ranger,4,(6 cyl),Man-5,2WD,Gasoline,NF,LEV,2FMXT04.02F3,pickup,1,N/A,16,20,17,22.3791,4,no
+FORD Ranger,4,(6 cyl),Auto-L5,4WD,Gasoline,NF,LEV,2FMXT04.02F3,pickup,1,N/A,13,17,15,18.8516,3,no
+FORD Ranger,4,(6 cyl),Man-5,4WD,Gasoline,NF,LEV,2FMXT04.02F3,pickup,1,N/A,14,18,15,19.8766,3,no
+FORD Taurus,3,(6 cyl),Auto-L4,2WD,Gasoline,NF,LEV,2FMXV03.0VF3,large car,2,N/A,18,25,20,26.52,6,no
+FORD Taurus,3,(6 cyl),Auto-L4,2WD,Gasoline,NF,LEV,2FMXV03.0VF3,large car,2,N/A,18,25,21,26.6762,6,no
+FORD Taurus Wagon,3,(6 cyl),Auto-L4,2WD,Gasoline,NF,LEV,2FMXV03.0VF3,station wagon,2,N/A,17,24,19,25.1087,5,no
+FORD Taurus Wagon,3,(6 cyl),Auto-L4,2WD,Gasoline,NF,LEV,2FMXV03.0VF3,station wagon,2,N/A,17,24,20,25.9715,6,no
+FORD Thunderbird,3.9,(8 cyl),Auto-L5,2WD,Gasoline,CL,LEV,2FMXV03.9VF5,small car,2,N/A,15,22,17,22.3411,4,no
+FORD Windstar,3.8,(6 cyl),Auto-L4,2WD,Gasoline,NF,ULEV,2FMXT03.82J7,minivan,2,N/A,16,21,18,22.802,5,no
+FORD Windstar Cargo Van,3.8,(6 cyl),Auto-L4,2WD,Gasoline,NF,ULEV,2FMXT03.82J7,minivan,2,N/A,16,21,18,22.802,5,no
+GMC Envoy,4.2,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2GMXT04.2185,SUV,1,N/A,14,20,16,20.8709,4,no
+GMC Envoy,4.2,(6 cyl),Auto-L4,4WD,Gasoline,CL,LEV,2GMXT04.2185,SUV,1,N/A,14,19,16,20.1388,4,no
+GMC Envoy,4.2,(6 cyl),Auto-L4,2WD,Gasoline,CA,LEV,2GMXA04.2187,SUV,1,N/A,14,19,16,20.0082,4,no
+GMC Envoy,4.2,(6 cyl),Auto-L4,4WD,Gasoline,CA,LEV,2GMXA04.2187,SUV,1,N/A,14,19,15,19.8854,3,no
+GMC Envoy,4.2,(6 cyl),Auto-L4,2WD,Gasoline,FA,T1,2GMXT04.2188,SUV,0,N/A,14,19,16,20.0082,4,no
+GMC Envoy,4.2,(6 cyl),Auto-L4,4WD,Gasoline,FA,T1,2GMXT04.2188,SUV,0,N/A,14,19,15,19.8854,3,no
+GMC Jimmy,4.3,(6 cyl),Man-5,2WD,Gasoline,NL+CF,LEV,2GMXT04.3182,SUV,1,N/A,14,20,16,20.8677,4,no
+GMC Jimmy,4.3,(6 cyl),Man-5,2WD,Gasoline,CL,LEV,2GMXT04.3187,SUV,1,N/A,14,20,16,20.8677,4,no
+GMC Jimmy,4.3,(6 cyl),Auto-L4,2WD,Gasoline,NL+CF,LEV,2GMXT04.3182,SUV,1,N/A,15,20,17,22.2491,4,no
+GMC Jimmy,4.3,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2GMXT04.3187,SUV,1,N/A,15,20,17,22.2491,4,no
+GMC Jimmy,4.3,(6 cyl),Man-5,4WD,Gasoline,CL,LEV,2GMXT04.3187,SUV,1,N/A,12,16,14,17.6413,2,no
+GMC Jimmy,4.3,(6 cyl),Auto-L4,4WD,Gasoline,NL+CF,LEV,2GMXT04.3182,SUV,1,N/A,14,18,15,19.8471,3,no
+GMC Jimmy,4.3,(6 cyl),Auto-L4,4WD,Gasoline,CL,LEV,2GMXT04.3187,SUV,1,N/A,14,18,15,19.8471,3,no
+GMC Safari,4.3,(6 cyl),Auto-L4,4WD,Gasoline,NL+CF,LEV,2GMXT04.3183,van,1,N/A,14,18,15,19.8471,3,no
+GMC Safari,4.3,(6 cyl),Auto-L4,4WD,Gasoline,CL,LEV,2GMXT04.3188,van,1,N/A,14,18,15,19.8471,3,no
+GMC Safari,4.3,(6 cyl),Auto-L4,2WD,Gasoline,NL+CF,LEV,2GMXT04.3183,van,1,N/A,15,20,17,22.2491,4,no
+GMC Safari,4.3,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2GMXT04.3188,van,1,N/A,15,20,17,22.2491,4,no
+GMC Safari,4.3,(6 cyl),Auto-L4,2WD,Gasoline,NL+CF,LEV,2GMXT04.3183,van,1,N/A,14,18,16,20.076,4,no
+GMC Safari,4.3,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2GMXT04.3188,van,1,N/A,14,18,16,20.076,4,no
+GMC Safari,4.3,(6 cyl),Auto-L4,4WD,Gasoline,CA,ULEV,2GMXA04.3189,van,1,N/A,14,18,15,19.8471,3,no
+GMC Safari,4.3,(6 cyl),Auto-L4,4WD,Gasoline,CA,ULEV,2GMXA04.3189,van,1,N/A,13,17,15,19.0098,3,no
+GMC Safari,4.3,(6 cyl),Auto-L4,4WD,Gasoline,FA,T1,2GMXT04.3181,van,0,N/A,14,18,15,19.8471,3,no
+GMC Safari,4.3,(6 cyl),Auto-L4,4WD,Gasoline,FA,T1,2GMXT04.3181,van,0,N/A,13,17,15,19.0098,3,no
+GMC Savana 1500,4.3,(6 cyl),Auto-L4,2WD,Gasoline,CA,LEV,2GMXA04.3192,van,1,N/A,13,17,15,18.9215,3,no
+GMC Savana 1500,4.3,(6 cyl),Auto-L4,2WD,Gasoline,CA,LEV,2GMXA04.3192,van,1,N/A,13,16,14,18.2743,2,no
+GMC Savana 1500,4.3,(6 cyl),Auto-L4,2WD,Gasoline,FA+CF,LEV,2GMXT04.3193,van,0,N/A,13,17,15,18.9215,3,no
+GMC Savana 1500,4.3,(6 cyl),Auto-L4,2WD,Gasoline,FA+CF,LEV,2GMXT04.3193,van,0,N/A,13,16,14,18.2743,2,no
+GMC Savana 1500,4.3,(6 cyl),Auto-L4,2WD,Gasoline,FA,T1,2GMXT04.3180,van,0,N/A,13,17,15,18.9215,3,no
+GMC Savana 1500,4.3,(6 cyl),Auto-L4,2WD,Gasoline,FA,T1,2GMXT04.3185,van,0,N/A,13,17,15,18.9215,3,no
+GMC Savana 1500,4.3,(6 cyl),Auto-L4,2WD,Gasoline,FA,T1,2GMXT04.3185,van,0,N/A,13,16,14,18.2743,2,no
+GMC Savana 1500,5,(8 cyl),Auto-L4,2WD,Gasoline,FA,T1,2GMXT05.0181,van,0,N/A,13,17,15,19.0465,3,no
+GMC Savana 1500,5,(8 cyl),Auto-L4,2WD,Gasoline,FA,T1,2GMXT05.0182,van,0,N/A,13,17,15,19.0465,3,no
+GMC Savana 1500,5,(8 cyl),Auto-L4,2WD,Gasoline,FA,T1,2GMXT05.0182,van,0,N/A,13,17,15,18.7116,3,no
+GMC Savana 1500,5,(8 cyl),Auto-L4,2WD,Gasoline,CA,T1,2GMXT05.0181,van,0,N/A,13,17,15,19.0465,3,no
+GMC Savana 1500,5,(8 cyl),Auto-L4,2WD,Gasoline,CA,T1,2GMXT05.0182,van,0,N/A,13,17,15,19.0465,3,no
+GMC Savana 1500,5,(8 cyl),Auto-L4,2WD,Gasoline,CA,T1,2GMXT05.0182,van,0,N/A,13,17,15,18.7116,3,no
+GMC Savana 1500,5.7,(8 cyl),Auto-L4,2WD,Gasoline,FA+CF,LEV,2GMXT05.7195,van,0,N/A,12,16,14,17.7245,2,no
+GMC Savana 1500,5.7,(8 cyl),Auto-L4,2WD,Gasoline,FA+CF,LEV,2GMXT05.7195,van,0,N/A,12,16,14,17.346,2,no
+GMC Savana 1500,5.7,(8 cyl),Auto-L4,2WD,Gasoline,CA,LEV,2GMXA06.0194,van,0,N/A,12,16,14,17.7245,2,no
+GMC Savana 1500,5.7,(8 cyl),Auto-L4,2WD,Gasoline,CA,LEV,2GMXA06.0194,van,0,N/A,12,16,14,17.346,2,no
+GMC Savana 1500,5.7,(8 cyl),Auto-L4,2WD,Gasoline,FA,T1,2GMXT06.0187,van,0,N/A,12,16,14,17.7245,2,no
+GMC Savana 1500,5.7,(8 cyl),Auto-L4,2WD,Gasoline,FA,T1,2GMXT06.0187,van,0,N/A,12,16,14,17.346,2,no
+GMC Savana 2500,4.3,(6 cyl),Auto-L4,2WD,Gasoline,CA,LEV,2GMXA04.3192,van,1,N/A,13,17,15,18.9215,3,no
+GMC Savana 2500,4.3,(6 cyl),Auto-L4,2WD,Gasoline,CA,LEV,2GMXA04.3192,van,1,N/A,13,16,14,18.2743,2,no
+GMC Savana 2500,4.3,(6 cyl),Auto-L4,2WD,Gasoline,FA+CF,LEV,2GMXT04.3193,van,0,N/A,13,17,15,18.9215,3,no
+GMC Savana 2500,4.3,(6 cyl),Auto-L4,2WD,Gasoline,FA+CF,LEV,2GMXT04.3193,van,0,N/A,13,16,14,18.2743,2,no
+GMC Savana 2500,4.3,(6 cyl),Auto-L4,2WD,Gasoline,FA,T1,2GMXT04.3180,van,0,N/A,13,17,15,18.9215,3,no
+GMC Savana 2500,4.3,(6 cyl),Auto-L4,2WD,Gasoline,FA,T1,2GMXT04.3185,van,0,N/A,13,17,15,18.9215,3,no
+GMC Savana 2500,4.3,(6 cyl),Auto-L4,2WD,Gasoline,FA,T1,2GMXT04.3185,van,0,N/A,13,16,14,18.2743,2,no
+GMC Savana 2500,5,(8 cyl),Auto-L4,2WD,Gasoline,FA,T1,2GMXT05.0181,van,0,N/A,13,17,15,19.0465,3,no
+GMC Savana 2500,5,(8 cyl),Auto-L4,2WD,Gasoline,FA,T1,2GMXT05.0182,van,0,N/A,13,17,15,19.0465,3,no
+GMC Savana 2500,5,(8 cyl),Auto-L4,2WD,Gasoline,FA,T1,2GMXT05.0182,van,0,N/A,13,17,15,18.7116,3,no
+GMC Savana 2500,5,(8 cyl),Auto-L4,2WD,Gasoline,CA,T1,2GMXT05.0181,van,0,N/A,13,17,15,19.0465,3,no
+GMC Savana 2500,5,(8 cyl),Auto-L4,2WD,Gasoline,CA,T1,2GMXT05.0182,van,0,N/A,13,17,15,19.0465,3,no
+GMC Savana 2500,5,(8 cyl),Auto-L4,2WD,Gasoline,CA,T1,2GMXT05.0182,van,0,N/A,13,17,15,18.7116,3,no
+GMC Savana 2500,5.7,(8 cyl),Auto-L4,2WD,Gasoline,FA+CF,LEV,2GMXT05.7195,van,0,N/A,12,16,14,17.7245,2,no
+GMC Savana 2500,5.7,(8 cyl),Auto-L4,2WD,Gasoline,FA+CF,LEV,2GMXT05.7195,van,0,N/A,12,16,14,17.346,2,no
+GMC Savana 2500,5.7,(8 cyl),Auto-L4,2WD,Gasoline,CA,LEV,2GMXA06.0194,van,0,N/A,12,16,14,17.7245,2,no
+GMC Savana 2500,5.7,(8 cyl),Auto-L4,2WD,Gasoline,CA,LEV,2GMXA06.0194,van,0,N/A,12,16,14,17.346,2,no
+GMC Savana 2500,5.7,(8 cyl),Auto-L4,2WD,Gasoline,FA,T1,2GMXT06.0187,van,0,N/A,12,16,14,17.7245,2,no
+GMC Savana 2500,5.7,(8 cyl),Auto-L4,2WD,Gasoline,FA,T1,2GMXT06.0187,van,0,N/A,12,16,14,17.346,2,no
+GMC Savana 2500 Dual-Fuel,5.7,,,,CNG/gas,CA,LEV,2TJXT05.7188,van,0/0,N/A,N/A,N/A,N/A,N/A,N/A,no
+GMC Savana 2500 Dual-Fuel,5.7,,,,CNG/gas,CA,LEV,2TJXT05.7188,van,0/0,N/A,N/A,N/A,N/A,N/A,N/A,no
+GMC Savana 3500,5.7,,,,Gasoline,CA,LEV,2GMXA06.0188,van,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+GMC Savana 3500,5.7,,,,Gasoline,CA,LEV,2GMXA06.0188,van,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+GMC Savana 3500,6,,,,Gasoline,CA,LEV,2GMXA06.0188,van,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+GMC Savana 3500,6,,,,Gasoline,CA,LEV,2GMXA06.0188,van,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+GMC Savana 3500,8.1,,,,Gasoline,CA,LEV,2GMXA08.1201,van,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+GMC Savana 3500,8.1,,,,Gasoline,CA,LEV,2GMXA08.1201,van,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+GMC Savana 3500 Dual-Fuel,5.7,,,,CNG/gas,CA,LEV,2TJXT05.7188,van,0/0,N/A,N/A,N/A,N/A,N/A,N/A,no
+GMC Savana 3500 Dual-Fuel,5.7,,,,CNG/gas,CA,LEV,2TJXT05.7188,van,0/0,N/A,N/A,N/A,N/A,N/A,N/A,no
+GMC Sierra 1500,4.8,(8 cyl),Auto-L4,2WD,Gasoline,CA,LEV,2GMXA04.8183,pickup,1,N/A,14,18,15,19.929,3,no
+GMC Sierra 1500,4.8,(8 cyl),Man-5,2WD,Gasoline,CA,LEV,2GMXA04.8183,pickup,1,N/A,14,19,16,20.7897,4,no
+GMC Sierra 1500,4.8,(8 cyl),Auto-L4,4WD,Gasoline,CA,LEV,2GMXA04.8183,pickup,1,N/A,13,16,14,18.2602,2,no
+GMC Sierra 1500,5.3,(8 cyl),Auto-L4,2WD,Gasoline,CA,ULEV,2GMXA05.3187,pickup,1,N/A,13,17,15,18.93,3,no
+GMC Sierra 1500,5.3,(8 cyl),Auto-L4,4WD,Gasoline,CA,ULEV,2GMXA05.3187,pickup,1,N/A,13,16,14,17.847,2,no
+GMC Sierra 1500,5.3,(8 cyl),Auto-L4,4WD,Gasoline,CA,ULEV,2GMXA05.3185,pickup,1,N/A,13,16,14,17.847,2,no
+GMC Sierra 1500,4.3,(6 cyl),Auto-L4,2WD,Gasoline,FA,T1,2GMXT04.3184,pickup,0,N/A,14,18,16,20.076,4,no
+GMC Sierra 1500,4.3,(6 cyl),Man-5,2WD,Gasoline,FA,T1,2GMXT04.3184,pickup,0,N/A,15,19,16,21.2604,4,no
+GMC Sierra 1500,4.3,(6 cyl),Man-5,4WD,Gasoline,FA,T1,2GMXT04.3184,pickup,0,N/A,13,16,14,17.8123,2,no
+GMC Sierra 1500,4.3,(6 cyl),Auto-L4,4WD,Gasoline,FA,T1,2GMXT04.3184,pickup,0,N/A,13,17,15,19.0098,3,no
+GMC Sierra 1500,4.8,(8 cyl),Auto-L4,2WD,Gasoline,FA,T1,2GMXT05.3181,pickup,0,N/A,14,18,15,19.929,3,no
+GMC Sierra 1500,4.8,(8 cyl),Man-5,2WD,Gasoline,FA,T1,2GMXT05.3181,pickup,0,N/A,14,19,16,20.7897,4,no
+GMC Sierra 1500,4.8,(8 cyl),Man-5,4WD,Gasoline,FA,T1,2GMXT05.3181,pickup,0,N/A,12,16,14,17.4651,2,no
+GMC Sierra 1500,4.8,(8 cyl),Auto-L4,4WD,Gasoline,FA,T1,2GMXT05.3181,pickup,0,N/A,13,16,14,18.2602,2,no
+GMC Sierra 1500,4.8,(8 cyl),Auto-L4,4WD,Gasoline,FA,T1,2GMXT05.3182,pickup,0,N/A,13,16,14,18.2602,2,no
+GMC Sierra 1500,5.3,(8 cyl),Auto-L4,2WD,Gasoline,FA,T1,2GMXT05.3181,pickup,0,N/A,13,17,15,18.93,3,no
+GMC Sierra 1500,5.3,(8 cyl),Auto-L4,2WD,Gasoline,FA,T1,2GMXT05.3177,pickup,0,N/A,13,17,15,18.9459,3,no
+GMC Sierra 1500,5.3,(8 cyl),Auto-L4,4WD,Gasoline,FA,T1,2GMXT05.3177,pickup,0,N/A,12,16,14,17.6267,2,no
+GMC Sierra 1500,5.3,(8 cyl),Auto-L4,4WD,Gasoline,FA,T1,2GMXT05.3181,pickup,0,N/A,13,16,14,17.847,2,no
+GMC Sierra 1500,5.3,(8 cyl),Auto-L4,4WD,Gasoline,FA,T1,2GMXT05.3182,pickup,0,N/A,13,16,14,17.847,2,no
+GMC Sierra 1500,6,(8 cyl),Auto-L4,4WD,Gasoline,CA,LEV,2GMXA06.0194,pickup,0,N/A,11,14,12,15.8602,0,no
+GMC Sierra 1500,6,(8 cyl),Auto-L4,4WD,Gasoline,FA,T1,2GMXT06.0187,pickup,0,N/A,11,14,12,15.8602,0,no
+GMC Sierra 2500,5.7,,,2WD,Gasoline,CA,LEV,2GMXA06.0188,pickup,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+GMC Sierra 2500,5.7,,,4WD,Gasoline,CA,LEV,2GMXA06.0188,pickup,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+GMC Sierra 2500,6,,,2WD,CNG,CA,LEV,2TJXT06.0188,pickup,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+GMC Sierra 2500,6,,,2WD,CNG,CA,LEV,2TJXT06.0TCU,pickup,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+GMC Sierra 2500,6,(8 cyl),Auto-L4,2WD,CNG,CA,LEV,2TJXT06.0TCU,pickup,0,N/A,10,12,11,13.8707,1,no
+GMC Sierra 2500,6,,,4WD,CNG,CA,LEV,2TJXT06.0TCU,pickup,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+GMC Sierra 2500,6,,,2WD,Gasoline,CA,LEV,2GMXA06.0188,pickup,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+GMC Sierra 2500,6,,,4WD,Gasoline,CA,LEV,2GMXA06.0188,pickup,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+GMC Sierra 2500,8.1,,,2WD,Gasoline,CA,LEV,2GMXA08.1201,pickup,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+GMC Sierra 2500,8.1,,,4WD,Gasoline,CA,LEV,2GMXA08.1201,pickup,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+GMC Sierra 2500,6,,,4WD,CNG/gas,CA,LEV,2TJXT06.0188,pickup,0/0,N/A,N/A,N/A,N/A,N/A,N/A,no
+GMC Sierra 2500,6,,,2WD,CNG,CF,N/A*,2TJXT06.0TCU,pickup,N/A*,N/A,N/A,N/A,N/A,N/A*,N/A*,N/A*
+GMC Sierra 2500,6,(8 cyl),Auto-L4,2WD,CNG,CF,N/A*,2TJXT06.0TCU,pickup,N/A*,N/A,N/A*,N/A*,N/A*,N/A*,N/A*,N/A*
+GMC Sierra 2500,6,,,4WD,CNG/gas,CF,N/A*,2TJXT06.0188,pickup,N/A*,N/A,N/A,N/A,N/A,N/A*,N/A*,N/A*
+GMC Sierra 2500,6,,,4WD,CNG,CF,N/A*,2TJXT06.0TCU,pickup,N/A*,N/A,N/A,N/A,N/A,N/A*,N/A*,N/A*
+GMC Sierra 3500,5.7,,,2WD,Gasoline,CA,LEV,2GMXA06.0188,pickup,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+GMC Sierra 3500,5.7,,,4WD,Gasoline,CA,LEV,2GMXA06.0188,pickup,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+GMC Sierra 3500,6,,,2WD,Gasoline,CA,LEV,2GMXA06.0188,pickup,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+GMC Sierra 3500,6,,,4WD,Gasoline,CA,LEV,2GMXA06.0188,pickup,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+GMC Sierra 3500,8.1,,,2WD,Gasoline,CA,LEV,2GMXA08.1203,pickup,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+GMC Sierra 3500,8.1,,,4WD,Gasoline,CA,LEV,2GMXA08.1203,pickup,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+GMC Sonoma,2.2,(4 cyl),Auto-L4,2WD,Gasoline,NF,LEV,2GMXT02.2122,pickup,2,N/A,17,23,19,24.7686,5,no
+GMC Sonoma,2.2,(4 cyl),Man-5,2WD,Gasoline,NF,LEV,2GMXT02.2122,pickup,2,N/A,19,25,22,28.3953,6,no
+GMC Sonoma,4.3,(6 cyl),Man-5,2WD,Gasoline,CL,LEV,2GMXT04.3186,pickup,2,N/A,14,20,16,21.021,4,no
+GMC Sonoma,4.3,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2GMXT04.3186,pickup,2,N/A,15,20,17,22.2831,4,no
+GMC Sonoma,4.3,(6 cyl),Man-5,2WD,Gasoline,NL+CF,LEV,2GMXT04.3182,pickup,1,N/A,14,20,16,21.021,4,no
+GMC Sonoma,4.3,(6 cyl),Man-5,2WD,Gasoline,CL,LEV,2GMXT04.3187,pickup,1,N/A,14,20,16,21.021,4,no
+GMC Sonoma,4.3,(6 cyl),Auto-L4,2WD,Gasoline,NL+CF,LEV,2GMXT04.3182,pickup,1,N/A,15,20,17,22.2831,4,no
+GMC Sonoma,4.3,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2GMXT04.3187,pickup,1,N/A,15,20,17,22.2831,4,no
+GMC Sonoma,4.3,(6 cyl),Man-5,4WD,Gasoline,NL+CF,LEV,2GMXT04.3182,pickup,1,N/A,12,16,14,17.6413,2,no
+GMC Sonoma,4.3,(6 cyl),Man-5,4WD,Gasoline,CL,LEV,2GMXT04.3187,pickup,1,N/A,12,16,14,17.6413,2,no
+GMC Sonoma,4.3,(6 cyl),Auto-L4,4WD,Gasoline,NL+CF,LEV,2GMXT04.3182,pickup,1,N/A,14,18,15,19.8471,3,no
+GMC Sonoma,4.3,(6 cyl),Auto-L4,4WD,Gasoline,CL,LEV,2GMXT04.3187,pickup,1,N/A,14,18,15,19.8471,3,no
+GMC Yukon 1500,5.3,(8 cyl),Auto-L4,2WD,Gasoline,CA,ULEV,2GMXA05.3185,SUV,1,N/A,13,17,14,18.4479,2,no
+GMC Yukon 1500,5.3,(8 cyl),Auto-L4,4WD,Gasoline,CA,ULEV,2GMXA05.3185,SUV,1,N/A,12,15,13,16.9778,1,no
+GMC Yukon 1500,5.3,(8 cyl),Auto-L4,4WD,Gasoline,CA,ULEV,2GMXA05.3185,SUV,1,N/A,12,15,13,17.1114,1,no
+GMC Yukon 1500,4.8,(8 cyl),Auto-L4,2WD,Gasoline,CA,LEV,2GMXA04.8184,SUV,0,N/A,13,18,15,19.2452,3,no
+GMC Yukon 1500,4.8,(8 cyl),Auto-L4,4WD,Gasoline,CA,LEV,2GMXA04.8184,SUV,0,N/A,13,16,14,17.9973,2,no
+GMC Yukon 1500,4.8,(8 cyl),Auto-L4,2WD,Gasoline,FA,T1,2GMXT05.3182,SUV,0,N/A,13,18,15,19.2452,3,no
+GMC Yukon 1500,4.8,(8 cyl),Auto-L4,4WD,Gasoline,FA,T1,2GMXT05.3182,SUV,0,N/A,13,16,14,17.9973,2,no
+GMC Yukon 1500,5.3,(8 cyl),Auto-L4,2WD,Gasoline,FA,T1,2GMXT05.3188,SUV,0,N/A,13,17,14,18.3529,2,no
+GMC Yukon 1500,5.3,(8 cyl),Auto-L4,2WD,Gasoline,FA,T1,2GMXT05.3182,SUV,0,N/A,13,17,14,18.4479,2,no
+GMC Yukon 1500,5.3,(8 cyl),Auto-L4,4WD,Gasoline,FA,T1,2GMXT05.3188,SUV,0,N/A,12,16,14,17.4032,2,no
+GMC Yukon 1500,5.3,(8 cyl),Auto-L4,4WD,Gasoline,FA,T1,2GMXT05.3188,SUV,0,N/A,12,16,14,17.5142,2,no
+GMC Yukon 1500,6,(8 cyl),Auto-L4,4WD,Gasoline,CA,LEV,2GMXA06.0194,SUV,0,N/A,10,14,12,15.031,0,no
+GMC Yukon 1500,6,(8 cyl),Auto-L4,4WD,Gasoline,FA,T1,2GMXT06.0187,SUV,0,N/A,10,14,12,15.031,0,no
+GMC Yukon 2500,5.7,,,2WD,Gasoline,CA,LEV,2GMXA06.0188,SUV,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+GMC Yukon 2500,5.7,,,4WD,Gasoline,CA,LEV,2GMXA06.0188,SUV,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+GMC Yukon 2500,6,,,2WD,Gasoline,CA,LEV,2GMXA06.0188,SUV,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+GMC Yukon 2500,6,,,4WD,Gasoline,CA,LEV,2GMXA06.0188,SUV,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+GMC Yukon 2500,8.1,,,2WD,Gasoline,CA,LEV,2GMXA08.1201,SUV,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+GMC Yukon 2500,8.1,,,4WD,Gasoline,CA,LEV,2GMXA08.1201,SUV,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+HONDA Accord,2.3,(4 cyl),Auto-L4,2WD,Gasoline,CA,SLEV,2HNXV02.3FK6,midsize car,9,N/A,20,28,23,29.9568,7,yes
+HONDA Accord,2.3,(4 cyl),Auto-L4,2WD,Gasoline,CL,ULEV,2HNXV02.3MJT,midsize car,3,N/A,20,28,23,29.9568,7,no
+HONDA Accord,2.3,(4 cyl),Man-5,2WD,Gasoline,CL,ULEV,2HNXV02.3MJT,midsize car,3,N/A,22,29,25,32.7817,7,no
+HONDA Accord,2.3,(4 cyl),Auto-L4,2WD,Gasoline,NF,LEV,2HNXV02.3PNP,midsize car,2,N/A,20,28,23,29.7613,7,no
+HONDA Accord,2.3,(4 cyl),Auto-L4,2WD,Gasoline,NF,LEV,2HNXV02.3RDA,midsize car,2,N/A,20,28,23,29.9568,7,no
+HONDA Accord,2.3,(4 cyl),Man-5,2WD,Gasoline,NF,LEV,2HNXV02.3PNP,midsize car,2,N/A,22,29,24,31.9641,7,no
+HONDA Accord,2.3,(4 cyl),Man-5,2WD,Gasoline,NF,LEV,2HNXV02.3RDA,midsize car,2,N/A,22,29,25,32.7817,7,no
+HONDA Accord,3,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2HNXV03.0WYC,midsize car,2,N/A,18,26,21,26.9611,6,no
+HONDA CR-V,2.4,(4 cyl),Auto-L4,2WD,Gasoline,NF,LEV,2HNXT02.4YBP,SUV,6,N/A,20,26,23,29.7334,7,yes
+HONDA CR-V,2.4,(4 cyl),Man-5,4WD,Gasoline,NF,LEV,2HNXT02.4YBP,SUV,6,N/A,19,23,21,26.9022,6,no
+HONDA CR-V,2.4,(4 cyl),Auto-L4,4WD,Gasoline,NF,LEV,2HNXT02.4YBP,SUV,6,N/A,20,24,21,27.9422,6,no
+HONDA Civic,1.7,(4 cyl),Auto-AV,2WD,CNG,CA,SLEV,2HNXV01.74WN,small car,9.5,N/A,26,31,28,37.29,9,yes
+HONDA Civic,1.7,(4 cyl),Auto-AV,2WD,CNG,NL+CF,ULEV,2HNXV01.74WN,small car,9,N/A,26,31,28,37.29,9,yes
+HONDA Civic,2,(4 cyl),Man-5,2WD,Gasoline,CL,LEV,2HNXV02.0VBP,small car,6,N/A,23,28,25,32.7826,7,yes
+HONDA Civic,1.7,(4 cyl),Auto-L4,2WD,Gasoline,NF,ULEV,2HNXV01.7TA5,small car,3,N/A,26,34,29,38.4761,8,no
+HONDA Civic,1.7,(4 cyl),Auto-L4,2WD,Gasoline,NF,ULEV,2HNXV01.7NA5,small car,3,N/A,26,35,30,39.4447,8,no
+HONDA Civic,1.7,(4 cyl),Man-5,2WD,Gasoline,NF,ULEV,2HNXV01.7NA5,small car,3,N/A,27,33,30,39.5114,8,no
+HONDA Civic,1.7,(4 cyl),Man-5,2WD,Gasoline,NF,ULEV,2HNXV01.7TA5,small car,3,N/A,28,36,31,41.7838,9,no
+HONDA Civic HX,1.7,(4 cyl),Auto-AV,2WD,Gasoline,NF,ULEV,2HNXV01.73A5,small car,3,N/A,30,36,32,43.6802,9,no
+HONDA Civic HX,1.7,(4 cyl),Man-5,2WD,Gasoline,NF,ULEV,2HNXV01.73A5,small car,3,N/A,31,40,34,45.992,9,no
+HONDA Insight,1,(3 cyl),Auto-AV,2WD,Gasoline,CA,SLEV,2HNXV01.0CCE,small car,9,N/A,45,49,47,66.3989,10,yes
+HONDA Insight,1,(3 cyl),Auto-AV,2WD,Gasoline,NL+CF,LEV,2HNXV01.0CCE,small car,6,N/A,45,49,47,66.3989,10,yes
+HONDA Insight,1,(3 cyl),Man-5,2WD,Gasoline,CA,ULEV,2HNXV01.02N4,small car,3,N/A,48,59,53,75.1672,10,no
+HONDA Insight,1,(3 cyl),Man-5,2WD,Gasoline,NL+CF,LEV,2HNXV01.02N4,small car,2,N/A,48,59,53,75.1672,10,no
+HONDA Odyssey,3.5,(6 cyl),Auto-L5,2WD,Gasoline,NF,LEV,2HNXT03.51AP,minivan,1,N/A,16,23,19,23.997,5,no
+HONDA Passport,3.2,(6 cyl),Man-5,2WD,Gasoline,CL,LEV,2SZXT03.52KK,SUV,1,N/A,15,19,17,21.6315,4,no
+HONDA Passport,3.2,(6 cyl),Man-5,2WD,Gasoline,CL,LEV,2SZXT03.52MK,SUV,1,N/A,15,19,17,21.6315,4,no
+HONDA Passport,3.2,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2SZXT03.52KK,SUV,1,N/A,15,20,17,21.7573,4,no
+HONDA Passport,3.2,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2SZXT03.52MK,SUV,1,N/A,15,20,17,21.7573,4,no
+HONDA Passport,3.2,(6 cyl),Auto-L4,4WD,Gasoline,CL,LEV,2SZXT03.52KK,SUV,1,N/A,15,19,16,21.0369,4,no
+HONDA Passport,3.2,(6 cyl),Auto-L4,4WD,Gasoline,CL,LEV,2SZXT03.52MK,SUV,1,N/A,15,19,16,21.0369,4,no
+HONDA Passport,3.2,(6 cyl),Man-5,4WD,Gasoline,CL,LEV,2SZXT03.52KK,SUV,1,N/A,15,19,17,21.6357,4,no
+HONDA Passport,3.2,(6 cyl),Man-5,4WD,Gasoline,CL,LEV,2SZXT03.52MK,SUV,1,N/A,15,19,17,21.6357,4,no
+HONDA S2000,2,(4 cyl),Man-6,2WD,Gasoline,CL,LEV,2HNXV02.0DYC,small car,2,N/A,18,24,20,26.5605,6,no
+HYUNDAI Accent,1.5,(4 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2HYXV01.5ALS,small car,2,N/A,22,32,25,33.5246,7,no
+HYUNDAI Accent,1.5,(4 cyl),Man-5,2WD,Gasoline,CL,LEV,2HYXV01.5ALS,small car,2,N/A,24,33,28,36.6034,8,no
+HYUNDAI Accent,1.6,(4 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2HYXV01.6BLS,small car,2,N/A,22,32,25,33.5443,7,no
+HYUNDAI Accent,1.6,(4 cyl),Man-5,2WD,Gasoline,CL,LEV,2HYXV01.6BLS,small car,2,N/A,23,34,27,35.9087,8,no
+HYUNDAI Elantra,2,(4 cyl),Auto-L4,2WD,Gasoline,NL,LEV,2HYXV02.0XLF,small car,2,N/A,21,30,25,32.3537,7,no
+HYUNDAI Elantra,2,(4 cyl),Man-5,2WD,Gasoline,NL,LEV,2HYXV02.0XLF,small car,2,N/A,21,30,25,32.5111,7,no
+HYUNDAI Santa Fe,2.4,(4 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2HYXT02.4SLS,SUV,1,N/A,17,24,20,25.6029,6,no
+HYUNDAI Santa Fe,2.4,(4 cyl),Man-5,2WD,Gasoline,CL,LEV,2HYXT02.4SLS,SUV,1,N/A,18,25,20,26.5441,6,no
+HYUNDAI Santa Fe,2.7,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2HYXT02.7MLS,SUV,1,N/A,17,23,19,24.8462,5,no
+HYUNDAI Santa Fe,2.7,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2HYXT02.7MLS,SUV,1,N/A,16,21,18,23.1413,5,no
+HYUNDAI Sonata,2.4,(4 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2HYXV02.4ELS,midsize car,2,N/A,19,27,22,28.9273,6,no
+HYUNDAI Sonata,2.4,(4 cyl),Man-5,2WD,Gasoline,CL,LEV,2HYXV02.4ELS,midsize car,2,N/A,20,28,23,29.7643,7,no
+HYUNDAI Sonata,2.7,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2HYXV02.7FLS,midsize car,2,N/A,18,25,20,26.5991,6,no
+HYUNDAI Sonata,2.7,(6 cyl),Man-5,2WD,Gasoline,CL,LEV,2HYXV02.7FLS,midsize car,2,N/A,18,25,20,26.6511,6,no
+HYUNDAI Tiburon,2,(4 cyl),Auto-L4,2WD,Gasoline,NL,LEV,2HYXV02.0CLF,small car,2,N/A,20,27,23,30.2695,7,no
+HYUNDAI Tiburon,2,(4 cyl),Man-5,2WD,Gasoline,NL,LEV,2HYXV02.0CLF,small car,2,N/A,20,28,23,30.4963,7,no
+HYUNDAI Tiburon,2.7,(6 cyl),Man-6,2WD,Gasoline,CL,LEV,2HYXV02.7KLS,small car,2,N/A,16,24,19,24.7721,5,no
+HYUNDAI Tiburon,2.7,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2HYXV02.7KLS,small car,2,N/A,17,24,20,25.7608,6,no
+HYUNDAI XG 350,3.5,(6 cyl),Auto-L5,2WD,Gasoline,CL,LEV,2HYXV03.5GLS,midsize car,2,N/A,16,24,19,24.1239,5,no
+INFINITI G20,2,(4 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2NSXV02.0C3A,small car,2,N/A,20,28,23,30.2435,7,no
+INFINITI G20,2,(4 cyl),Man-5,2WD,Gasoline,CL,LEV,2NSXV02.0C3A,small car,2,N/A,21,29,24,31.0421,7,no
+INFINITI I35,3.5,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2NSXV03.5C6A,midsize car,2,N/A,17,24,20,25.8765,6,no
+INFINITI Q45,4.5,(8 cyl),Auto-S5,2WD,Gasoline,CL,TLEV,2NSXV04.5B8A,midsize car,1,N/A,16,23,18,23.3542,5,no
+INFINITI QX4,3.5,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2NSXT03.5C7A,SUV,1,N/A,14,18,15,19.8191,3,no
+INFINITI QX4,3.5,(6 cyl),Auto-L4,4WD,Gasoline,CL,LEV,2NSXT03.5C7A,SUV,1,N/A,13,17,15,19.0886,3,no
+ISUZU Axiom,3.5,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2SZXT03.52KK,SUV,1,N/A,14,19,16,20.8035,4,no
+ISUZU Axiom,3.5,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2SZXT03.52MK,SUV,1,N/A,14,19,16,20.8035,4,no
+ISUZU Axiom,3.5,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2SZXT03.52KK,SUV,1,N/A,14,18,16,20.1867,4,no
+ISUZU Axiom,3.5,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2SZXT03.52MK,SUV,1,N/A,14,18,16,20.1867,4,no
+ISUZU Hombre,2.2,(4 cyl),Auto-L4,2WD,Gasoline,NF,LEV,2GMXT02.2122,pickup,2,N/A,17,23,19,24.7686,5,no
+ISUZU Hombre,2.2,(4 cyl),Man-5,2WD,Gasoline,NF,LEV,2GMXT02.2122,pickup,2,N/A,19,25,22,28.3953,6,no
+ISUZU Rodeo,2.2,(4 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2SZXT02.22LK,SUV,1,N/A,16,20,17,22.4372,4,no
+ISUZU Rodeo,2.2,(4 cyl),Man-5,2WD,Gasoline,CL,LEV,2SZXT02.22LK,SUV,1,N/A,17,21,18,23.9764,5,no
+ISUZU Rodeo,3.2,(6 cyl),Man-5,2WD,Gasoline,CL,LEV,2SZXT03.52KK,SUV,1,N/A,15,19,17,21.6321,4,no
+ISUZU Rodeo,3.2,(6 cyl),Man-5,2WD,Gasoline,CL,LEV,2SZXT03.52MK,SUV,1,N/A,15,19,17,21.6321,4,no
+ISUZU Rodeo,3.2,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2SZXT03.52KK,SUV,1,N/A,15,20,17,21.7573,4,no
+ISUZU Rodeo,3.2,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2SZXT03.52MK,SUV,1,N/A,15,20,17,21.7573,4,no
+ISUZU Rodeo,3.2,(6 cyl),Auto-L4,4WD,Gasoline,CL,LEV,2SZXT03.52KK,SUV,1,N/A,15,19,16,21.0371,4,no
+ISUZU Rodeo,3.2,(6 cyl),Auto-L4,4WD,Gasoline,CL,LEV,2SZXT03.52MK,SUV,1,N/A,15,19,16,21.0371,4,no
+ISUZU Rodeo,3.2,(6 cyl),Man-5,4WD,Gasoline,CL,LEV,2SZXT03.52KK,SUV,1,N/A,15,19,17,21.6332,4,no
+ISUZU Rodeo,3.2,(6 cyl),Man-5,4WD,Gasoline,CL,LEV,2SZXT03.52MK,SUV,1,N/A,15,19,17,21.6332,4,no
+ISUZU Rodeo Sport,2.2,(4 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2SZXT02.22LK,SUV,1,N/A,15,20,17,22.1657,4,no
+ISUZU Rodeo Sport,2.2,(4 cyl),Man-5,2WD,Gasoline,CL,LEV,2SZXT02.22LK,SUV,1,N/A,17,21,18,23.9351,5,no
+ISUZU Rodeo Sport,3.2,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2SZXT03.52KK,SUV,1,N/A,15,19,17,21.4326,4,no
+ISUZU Rodeo Sport,3.2,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2SZXT03.52MK,SUV,1,N/A,15,19,17,21.4326,4,no
+ISUZU Rodeo Sport,3.2,(6 cyl),Auto-L4,4WD,Gasoline,CL,LEV,2SZXT03.52KK,SUV,1,N/A,15,19,16,21.0439,4,no
+ISUZU Rodeo Sport,3.2,(6 cyl),Auto-L4,4WD,Gasoline,CL,LEV,2SZXT03.52MK,SUV,1,N/A,15,19,16,21.0439,4,no
+ISUZU Rodeo Sport,3.2,(6 cyl),Man-5,4WD,Gasoline,CL,LEV,2SZXT03.52KK,SUV,1,N/A,15,19,17,21.5874,4,no
+ISUZU Rodeo Sport,3.2,(6 cyl),Man-5,4WD,Gasoline,CL,LEV,2SZXT03.52MK,SUV,1,N/A,15,19,17,21.5874,4,no
+ISUZU Trooper,3.5,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2SZXT03.52JK,SUV,1,N/A,14,18,15,19.6868,3,no
+ISUZU Trooper,3.5,(6 cyl),Man-5,4WD,Gasoline,CL,LEV,2SZXT03.52JK,SUV,1,N/A,14,17,15,19.7549,3,no
+ISUZU Trooper,3.5,(6 cyl),Auto-L4,4WD,Gasoline,CL,LEV,2SZXT03.52JK,SUV,1,N/A,14,18,15,19.4806,3,no
+JAGUAR S-Type,3,(6 cyl),Auto-L5,2WD,Gasoline,CL,LEV,2JCXV03.0CN6,midsize car,2,N/A,16,23,18,23.8796,5,no
+JAGUAR S-Type,4,(8 cyl),Auto-L5,2WD,Gasoline,CL,LEV,2JCXV04.0CN5,midsize car,2,N/A,15,22,18,23.1987,5,no
+JAGUAR Super V8,4,(8 cyl),Auto-L5,2WD,Gasoline,CL,T1,2JCXV04.0BS7,midsize car,1,N/A,14,20,16,21.1017,4,no
+JAGUAR Vanden Plas,4,(8 cyl),Auto-L5,2WD,Gasoline,CL,LEV,2JCXV04.0BN4,midsize car,2,N/A,15,22,18,22.8517,5,no
+JAGUAR X-Type,2.5,(6 cyl),Auto-L5,4WD,Gasoline,CL,LEV,2JCXV03.0DN8,small car,2,N/A,17,24,19,25.2091,5,no
+JAGUAR X-Type,2.5,(6 cyl),Man-5,4WD,Gasoline,CL,LEV,2JCXV03.0DN8,small car,2,N/A,17,25,20,26.1706,6,no
+JAGUAR X-Type,3,(6 cyl),Auto-L5,4WD,Gasoline,CL,LEV,2JCXV03.0DN8,small car,2,N/A,16,23,19,24.1017,5,no
+JAGUAR X-Type,3,(6 cyl),Man-5,4WD,Gasoline,CL,LEV,2JCXV03.0DN8,small car,2,N/A,16,25,19,25.0995,5,no
+JAGUAR XJ Sport,4,(8 cyl),Auto-L5,2WD,Gasoline,CL,LEV,2JCXV04.0BN4,small car,2,N/A,15,22,18,22.8517,5,no
+JAGUAR XJ8,4,(8 cyl),Auto-L5,2WD,Gasoline,CL,LEV,2JCXV04.0BN4,small car,2,N/A,15,22,18,22.8517,5,no
+JAGUAR XJR,4,(8 cyl),Auto-L5,2WD,Gasoline,CL,T1,2JCXV04.0BS7,small car,1,N/A,14,20,16,21.1017,4,no
+JAGUAR XK8,4,(8 cyl),Auto-L5,2WD,Gasoline,CL,LEV,2JCXV04.0BN4,small car,2,N/A,15,22,18,22.8517,5,no
+JAGUAR XK8 Convertible,4,(8 cyl),Auto-L5,2WD,Gasoline,CL,LEV,2JCXV04.0BN4,small car,2,N/A,15,22,18,22.8517,5,no
+JAGUAR XKR,4,(8 cyl),Auto-L5,2WD,Gasoline,CL,T1,2JCXV04.0BS7,small car,1,N/A,15,21,17,21.7648,4,no
+JAGUAR XKR Convertible,4,(8 cyl),Auto-L5,2WD,Gasoline,CL,T1,2JCXV04.0BS7,small car,1,N/A,15,21,17,21.7648,4,no
+JEEP Grand Cherokee,4,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2CRXT04.02D2,SUV,1,N/A,14,19,16,20.348,4,no
+JEEP Grand Cherokee,4,(6 cyl),Auto-L4,4WD,Gasoline,CL,LEV,2CRXT04.02D2,SUV,1,N/A,13,18,15,19.5376,3,no
+JEEP Grand Cherokee,4.7,(8 cyl),Auto-L5,2WD,Gasoline,CL,LEV,2CRXT04.72D0,SUV,1,N/A,13,18,15,18.6854,3,no
+JEEP Grand Cherokee,4.7,(8 cyl),Auto-L5,4WD,Gasoline,CL,LEV,2CRXT04.72D0,SUV,1,N/A,12,17,14,18.0729,2,no
+JEEP Liberty,3.7,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2CRXT03.72D0,SUV,1,N/A,15,19,16,20.9812,4,no
+JEEP Liberty,3.7,(6 cyl),Man-5,2WD,Gasoline,CL,LEV,2CRXT03.72D0,SUV,1,N/A,15,20,17,21.3938,4,no
+JEEP Liberty,3.7,(6 cyl),Auto-L4,4WD,Gasoline,CL,LEV,2CRXT03.72D0,SUV,1,N/A,14,18,16,20.4074,4,no
+JEEP Liberty,3.7,(6 cyl),Man-5,4WD,Gasoline,CL,LEV,2CRXT03.72D0,SUV,1,N/A,14,20,17,21.4203,4,no
+JEEP Wrangler,2.5,(4 cyl),Auto-L3,4WD,Gasoline,CL,TLEV,2CRXT02.51C0,SUV,1,N/A,14,17,16,20.1152,4,no
+JEEP Wrangler,2.5,(4 cyl),Man-5,4WD,Gasoline,CL,TLEV,2CRXT02.51C0,SUV,1,N/A,16,19,17,22.3836,4,no
+JEEP Wrangler,4,(6 cyl),Auto-L3,4WD,Gasoline,CL,LEV,2CRXT04.02D2,SUV,1,N/A,13,16,15,18.6935,3,no
+JEEP Wrangler,4,(6 cyl),Man-5,4WD,Gasoline,CL,LEV,2CRXT04.02D2,SUV,1,N/A,14,17,15,19.1397,3,no
+KIA Optima,2.4,(4 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2KMXV02.4D02,midsize car,2,N/A,18,24,20,26.1804,6,no
+KIA Optima,2.4,(4 cyl),Man-5,2WD,Gasoline,CL,LEV,2KMXV02.4D02,midsize car,2,N/A,19,26,21,27.7764,6,no
+KIA Optima,2.7,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2KMXV02.7E01,midsize car,2,N/A,16,22,18,23.7923,5,no
+KIA Optima,2.7,(6 cyl),Man-5,2WD,Gasoline,CL,LEV,2KMXV02.7E01,midsize car,2,N/A,17,23,19,24.7155,5,no
+KIA Rio,1.5,(4 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2KMXV01.5C02,small car,2,N/A,22,27,24,31.9261,7,no
+KIA Rio,1.5,(4 cyl),Man-5,2WD,Gasoline,CL,LEV,2KMXV01.5C02,small car,2,N/A,23,29,26,33.7613,8,no
+KIA Sedona,3.5,(6 cyl),Auto-L5,2WD,Gasoline,CL,LEV,2KMXT03.5F01,minivan,1,N/A,14,18,16,19.9982,4,no
+KIA Spectra,1.8,(4 cyl),Auto-L4,2WD,Gasoline,CL,ULEV,2KMXV01.8A05,small car,3,N/A,19,27,22,28.6906,6,no
+KIA Spectra,1.8,(4 cyl),Man-5,2WD,Gasoline,CL,ULEV,2KMXV01.8A05,small car,3,N/A,21,29,24,31.1758,7,no
+KIA Sportage,2,(4 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2KMXT02.0B05,SUV,2,N/A,16,20,18,22.8399,5,no
+KIA Sportage,2,(4 cyl),Man-5,2WD,Gasoline,CL,LEV,2KMXT02.0B05,SUV,2,N/A,17,21,19,24.3898,5,no
+KIA Sportage,2,(4 cyl),Auto-L4,4WD,Gasoline,CL,LEV,2KMXT02.0B05,SUV,2,N/A,16,20,18,22.9632,5,no
+KIA Sportage,2,(4 cyl),Man-5,4WD,Gasoline,CL,LEV,2KMXT02.0B05,SUV,2,N/A,17,20,19,24.2359,5,no
+LAMBORGHINI Murcielago,6,(12 cyl),Man-6,4WD,Gasoline,CL,T1,2NLXV06.2472,small car,1,N/A,8,12,10,12.2008,0,no
+LAMBORGHINI Murcielago,6.2,(12 cyl),Man-6,4WD,Gasoline,CL,T1,2NLXV06.2472,small car,1,N/A,8,12,10,12.2008,0,no
+LAND ROVER Discovery,4,(8 cyl),Auto-L4,4WD,Gasoline,CA,LEV,2LRXT04.6001,SUV,1,N/A,12,16,13,17.1701,1,no
+LAND ROVER Discovery,4,(8 cyl),Auto-L4,4WD,Gasoline,CA,LEV,2LRXT04.6003,SUV,1,N/A,12,16,13,17.1701,1,no
+LAND ROVER Discovery,4,(8 cyl),Auto-L4,4WD,Gasoline,FA,T1,2LRXT04.6001,SUV,0,N/A,12,16,13,17.1701,1,no
+LAND ROVER Discovery,4,(8 cyl),Auto-L4,4WD,Gasoline,FA,T1,2LRXT04.6002,SUV,0,N/A,12,16,13,17.1701,1,no
+LAND ROVER Discovery,4,(8 cyl),Auto-L4,4WD,Gasoline,FA,T1,2LRXT04.6003,SUV,0,N/A,12,16,13,17.1701,1,no
+LAND ROVER Freelander,2.5,(6 cyl),Auto-L5,4WD,Gasoline,NF,LEV,2LRXT02.5001,SUV,1,N/A,15,19,17,21.6238,4,no
+LAND ROVER Range Rover,4.6,(8 cyl),Auto-L4,4WD,Gasoline,CA,LEV,2LRXT04.6001,SUV,1,N/A,11,14,12,15.4309,0,no
+LAND ROVER Range Rover,4.6,(8 cyl),Auto-L4,4WD,Gasoline,FA,T1,2LRXT04.6001,SUV,0,N/A,11,14,12,15.4309,0,no
+LEXUS ES 300,3,(6 cyl),Auto-L5,2WD,Gasoline,CL,ULEV,2TYXV03.0JJA,midsize car,3,N/A,18,27,21,27.8202,6,no
+LEXUS GS 300,4.3,(8 cyl),Auto-L5,2WD,Gasoline,CL,ULEV,2TYXV04.3JJB,midsize car,3,N/A,16,21,18,23.4237,5,no
+LEXUS GS 300,3,(6 cyl),Auto-S5,2WD,Gasoline,CL,LEV,2TYXV03.0FFF,midsize car,2,N/A,16,23,19,24.4006,5,no
+LEXUS GS 430,4.3,(8 cyl),Auto-L5,2WD,Gasoline,CL,ULEV,2TYXV04.3JJB,midsize car,3,N/A,16,21,18,23.4237,5,no
+LEXUS GS 430,3,(6 cyl),Auto-S5,2WD,Gasoline,CL,LEV,2TYXV03.0FFF,midsize car,2,N/A,16,23,19,24.4006,5,no
+LEXUS IS 300,3,(6 cyl),Auto-S5,2WD,Gasoline,CL,LEV,2TYXV03.0FFF,small car,2,N/A,16,23,18,23.9041,5,no
+LEXUS IS 300,3,(6 cyl),Man-5,2WD,Gasoline,CL,LEV,2TYXV03.0FFF,small car,2,N/A,16,23,19,24.0119,5,no
+LEXUS LS 430,4.3,(8 cyl),Auto-L5,2WD,Gasoline,CL,ULEV,2TYXV04.3JJB,midsize car,3,N/A,16,23,19,24.2293,5,no
+LEXUS LX 470,4.7,(8 cyl),Auto-L4,4WD,Gasoline,CA,LEV,2TYXT04.7FBV,SUV,0,N/A,12,15,13,16.469,1,no
+LEXUS LX 470,4.7,(8 cyl),Auto-L4,4WD,Gasoline,FA,T1,2TYXT04.7FBV,SUV,0,N/A,12,15,13,16.469,1,no
+LEXUS RX 300,3,(6 cyl),Auto-L4,4WD,Gasoline,CL,LEV,2TYXV03.0FFE,station wagon,2,N/A,16,21,18,23.1592,5,no
+LEXUS RX 300,3,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2TYXV03.0FFE,station wagon,2,N/A,17,21,18,23.9236,5,no
+LEXUS SC 300,4.3,(8 cyl),Auto-L5,2WD,Gasoline,CL,ULEV,2TYXV04.3JJB,small car,3,N/A,16,21,18,23.4237,5,no
+LEXUS SC 430,4.3,(8 cyl),Auto-L5,2WD,Gasoline,CL,ULEV,2TYXV04.3JJB,small car,3,N/A,16,21,18,23.4237,5,no
+LINCOLN Blackwood,5.4,(8 cyl),Auto-L4,2WD,Gasoline,NF,LEV,2FMXT05.4RF8,pickup,0,N/A,11,15,13,16.1257,1,no
+LINCOLN Continental,4.6,(8 cyl),Auto-L4,2WD,Gasoline,CL,TLEV,2FMXV04.6VDP,large car,1,N/A,15,23,18,23.4462,5,no
+LINCOLN LS,3,(6 cyl),Auto-S5,2WD,Gasoline,CL,LEV,2FMXV03.0VF2,midsize car,2,N/A,15,23,18,22.8416,5,no
+LINCOLN LS,3,(6 cyl),Auto-L5,2WD,Gasoline,CL,LEV,2FMXV03.0VF2,midsize car,2,N/A,16,23,19,24.2109,5,no
+LINCOLN LS,3.9,(8 cyl),Auto-S5,2WD,Gasoline,CL,LEV,2FMXV03.9VF5,midsize car,2,N/A,15,22,17,22.3306,4,no
+LINCOLN LS,3.9,(8 cyl),Auto-L5,2WD,Gasoline,CL,LEV,2FMXV03.9VF5,midsize car,2,N/A,15,22,17,22.3411,4,no
+LINCOLN LS,3,(6 cyl),Man-5,2WD,Gasoline,CL,TLEV,2FMXV03.0VD2,midsize car,1,N/A,16,23,19,24.2412,5,no
+LINCOLN Navigator,5.4,(8 cyl),Auto-L4,2WD,Gasoline,NF,LEV,2FMXT05.4RF8,SUV,0,N/A,11,15,13,16.1257,1,no
+LINCOLN Navigator,5.4,(8 cyl),Auto-L4,4WD,Gasoline,NF,LEV,2FMXT05.4RF8,SUV,0,N/A,10,15,12,15.3266,0,no
+LINCOLN Town Car,4.6,(8 cyl),Auto-L4,2WD,Gasoline,NF,LEV,2FMXV04.6VF5,large car,2,N/A,15,21,17,22.3521,4,no
+LOTUS Esprit V8,3.5,(8 cyl),Man-5,2WD,Gasoline,CL,T1,2LTXV03.5918,small car,1,N/A,14,21,16,20.5925,4,no
+MASERATI Coupe Cambiocorsa/Coupe GT,4.2,(8 cyl),Man-6,2WD,Gasoline,CL,LEV,2MAXV04.2LEV,small car,2,N/A,10,15,12,15.2715,0,no
+MASERATI Coupe Cambiocorsa/Coupe GT,4.2,(8 cyl),Auto-S6,2WD,Gasoline,CL,LEV,2MAXV04.2LEV,small car,2,N/A,10,16,12,15.6116,0,no
+MASERATI Spider Cambiocorsa/Spider GT,4.2,(8 cyl),Man-6,2WD,Gasoline,CL,LEV,2MAXV04.2LEV,small car,2,N/A,10,15,12,15.2715,0,no
+MASERATI Spider Cambiocorsa/Spider GT,4.2,(8 cyl),Auto-S6,2WD,Gasoline,CL,LEV,2MAXV04.2LEV,small car,2,N/A,10,16,12,15.6116,0,no
+MAZDA 626,2,(4 cyl),Auto-L4,2WD,Gasoline,NF,ULEV,2TKXV02.0GJB,midsize car,3,N/A,19,25,22,28.1425,6,no
+MAZDA 626,2,(4 cyl),Man-5,2WD,Gasoline,NF,ULEV,2TKXV02.0GJB,midsize car,3,N/A,23,29,25,33.4584,7,no
+MAZDA 626,2.5,(6 cyl),Auto-L4,2WD,Gasoline,CL,TLEV,2TKXV02.5BMA,midsize car,1,N/A,18,24,20,26.1728,6,no
+MAZDA 626,2.5,(6 cyl),Man-5,2WD,Gasoline,CL,TLEV,2TKXV02.5BMA,midsize car,1,N/A,19,25,21,27.2579,6,no
+MAZDA B2300,2.3,(4 cyl),Auto-L5,2WD,Gasoline,NF,LEV,2FMXT02.31F5,pickup,2,N/A,18,23,20,26.1276,6,no
+MAZDA B2300,2.3,(4 cyl),Man-5,2WD,Gasoline,NF,LEV,2FMXT02.31F5,pickup,2,N/A,21,25,23,29.6888,7,no
+MAZDA B3000,3,(6 cyl),Auto-L5,2WD,Gasoline,NF,LEV,2FMXT03.01F5,pickup,2,N/A,15,20,17,22.1094,4,no
+MAZDA B3000,3,(6 cyl),Man-5,2WD,Gasoline,NF,LEV,2FMXT03.01F5,pickup,2,N/A,17,21,18,23.7253,5,no
+MAZDA B3000,3,(6 cyl),Auto-L5,2WD,Gasoline,NF,LEV,2FMXT03.02F5,pickup,1,N/A,15,20,17,22.1094,4,no
+MAZDA B3000,3,(6 cyl),Man-5,2WD,Gasoline,NF,LEV,2FMXT03.02F5,pickup,1,N/A,17,21,18,23.7253,5,no
+MAZDA B3000,3,(6 cyl),Auto-L5,4WD,Gasoline,NF,LEV,2FMXT03.02F5,pickup,1,N/A,14,17,16,20.0312,4,no
+MAZDA B3000,3,(6 cyl),Man-5,4WD,Gasoline,NF,LEV,2FMXT03.02F5,pickup,1,N/A,16,20,17,22.5,4,no
+MAZDA B4000,4,(6 cyl),Auto-L5,2WD,Gasoline,NF,LEV,2FMXT04.02F3,pickup,1,N/A,15,20,17,21.5353,4,no
+MAZDA B4000,4,(6 cyl),Man-5,2WD,Gasoline,NF,LEV,2FMXT04.02F3,pickup,1,N/A,16,20,17,22.3791,4,no
+MAZDA B4000,4,(6 cyl),Auto-L5,4WD,Gasoline,NF,LEV,2FMXT04.02F3,pickup,1,N/A,13,17,15,18.8516,3,no
+MAZDA B4000,4,(6 cyl),Man-5,4WD,Gasoline,NF,LEV,2FMXT04.02F3,pickup,1,N/A,14,18,15,19.8766,3,no
+MAZDA MPV,3,(6 cyl),Auto-L5,2WD,Gasoline,NF,ULEV,2TKXT03.0GLA,minivan,2,N/A,16,23,18,23.6027,5,no
+MAZDA MX-5 Miata,1.8,(4 cyl),Auto-L4,2WD,Gasoline,NF,LEV,2TKXV01.8CJA,small car,2,N/A,20,25,22,28.5436,6,no
+MAZDA MX-5 Miata,1.8,(4 cyl),Man-6,2WD,Gasoline,NF,LEV,2TKXV01.8CJA,small car,2,N/A,20,26,22,29.0738,6,no
+MAZDA MX-5 Miata,1.8,(4 cyl),Man-5,2WD,Gasoline,NF,LEV,2TKXV01.8CJA,small car,2,N/A,20,26,23,29.6908,7,no
+MAZDA Millenia,2.3,(6 cyl),Auto-L4,2WD,Gasoline,CL,T1,2TKXV02.3AMA,small car,1,N/A,17,25,20,26.2512,6,no
+MAZDA Millenia,2.5,(6 cyl),Auto-L4,2WD,Gasoline,CL,TLEV,2TKXV02.5BMB,small car,1,N/A,17,24,20,25.9192,6,no
+MAZDA Protege,2,(4 cyl),Auto-L4,2WD,Gasoline,NF,ULEV,2TKXV02.0GJA,small car,3,N/A,22,28,24,31.4849,7,no
+MAZDA Protege,2,(4 cyl),Auto-S4,2WD,Gasoline,NF,ULEV,2TKXV02.0GJA,small car,3,N/A,22,28,24,31.4849,7,no
+MAZDA Protege,2,(4 cyl),Man-5,2WD,Gasoline,NF,ULEV,2TKXV02.0GJA,small car,3,N/A,22,28,24,32.0158,7,no
+MAZDA Tribute,2,(4 cyl),Man-5,2WD,Gasoline,NF,LEV,2TKXT02.0CJA,SUV,2,N/A,20,25,22,29.1193,6,no
+MAZDA Tribute,2,(4 cyl),Man-5,4WD,Gasoline,NF,LEV,2TKXT02.0CJA,SUV,2,N/A,19,23,21,27.1163,6,no
+MAZDA Tribute,3,(6 cyl),Auto-L4,2WD,Gasoline,NF,LEV,2TKXT03.0FLB,SUV,2,N/A,17,23,19,24.4218,5,no
+MAZDA Tribute,3,(6 cyl),Auto-L4,4WD,Gasoline,NF,LEV,2TKXT03.0FLB,SUV,2,N/A,16,22,18,23.5775,5,no
+MERCEDES-BENZ C230 Kompressor,2.3,(4 cyl),Man-6,2WD,Gasoline,CL,LEV,2MBXV02.3LBI,small car,2,N/A,17,26,20,26.2109,6,no
+MERCEDES-BENZ C230 Kompressor,2.3,(4 cyl),Auto-L5,2WD,Gasoline,CL,LEV,2MBXV02.3LBI,small car,2,N/A,19,26,21,27.9879,6,no
+MERCEDES-BENZ C240,2.6,(6 cyl),Man-6,2WD,Gasoline,CL,LEV,2MBXV03.2LBX,small car,2,N/A,15,24,18,23.6458,5,no
+MERCEDES-BENZ C240,2.6,(6 cyl),Auto-L5,2WD,Gasoline,CL,LEV,2MBXV03.2LBX,small car,2,N/A,17,24,20,25.5767,6,no
+MERCEDES-BENZ C32 AMG,3.2,(6 cyl),Auto-L5,2WD,Gasoline,CL,LEV,2MBXV03.2LBI,small car,2,N/A,15,21,17,22.1773,4,no
+MERCEDES-BENZ C320,3.2,(6 cyl),Auto-L5,2WD,Gasoline,CL,LEV,2MBXV03.2LBX,small car,2,N/A,17,23,19,25.2889,5,no
+MERCEDES-BENZ C320 Wagon,3.2,(6 cyl),Auto-L5,2WD,Gasoline,CL,LEV,2MBXV03.2LBX,station wagon,2,N/A,17,23,19,25.0535,5,no
+MERCEDES-BENZ CL500,5,(8 cyl),Auto-L5,2WD,Gasoline,CL,ULEV,2MBXV05.0UBI,small car,3,N/A,14,21,17,21.7427,4,no
+MERCEDES-BENZ CL55 AMG,5.4,(8 cyl),Auto-L5,2WD,Gasoline,CL,LEV,2MBXV05.5LBI,small car,2,N/A,14,20,17,21.4208,4,no
+MERCEDES-BENZ CL600,5.8,(12 cyl),Auto-L5,2WD,Gasoline,CL,TLEV,2MBXV05.8TBI,small car,1,N/A,13,21,16,20.1891,4,no
+MERCEDES-BENZ CLK320,3.2,(6 cyl),Auto-L5,2WD,Gasoline,CL,LEV,2MBXV03.2LBX,small car,2,N/A,18,25,20,26.3314,6,no
+MERCEDES-BENZ CLK320 Cabriolet,3.2,(6 cyl),Auto-L5,2WD,Gasoline,CL,LEV,2MBXV03.2LBX,small car,2,N/A,17,24,20,25.532,6,no
+MERCEDES-BENZ CLK430,4.3,(8 cyl),Auto-L5,2WD,Gasoline,CL,ULEV,2MBXV05.0UBI,small car,3,N/A,16,22,18,23.5118,5,no
+MERCEDES-BENZ CLK430 Cabriolet,4.3,(8 cyl),Auto-L5,2WD,Gasoline,CL,ULEV,2MBXV05.0UBI,small car,3,N/A,16,22,18,23.1733,5,no
+MERCEDES-BENZ CLK55 AMG,5.4,(8 cyl),Auto-L5,2WD,Gasoline,CL,LEV,2MBXV05.5LTR,small car,2,N/A,16,22,18,23.2512,5,no
+MERCEDES-BENZ CLK55 AMG Cabriolet,5.4,(8 cyl),Auto-L5,2WD,Gasoline,CL,LEV,2MBXV05.5LTR,small car,2,N/A,14,21,17,21.5236,4,no
+MERCEDES-BENZ E320,3.2,(6 cyl),Auto-L5,2WD,Gasoline,CL,ULEV,2MBXV03.2UBI,midsize car,3,N/A,18,26,21,27.1242,6,no
+MERCEDES-BENZ E320 4Matic,3.2,(6 cyl),Auto-L5,4WD,Gasoline,CL,ULEV,2MBXV03.2UBI,midsize car,3,N/A,17,24,20,26.1414,6,no
+MERCEDES-BENZ E320 4Matic Wagon,3.2,(6 cyl),Auto-L5,4WD,Gasoline,CL,ULEV,2MBXV03.2UBI,station wagon,3,N/A,17,24,20,25.6709,6,no
+MERCEDES-BENZ E320 Wagon,3.2,(6 cyl),Auto-L5,2WD,Gasoline,CL,ULEV,2MBXV03.2UBI,station wagon,3,N/A,17,25,20,26.205,6,no
+MERCEDES-BENZ E430,4.3,(8 cyl),Auto-L5,2WD,Gasoline,CL,ULEV,2MBXV05.0UBI,midsize car,3,N/A,16,23,18,23.3489,5,no
+MERCEDES-BENZ E430 4Matic,4.3,(8 cyl),Auto-L5,4WD,Gasoline,CL,ULEV,2MBXV05.0UBI,midsize car,3,N/A,15,21,18,22.7175,5,no
+MERCEDES-BENZ E55 AMG,5.4,(8 cyl),Auto-L5,2WD,Gasoline,CL,LEV,2MBXV05.5LBI,midsize car,2,N/A,15,22,18,23.0415,5,no
+MERCEDES-BENZ G500,5,(8 cyl),Auto-L5,4WD,Gasoline,CA,LEV,2MBXT05.01BX,SUV,0,N/A,11,13,12,15.5493,0,no
+MERCEDES-BENZ G500,5,(8 cyl),Auto-L5,4WD,Gasoline,FA,T1,2MBXT05.01BX,SUV,0,N/A,11,13,12,15.5493,0,no
+MERCEDES-BENZ ML320,3.2,(6 cyl),Auto-L5,4WD,Gasoline,CA,ULEV,2MBXT03.21BI,SUV,1,N/A,14,17,15,19.6607,3,no
+MERCEDES-BENZ ML320,3.2,(6 cyl),Auto-L5,4WD,Gasoline,FA,T1,2MBXT03.21BI,SUV,0,N/A,14,17,15,19.6607,3,no
+MERCEDES-BENZ ML500,5,(8 cyl),Auto-L5,4WD,Gasoline,CA,LEV,2MBXT05.01BI,SUV,1,N/A,13,16,14,17.8575,2,no
+MERCEDES-BENZ ML500,5,(8 cyl),Auto-L5,4WD,Gasoline,CF,N/A*,2MBXT05.01BI,SUV,N/A*,N/A,N/A*,N/A*,N/A*,N/A*,N/A*,N/A*
+MERCEDES-BENZ ML500,5,(8 cyl),Auto-L5,4WD,Gasoline,FA,T1,2MBXT05.01BI,SUV,0,N/A,13,16,14,17.8575,2,no
+MERCEDES-BENZ ML55 AMG,5.5,(8 cyl),Auto-L5,4WD,Gasoline,CA,LEV,2MBXT05.51TR,SUV,0,N/A,12,16,14,17.695,2,no
+MERCEDES-BENZ ML55 AMG,5.5,(8 cyl),Auto-L5,4WD,Gasoline,FA,T1,2MBXT05.51TR,SUV,0,N/A,12,16,14,17.695,2,no
+MERCEDES-BENZ ML55 AMG,5.5,(8 cyl),Auto-L5,4WD,Gasoline,CF,N/A*,2MBXT05.51TR,SUV,N/A*,N/A,N/A*,N/A*,N/A*,N/A*,N/A*,N/A*
+MERCEDES-BENZ S430,4.3,(8 cyl),Auto-L5,2WD,Gasoline,CL,ULEV,2MBXV05.0UBI,large car,3,N/A,15,22,18,22.8336,5,no
+MERCEDES-BENZ S500,5,(8 cyl),Auto-L5,2WD,Gasoline,CL,ULEV,2MBXV05.0UBI,large car,3,N/A,14,21,17,21.7223,4,no
+MERCEDES-BENZ S55 AMG,5.4,(8 cyl),Auto-L5,2WD,Gasoline,CL,LEV,2MBXV05.5LBI,large car,2,N/A,14,20,17,21.4208,4,no
+MERCEDES-BENZ S600,5.8,(12 cyl),Auto-L5,2WD,Gasoline,CL,TLEV,2MBXV05.8TBI,large car,1,N/A,13,21,16,20.1888,4,no
+MERCEDES-BENZ SL500,5,(8 cyl),Auto-L5,2WD,Gasoline,CL,LEV,2MBXV05.0LTR,small car,2,N/A,15,22,17,21.9271,4,no
+MERCEDES-BENZ SL600,6,(12 cyl),Auto-L5,2WD,Gasoline,CL,T1,2MBXV06.01BI,small car,1,N/A,12,17,14,17.5076,2,no
+MERCEDES-BENZ SLK230 Kompressor,2.3,(4 cyl),Man-6,2WD,Gasoline,CL,LEV,2MBXV02.3LBI,small car,2,N/A,18,27,21,27.4211,6,no
+MERCEDES-BENZ SLK230 Kompressor,2.3,(4 cyl),Auto-L5,2WD,Gasoline,CL,LEV,2MBXV02.3LBI,small car,2,N/A,20,27,23,29.7531,7,no
+MERCEDES-BENZ SLK32 AMG,3.2,(6 cyl),Auto-L5,2WD,Gasoline,CL,LEV,2MBXV03.2LBI,small car,2,N/A,16,22,18,23.9164,5,no
+MERCEDES-BENZ SLK320,3.2,(6 cyl),Man-6,2WD,Gasoline,CL,LEV,2MBXV03.2LBX,small car,2,N/A,15,24,18,23.4374,5,no
+MERCEDES-BENZ SLK320,3.2,(6 cyl),Auto-L5,2WD,Gasoline,CL,LEV,2MBXV03.2LBX,small car,2,N/A,18,24,20,26.0689,6,no
+MERCURY Cougar,2,(4 cyl),Man-5,2WD,Gasoline,CL,TLEV,2FMXV02.0VD5,small car,1,N/A,21,31,24,31.7234,7,no
+MERCURY Cougar,2.5,(6 cyl),Auto-L4,2WD,Gasoline,CL,TLEV,2FMXV02.5VD5,small car,1,N/A,18,26,21,26.8998,6,no
+MERCURY Cougar,2.5,(6 cyl),Man-5,2WD,Gasoline,CL,TLEV,2FMXV02.5VD5,small car,1,N/A,18,27,21,27.9349,6,no
+MERCURY Grand Marquis,4.6,(8 cyl),Auto-L4,2WD,Gasoline,NF,LEV,2FMXV04.6VF5,large car,2,N/A,15,23,18,23.3396,5,no
+MERCURY Mountaineer,4,(6 cyl),Auto-L5,2WD,Gasoline,NF,LEV,2FMXT04.02F8,SUV,1,N/A,14,19,16,20.5223,4,no
+MERCURY Mountaineer,4,(6 cyl),Auto-L5,4WD,Gasoline,NF,LEV,2FMXT04.02F8,SUV,1,N/A,13,18,15,19.2302,3,no
+MERCURY Mountaineer,4.6,(8 cyl),Auto-L5,2WD,Gasoline,NF,LEV,2FMXT04.62F5,SUV,1,N/A,13,18,15,18.9359,3,no
+MERCURY Mountaineer,4.6,(8 cyl),Auto-L5,4WD,Gasoline,NF,LEV,2FMXT04.62F5,SUV,1,N/A,12,17,14,18.0635,2,no
+MERCURY Sable,3,(6 cyl),Auto-L4,2WD,Gasoline,NF,LEV,2FMXV03.0VF3,midsize car,2,N/A,18,25,20,26.52,6,no
+MERCURY Sable,3,(6 cyl),Auto-L4,2WD,Gasoline,NF,LEV,2FMXV03.0VF3,midsize car,2,N/A,18,25,21,26.6762,6,no
+MERCURY Sable Wagon,3,(6 cyl),Auto-L4,2WD,Gasoline,NF,LEV,2FMXV03.0VF3,station wagon,2,N/A,17,24,19,25.1087,5,no
+MERCURY Sable Wagon,3,(6 cyl),Auto-L4,2WD,Gasoline,NF,LEV,2FMXV03.0VF3,station wagon,2,N/A,17,24,20,25.9715,6,no
+MERCURY Villager,3.3,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2FMXT03.3C5C,minivan,1,N/A,15,21,17,21.9663,4,no
+MITSUBISHI Diamante,3.5,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2MLXV03.5GNG,midsize car,2,N/A,16,23,18,23.6899,5,no
+MITSUBISHI Eclipse,2.4,(4 cyl),Auto-S4,2WD,Gasoline,CL,LEV,2DSXV02.4GNG,small car,2,N/A,18,25,20,26.3157,6,no
+MITSUBISHI Eclipse,2.4,(4 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2DSXV02.4GNG,small car,2,N/A,18,25,21,26.7253,6,no
+MITSUBISHI Eclipse,2.4,(4 cyl),Man-5,2WD,Gasoline,CL,LEV,2DSXV02.4GNG,small car,2,N/A,20,28,23,29.7136,7,no
+MITSUBISHI Eclipse,3,(6 cyl),Auto-S4,2WD,Gasoline,CL,LEV,2DSXV03.0GNS,small car,2,N/A,17,26,20,26.5361,6,no
+MITSUBISHI Eclipse,3,(6 cyl),Man-5,2WD,Gasoline,CL,LEV,2DSXV03.0GNS,small car,2,N/A,18,26,21,27.1184,6,no
+MITSUBISHI Eclipse Spyder,2.4,(4 cyl),Auto-S4,2WD,Gasoline,CL,LEV,2DSXV02.4GNG,small car,2,N/A,17,24,20,25.9249,6,no
+MITSUBISHI Eclipse Spyder,2.4,(4 cyl),Man-5,2WD,Gasoline,CL,LEV,2DSXV02.4GNG,small car,2,N/A,19,27,22,28.8702,6,no
+MITSUBISHI Eclipse Spyder,3,(6 cyl),Auto-S4,2WD,Gasoline,CL,LEV,2DSXV03.0GNS,small car,2,N/A,17,25,20,26.2033,6,no
+MITSUBISHI Eclipse Spyder,3,(6 cyl),Man-5,2WD,Gasoline,CL,LEV,2DSXV03.0GNS,small car,2,N/A,18,26,21,26.9761,6,no
+MITSUBISHI Galant,2.4,(4 cyl),Auto-L4,2WD,Gasoline,CA,ULEV,2DSXV02.4G3G,midsize car,3,N/A,18,26,21,27.5952,6,no
+MITSUBISHI Galant,2.4,(4 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2DSXV02.4GNG,midsize car,2,N/A,18,26,21,27.5952,6,no
+MITSUBISHI Galant,3,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2DSXV03.0GNS,midsize car,2,N/A,17,25,20,26.2588,6,no
+MITSUBISHI Galant,3,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2DSXV03.0GNF,midsize car,2,N/A,18,25,21,26.7289,6,no
+MITSUBISHI Lancer,1.6,(4 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2MTXV02.0GNG,small car,2,N/A,21,26,23,30.8806,7,no
+MITSUBISHI Lancer,1.6,(4 cyl),Man-5,2WD,Gasoline,CL,LEV,2MTXV02.0GNG,small car,2,N/A,24,30,26,35.0933,8,no
+MITSUBISHI Lancer,2,(4 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2MTXV02.0GNG,small car,2,N/A,21,27,23,30.7919,7,no
+MITSUBISHI Lancer,2,(4 cyl),Man-5,2WD,Gasoline,CL,LEV,2MTXV02.0GNG,small car,2,N/A,23,30,25,33.368,7,no
+MITSUBISHI Mirage,1.5,(4 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2MTXV01.5GND,small car,2,N/A,24,32,27,35.8943,8,no
+MITSUBISHI Mirage,1.5,(4 cyl),Man-5,2WD,Gasoline,CL,LEV,2MTXV01.5GND,small car,2,N/A,27,35,30,40.6047,8,no
+MITSUBISHI Mirage,1.8,(4 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2MTXV01.8GNG,small car,2,N/A,22,30,25,33.1307,7,no
+MITSUBISHI Mirage,1.8,(4 cyl),Man-5,2WD,Gasoline,CL,LEV,2MTXV01.8GNG,small car,2,N/A,25,33,28,37.0529,8,no
+MITSUBISHI Montero,3.5,(6 cyl),Auto-S5,4WD,Gasoline,CL,LEV,2MTXT03.5GNS,SUV,1,N/A,13,17,14,18.6111,2,no
+MITSUBISHI Montero,3.5,(6 cyl),Auto-L4,4WD,Gasoline,CL,LEV,2MTXT03.5GNS,SUV,1,N/A,14,17,15,19.676,3,no
+MITSUBISHI Montero Sport,3,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2MTXT03.5GNS,SUV,1,N/A,16,21,18,22.9898,5,no
+MITSUBISHI Montero Sport,3,(6 cyl),Auto-L4,4WD,Gasoline,CL,LEV,2MTXT03.5GNS,SUV,1,N/A,15,19,17,21.4947,4,no
+MITSUBISHI Montero Sport,3.5,(6 cyl),Auto-L4,4WD,Gasoline,CL,LEV,2MTXT03.5GNS,SUV,1,N/A,14,17,15,19.6522,3,no
+Morgan Plus Eight,4,(8 cyl),Man-5,2WD,Gasoline,CA,TLEV,2MMYV04.0ML2,small car,1,N/A,16,28,20,25.5102,6,no
+NISSAN Altima,2.5,(4 cyl),Auto-L4,2WD,Gasoline,CL,ULEV,2NSXV02.5D5A,midsize car,3,N/A,20,27,23,29.5256,7,no
+NISSAN Altima,2.5,(4 cyl),Man-5,2WD,Gasoline,CL,ULEV,2NSXV02.5D5A,midsize car,3,N/A,20,27,23,30.1748,7,no
+NISSAN Altima,3.5,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2NSXV03.5C6A,midsize car,2,N/A,17,24,19,25.1217,5,no
+NISSAN Altima,3.5,(6 cyl),Man-5,2WD,Gasoline,CL,LEV,2NSXV03.5C6A,midsize car,2,N/A,19,24,21,27.1024,6,no
+NISSAN Frontier,2.4,(4 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2NSXT02.4C4A,pickup,2,N/A,17,22,19,24.8977,5,no
+NISSAN Frontier,2.4,(4 cyl),Man-5,2WD,Gasoline,CL,LEV,2NSXT02.4C4A,pickup,2,N/A,20,23,21,27.6538,6,no
+NISSAN Frontier,3.3,(6 cyl),Man-5,2WD,Gasoline,CL,LEV,2NSXT03.3C5A,pickup,1,N/A,14,17,15,19.2154,3,no
+NISSAN Frontier,3.3,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2NSXT03.3C5A,pickup,1,N/A,14,17,15,19.5266,3,no
+NISSAN Frontier,3.3,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2NSXT03.3C5A,pickup,1,N/A,14,18,16,20.536,4,no
+NISSAN Frontier,3.3,(6 cyl),Man-5,2WD,Gasoline,CL,LEV,2NSXT03.3C5A,pickup,1,N/A,15,17,16,20.4252,4,no
+NISSAN Frontier,3.3,(6 cyl),Man-5,4WD,Gasoline,CL,LEV,2NSXT03.3C5A,pickup,1,N/A,13,17,15,19.1123,3,no
+NISSAN Frontier,3.3,(6 cyl),Auto-L4,4WD,Gasoline,CL,LEV,2NSXT03.3C5A,pickup,1,N/A,14,17,15,19.109,3,no
+NISSAN Frontier,3.3,(6 cyl),Auto-L4,4WD,Gasoline,CL,LEV,2NSXT03.3C5A,pickup,1,N/A,14,18,15,19.8691,3,no
+NISSAN Frontier,3.3,(6 cyl),Man-5,4WD,Gasoline,CL,LEV,2NSXT03.3C5A,pickup,1,N/A,15,17,16,20.3137,4,no
+NISSAN Maxima,3.5,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2NSXV03.5C6A,midsize car,2,N/A,17,24,20,25.8765,6,no
+NISSAN Maxima,3.5,(6 cyl),Man-6,2WD,Gasoline,CL,LEV,2NSXV03.5C6A,midsize car,2,N/A,19,26,21,27.7476,6,no
+NISSAN Pathfinder,3.5,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2NSXT03.5C7A,SUV,1,N/A,14,18,16,20.3406,4,no
+NISSAN Pathfinder,3.5,(6 cyl),Man-5,2WD,Gasoline,CL,LEV,2NSXT03.5C7A,SUV,1,N/A,15,18,16,21.1986,4,no
+NISSAN Pathfinder,3.5,(6 cyl),Auto-L4,4WD,Gasoline,CL,LEV,2NSXT03.5C7A,SUV,1,N/A,13,17,15,19.0886,3,no
+NISSAN Pathfinder,3.5,(6 cyl),Man-5,4WD,Gasoline,CL,LEV,2NSXT03.5C7A,SUV,1,N/A,15,17,16,20.1207,4,no
+NISSAN Pathfinder,3.3,(6 cyl),Auto-L4,2WD,Gasoline,FA,T1,2NSXT03.3A5A,SUV,0,N/A,14,18,16,20.0517,4,no
+NISSAN Quest,3.3,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2NSXT03.3C5C,minivan,1,N/A,15,21,17,22.5438,4,no
+NISSAN Sentra,1.8,(4 cyl),Auto-L4,2WD,Gasoline,CA,SLEV,2NSXV01.852A,small car,9.5,N/A,24,31,26,34.9873,8,yes
+NISSAN Sentra,1.8,(4 cyl),Auto-L4,2WD,Gasoline,CL,ULEV,2NSXV01.8D1A,small car,3,N/A,24,31,26,34.9873,8,no
+NISSAN Sentra,1.8,(4 cyl),Man-5,2WD,Gasoline,CL,ULEV,2NSXV01.8D1A,small car,3,N/A,24,32,27,35.8129,8,no
+NISSAN Sentra,2.5,(4 cyl),Auto-L4,2WD,Gasoline,CL,ULEV,2NSXV02.5D5A,small car,3,N/A,20,25,22,28.845,6,no
+NISSAN Sentra,2.5,(4 cyl),Man-5,2WD,Gasoline,CL,ULEV,2NSXV02.5D5A,small car,3,N/A,21,27,23,30.251,7,no
+NISSAN Sentra,2.5,(4 cyl),Man-6,2WD,Gasoline,CL,LEV,2NSXV02.5C5A,small car,2,N/A,19,26,22,28.5187,6,no
+NISSAN Xterra,2.4,(4 cyl),Man-5,2WD,Gasoline,CL,LEV,2NSXT02.4C4B,SUV,1,N/A,17,22,19,24.2736,5,no
+NISSAN Xterra,3.3,(6 cyl),Man-5,2WD,Gasoline,CL,LEV,2NSXT03.3C5A,SUV,1,N/A,14,18,15,19.745,3,no
+NISSAN Xterra,3.3,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2NSXT03.3C5A,SUV,1,N/A,14,18,15,19.8633,3,no
+NISSAN Xterra,3.3,(6 cyl),Man-5,2WD,Gasoline,CL,LEV,2NSXT03.3C5A,SUV,1,N/A,15,17,16,20.4252,4,no
+NISSAN Xterra,3.3,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2NSXT03.3C5A,SUV,1,N/A,15,19,16,20.9214,4,no
+NISSAN Xterra,3.3,(6 cyl),Man-5,4WD,Gasoline,CL,LEV,2NSXT03.3C5A,SUV,1,N/A,13,17,15,19.1123,3,no
+NISSAN Xterra,3.3,(6 cyl),Auto-L4,4WD,Gasoline,CL,LEV,2NSXT03.3C5A,SUV,1,N/A,14,17,15,19.109,3,no
+NISSAN Xterra,3.3,(6 cyl),Auto-L4,4WD,Gasoline,CL,LEV,2NSXT03.3C5A,SUV,1,N/A,14,18,15,19.8633,3,no
+NISSAN Xterra,3.3,(6 cyl),Man-5,4WD,Gasoline,CL,LEV,2NSXT03.3C5A,SUV,1,N/A,15,17,16,20.3907,4,no
+OLDSMOBILE Alero,2.2,(4 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2GMXV02.4022,small car,2,N/A,21,30,24,31.6907,7,no
+OLDSMOBILE Alero,2.2,(4 cyl),Man-5,2WD,Gasoline,CL,LEV,2GMXV02.4022,small car,2,N/A,22,30,25,32.6572,7,no
+OLDSMOBILE Alero,3.4,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2GMXV03.8043,small car,2,N/A,18,27,21,27.1345,6,no
+OLDSMOBILE Aurora,3.5,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2GMXV03.8043,midsize car,2,N/A,16,25,19,24.6057,5,no
+OLDSMOBILE Aurora,4,(8 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2GMXV04.6065,midsize car,2,N/A,16,24,19,24.2759,5,no
+OLDSMOBILE Bravada,4.2,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2GMXT04.2185,SUV,1,N/A,14,20,16,20.8709,4,no
+OLDSMOBILE Bravada,4.2,(6 cyl),Auto-L4,4WD,Gasoline,CL,LEV,2GMXT04.2185,SUV,1,N/A,14,19,16,20.1388,4,no
+OLDSMOBILE Intrigue,3.5,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2GMXV03.8043,midsize car,2,N/A,18,27,21,27.7354,6,no
+OLDSMOBILE Silhouette,3.4,(6 cyl),Auto-L4,2WD,Gasoline,CA,ULEV,2GMXT03.4142,minivan,2,N/A,17,24,20,25.3963,6,no
+OLDSMOBILE Silhouette,3.4,(6 cyl),Auto-L4,4WD,Gasoline,CA,ULEV,2GMXT03.4142,minivan,2,N/A,16,22,18,23.565,5,no
+OLDSMOBILE Silhouette,3.4,(6 cyl),Auto-L4,2WD,Gasoline,NL,LEV,2GMXT03.4141,minivan,1,N/A,17,24,20,25.3963,6,no
+OLDSMOBILE Silhouette,3.4,(6 cyl),Auto-L4,4WD,Gasoline,NL,LEV,2GMXT03.4141,minivan,1,N/A,16,22,18,23.565,5,no
+PONTIAC Aztek,3.4,(6 cyl),Auto-L4,2WD,Gasoline,CA,ULEV,2GMXT03.4142,SUV,2,N/A,17,24,20,25.3963,6,no
+PONTIAC Aztek,3.4,(6 cyl),Auto-L4,4WD,Gasoline,CA,ULEV,2GMXT03.4142,SUV,2,N/A,16,22,18,23.565,5,no
+PONTIAC Aztek,3.4,(6 cyl),Auto-L4,2WD,Gasoline,NL,LEV,2GMXT03.4141,SUV,1,N/A,17,24,20,25.3963,6,no
+PONTIAC Aztek,3.4,(6 cyl),Auto-L4,4WD,Gasoline,NL,LEV,2GMXT03.4141,SUV,1,N/A,16,22,18,23.565,5,no
+PONTIAC Bonneville,3.8,(6 cyl),Auto-L4,2WD,Gasoline,CA,ULEV,2GMXV03.8044,large car,3,N/A,17,27,21,26.7043,6,no
+PONTIAC Bonneville,3.8,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2GMXV03.8043,large car,2,N/A,16,25,19,24.5463,5,no
+PONTIAC Bonneville,3.8,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2GMXV03.8043,large car,2,N/A,17,27,21,26.7043,6,no
+PONTIAC Firebird,3.8,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2GMXV03.8043,small car,2,N/A,17,28,21,26.8318,6,no
+PONTIAC Firebird,3.8,(6 cyl),Man-5,2WD,Gasoline,CL,LEV,2GMXV03.8043,small car,2,N/A,17,29,21,26.8864,6,no
+PONTIAC Firebird,5.7,(8 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2GMXV05.7081,small car,2,N/A,16,23,19,24.3163,5,no
+PONTIAC Firebird,5.7,(8 cyl),Man-6,2WD,Gasoline,CL,LEV,2GMXV05.7081,small car,2,N/A,17,25,20,25.3505,6,no
+PONTIAC Grand Am,2.2,(4 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2GMXV02.4022,small car,2,N/A,21,30,24,31.6475,7,no
+PONTIAC Grand Am,2.2,(4 cyl),Man-5,2WD,Gasoline,CL,LEV,2GMXV02.4022,small car,2,N/A,22,30,25,32.6572,7,no
+PONTIAC Grand Am,3.4,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2GMXV03.8043,small car,2,N/A,18,27,21,27.1345,6,no
+PONTIAC Grand Prix,3.8,(6 cyl),Auto-L4,2WD,Gasoline,CA,ULEV,2GMXV03.8044,midsize car,3,N/A,17,27,20,26.502,6,no
+PONTIAC Grand Prix,3.1,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2GMXV03.8043,midsize car,2,N/A,18,26,21,27.0691,6,no
+PONTIAC Grand Prix,3.8,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2GMXV03.8043,midsize car,2,N/A,16,25,19,24.6937,5,no
+PONTIAC Grand Prix,3.8,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2GMXV03.8043,midsize car,2,N/A,17,27,20,26.502,6,no
+PONTIAC Montana,3.4,(6 cyl),Auto-L4,2WD,Gasoline,CA,ULEV,2GMXT03.4142,minivan,2,N/A,17,24,20,25.3963,6,no
+PONTIAC Montana,3.4,(6 cyl),Auto-L4,4WD,Gasoline,CA,ULEV,2GMXT03.4142,minivan,2,N/A,16,22,18,23.565,5,no
+PONTIAC Montana,3.4,(6 cyl),Auto-L4,2WD,Gasoline,NL,LEV,2GMXT03.4141,minivan,1,N/A,17,24,20,25.3963,6,no
+PONTIAC Montana,3.4,(6 cyl),Auto-L4,4WD,Gasoline,NL,LEV,2GMXT03.4141,minivan,1,N/A,16,22,18,23.565,5,no
+PONTIAC Sunfire,2.2,(4 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2GMXV02.4022,small car,2,N/A,21,30,24,31.5689,7,no
+PONTIAC Sunfire,2.2,(4 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2GMXV02.4022,small car,2,N/A,21,30,24,31.6475,7,no
+PONTIAC Sunfire,2.2,(4 cyl),Man-5,2WD,Gasoline,CL,LEV,2GMXV02.4022,small car,2,N/A,22,30,25,32.6572,7,no
+PONTIAC Sunfire,2.4,(4 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2GMXV02.4022,small car,2,N/A,18,26,21,27.541,6,no
+PONTIAC Sunfire,2.4,(4 cyl),Man-5,2WD,Gasoline,CL,LEV,2GMXV02.4022,small car,2,N/A,19,29,23,29.5762,7,no
+PONTIAC Sunfire,2.2,(4 cyl),Man-5,2WD,Gasoline,CL,TLEV,2GMXV02.2024,small car,1,N/A,21,30,24,31.3542,7,no
+PORSCHE 911 Carrera,3.6,(6 cyl),Man-6,2WD,Gasoline,NF,LEV,2PRXV03.6996,small car,2,N/A,16,24,19,24.0765,5,no
+PORSCHE 911 Carrera,3.6,(6 cyl),Auto-S5,2WD,Gasoline,NF,LEV,2PRXV03.6996,small car,2,N/A,16,24,19,24.3955,5,no
+PORSCHE 911 Carrera 4 Cabriolet,3.6,(6 cyl),Man-6,4WD,Gasoline,NF,LEV,2PRXV03.6996,small car,2,N/A,15,22,18,22.5921,5,no
+PORSCHE 911 Carrera 4 Cabriolet,3.6,(6 cyl),Auto-S5,4WD,Gasoline,NF,LEV,2PRXV03.6996,small car,2,N/A,15,22,18,22.697,5,no
+PORSCHE 911 Carrera 4S,3.6,(6 cyl),Auto-S5,4WD,Gasoline,NF,LEV,2PRXV03.6996,small car,2,N/A,15,21,17,22.3963,4,no
+PORSCHE 911 Carrera 4S,3.6,(6 cyl),Man-6,4WD,Gasoline,NF,LEV,2PRXV03.6996,small car,2,N/A,15,22,18,22.7521,5,no
+PORSCHE 911 Carrera Cabriolet,3.6,(6 cyl),Auto-S5,2WD,Gasoline,NF,LEV,2PRXV03.6996,small car,2,N/A,16,24,19,24.4177,5,no
+PORSCHE 911 Carrera Cabriolet,3.6,(6 cyl),Man-6,2WD,Gasoline,NF,LEV,2PRXV03.6996,small car,2,N/A,16,24,19,24.419,5,no
+PORSCHE 911 GT2,3.6,(6 cyl),Man-6,2WD,Gasoline,NF,LEV,2PRXV03.6TUR,small car,2,N/A,14,20,16,20.5451,4,no
+PORSCHE 911 Targa,3.6,(6 cyl),Auto-S5,2WD,Gasoline,NF,LEV,2PRXV03.6996,small car,2,N/A,16,24,19,24.4177,5,no
+PORSCHE 911 Targa,3.6,(6 cyl),Man-6,2WD,Gasoline,NF,LEV,2PRXV03.6996,small car,2,N/A,16,24,19,24.419,5,no
+PORSCHE 911 Turbo,3.6,(6 cyl),Auto-S5,4WD,Gasoline,NF,LEV,2PRXV03.6TUR,small car,2,N/A,13,21,16,20.2824,4,no
+PORSCHE 911 Turbo,3.6,(6 cyl),Man-6,4WD,Gasoline,NF,LEV,2PRXV03.6TUR,small car,2,N/A,14,20,16,20.5451,4,no
+PORSCHE Boxster,2.7,(6 cyl),Auto-S5,2WD,Gasoline,NF,LEV,2PRXV03.296A,small car,2,N/A,16,23,18,23.4934,5,no
+PORSCHE Boxster,2.7,(6 cyl),Man-5,2WD,Gasoline,NF,LEV,2PRXV03.296A,small car,2,N/A,17,25,20,26.0404,6,no
+PORSCHE Boxster S,3.2,(6 cyl),Auto-S5,2WD,Gasoline,NF,LEV,2PRXV03.296A,small car,2,N/A,15,23,18,22.8851,5,no
+PORSCHE Boxster S,3.2,(6 cyl),Man-6,2WD,Gasoline,NF,LEV,2PRXV03.296A,small car,2,N/A,16,23,18,23.8285,5,no
+ROLLS-ROYCE Park Ward,5.4,(12 cyl),Auto-L5,2WD,Gasoline,CL,T1,2RRXV05.4NAT,large car,1,N/A,11,15,13,16.1093,1,no
+ROLLS-ROYCE Silver Seraph,5.4,(12 cyl),Auto-L5,2WD,Gasoline,CL,T1,2RRXV05.4NAT,midsize car,1,N/A,11,15,13,16.1093,1,no
+ROUSH Stage 3 Mustang,4.6,(8 cyl),Man-5,2WD,Gasoline,CL,T1,2RIIV04.6RP1,small car,1,N/A,15,23,18,23.2362,5,no
+ROUSH Stage 3 Mustang,4.6,(8 cyl),Auto-L4,2WD,Gasoline,CL,T1,2RIIV04.6RP1,small car,1,N/A,16,21,18,23.4818,5,no
+SAAB 9-3,2,(4 cyl),Auto-L4,2WD,Gasoline,NF,LEV,2GMXV02.3001,midsize car,2,N/A,18,27,21,28.0216,6,no
+SAAB 9-3,2,(4 cyl),Man-5,2WD,Gasoline,NF,LEV,2GMXV02.3001,midsize car,2,N/A,20,30,24,30.9514,7,no
+SAAB 9-3 Convertible,2,(4 cyl),Auto-L4,2WD,Gasoline,NF,LEV,2GMXV02.3001,small car,2,N/A,18,27,21,28.0216,6,no
+SAAB 9-3 Convertible,2,(4 cyl),Man-5,2WD,Gasoline,NF,LEV,2GMXV02.3001,small car,2,N/A,20,30,24,30.9514,7,no
+SAAB 9-3 Viggen,2.3,(4 cyl),Man-5,2WD,Gasoline,NF,LEV,2GMXV02.3002,midsize car,2,N/A,17,26,20,26.1433,6,no
+SAAB 9-3 Viggen Convertible,2.3,(4 cyl),Man-5,2WD,Gasoline,NF,LEV,2GMXV02.3002,small car,2,N/A,17,26,20,26.1433,6,no
+SAAB 9-5,2.3,(4 cyl),Auto-L5,2WD,Gasoline,NF,LEV,2GMXV02.3001,midsize car,2,N/A,17,26,21,26.7254,6,no
+SAAB 9-5,2.3,(4 cyl),Auto-L5,2WD,Gasoline,NF,LEV,2GMXV02.3001,midsize car,2,N/A,18,27,21,27.2581,6,no
+SAAB 9-5,2.3,(4 cyl),Man-5,2WD,Gasoline,NF,LEV,2GMXV02.3001,midsize car,2,N/A,19,28,22,28.826,6,no
+SAAB 9-5,2.3,(4 cyl),Man-5,2WD,Gasoline,NF,LEV,2GMXV02.3001,midsize car,2,N/A,19,28,22,29.1703,6,no
+SAAB 9-5,3,(6 cyl),Auto-L5,2WD,Gasoline,NF,LEV,2GMXV03.0063,midsize car,2,N/A,16,24,19,24.8147,5,no
+SAAB 9-5 Wagon,2.3,(4 cyl),Auto-L5,2WD,Gasoline,NF,LEV,2GMXV02.3001,station wagon,2,N/A,17,25,20,26.1056,6,no
+SAAB 9-5 Wagon,2.3,(4 cyl),Auto-L5,2WD,Gasoline,NF,LEV,2GMXV02.3001,station wagon,2,N/A,17,26,20,26.4458,6,no
+SAAB 9-5 Wagon,2.3,(4 cyl),Man-5,2WD,Gasoline,NF,LEV,2GMXV02.3001,station wagon,2,N/A,19,27,22,28.7301,6,no
+SAAB 9-5 Wagon,2.3,(4 cyl),Man-5,2WD,Gasoline,NF,LEV,2GMXV02.3001,station wagon,2,N/A,19,28,22,28.8525,6,no
+SAAB 9-5 Wagon,3,(6 cyl),Auto-L5,2WD,Gasoline,NF,LEV,2GMXV03.0063,station wagon,2,N/A,16,24,19,24.6526,5,no
+SATURN L100,2.2,(4 cyl),Auto-L4,2WD,Gasoline,CA,ULEV,2GMXV02.2023,midsize car,3,N/A,21,30,24,31.6955,7,no
+SATURN L100,2.2,(4 cyl),Man-5,2WD,Gasoline,CA,ULEV,2GMXV02.2023,midsize car,3,N/A,22,30,25,32.6572,7,no
+SATURN L200,2.2,(4 cyl),Auto-L4,2WD,Gasoline,CA,ULEV,2GMXV02.2023,midsize car,3,N/A,21,30,24,31.6955,7,no
+SATURN L200,2.2,(4 cyl),Man-5,2WD,Gasoline,CA,ULEV,2GMXV02.2023,midsize car,3,N/A,22,30,25,32.6572,7,no
+SATURN L300,3,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2GMXV03.0061,midsize car,2,N/A,18,26,21,27.6026,6,no
+SATURN LW200,2.2,(4 cyl),Man-5,2WD,Gasoline,CA,ULEV,2GMXV02.2023,station wagon,3,N/A,21,29,24,31.8251,7,no
+SATURN LW200,2.2,(4 cyl),Auto-L4,2WD,Gasoline,CA,ULEV,2GMXV02.2023,station wagon,3,N/A,21,30,24,31.6997,7,no
+SATURN LW300,3,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2GMXV03.0061,station wagon,2,N/A,18,26,21,27.6026,6,no
+SATURN SC,1.9,(4 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2GMXV01.9002,small car,2,N/A,22,32,26,33.9772,8,no
+SATURN SC,1.9,(4 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2GMXV01.9002,small car,2,N/A,23,32,26,34.4445,8,no
+SATURN SC,1.9,(4 cyl),Man-5,2WD,Gasoline,CL,LEV,2GMXV01.9002,small car,2,N/A,23,34,27,36.1113,8,no
+SATURN SC,1.9,(4 cyl),Man-5,2WD,Gasoline,CL,LEV,2GMXV01.9002,small car,2,N/A,25,36,29,38.2028,8,no
+SATURN SL,1.9,(4 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2GMXV01.9002,small car,2,N/A,22,32,26,33.9772,8,no
+SATURN SL,1.9,(4 cyl),Man-5,2WD,Gasoline,CL,LEV,2GMXV01.9002,small car,2,N/A,23,34,27,36.1113,8,no
+SATURN SL,1.9,(4 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2GMXV01.9002,small car,2,N/A,24,34,27,36.0677,8,no
+SATURN SL,1.9,(4 cyl),Man-5,2WD,Gasoline,CL,LEV,2GMXV01.9002,small car,2,N/A,25,36,29,38.6521,8,no
+SATURN Vue,2.2,(4 cyl),Auto-AV,2WD,Gasoline,CL,LEV,2GMXT02.2123,SUV,2,N/A,19,26,22,28.1238,6,no
+SATURN Vue,2.2,(4 cyl),Man-5,2WD,Gasoline,CL,LEV,2GMXT02.2123,SUV,2,N/A,20,26,22,29.2925,6,no
+SATURN Vue,2.2,(4 cyl),Auto-AV,4WD,Gasoline,CL,LEV,2GMXT02.2123,SUV,2,N/A,18,24,21,26.8082,6,no
+SATURN Vue,3,(6 cyl),Auto-L4,4WD,Gasoline,CL,LEV,2GMXT03.0162,SUV,1,N/A,17,23,19,24.6884,5,no
+SUBARU Forester,2.5,(4 cyl),Man-5,4WD,Gasoline,CL,LEV,2FJXV02.5JEH,SUV,2,N/A,19,25,21,27.2821,6,no
+SUBARU Forester,2.5,(4 cyl),Man-5,4WD,Gasoline,CL,LEV,2FJXV02.5JEJ,SUV,2,N/A,19,25,21,27.2821,6,no
+SUBARU Forester,2.5,(4 cyl),Auto-L4,4WD,Gasoline,CL,LEV,2FJXV02.5JEH,SUV,2,N/A,19,25,21,28.0742,6,no
+SUBARU Forester,2.5,(4 cyl),Auto-L4,4WD,Gasoline,CL,LEV,2FJXV02.5JEJ,SUV,2,N/A,19,25,21,28.0742,6,no
+SUBARU Impreza,2,(4 cyl),Auto-L4,4WD,Gasoline,CL,LEV,2FJXV02.0LGL,small car,2,N/A,17,24,20,25.6176,6,no
+SUBARU Impreza,2,(4 cyl),Man-5,4WD,Gasoline,CL,LEV,2FJXV02.0LGL,small car,2,N/A,18,25,21,26.7388,6,no
+SUBARU Impreza,2.5,(4 cyl),Man-5,4WD,Gasoline,CL,LEV,2FJXV02.5JEJ,small car,2,N/A,18,25,21,26.9919,6,no
+SUBARU Impreza,2.5,(4 cyl),Auto-L4,4WD,Gasoline,CL,LEV,2FJXV02.5JEJ,small car,2,N/A,19,25,21,28.0742,6,no
+SUBARU Impreza Wagon,2,(4 cyl),Auto-L4,4WD,Gasoline,CL,LEV,2FJXV02.0LGL,station wagon,2,N/A,17,24,20,25.6176,6,no
+SUBARU Impreza Wagon,2,(4 cyl),Man-5,4WD,Gasoline,CL,LEV,2FJXV02.0LGL,station wagon,2,N/A,18,25,21,26.7388,6,no
+SUBARU Impreza Wagon,2.5,(4 cyl),Man-5,4WD,Gasoline,CL,LEV,2FJXV02.5JEJ,station wagon,2,N/A,19,25,21,27.2821,6,no
+SUBARU Impreza Wagon,2.5,(4 cyl),Auto-L4,4WD,Gasoline,CL,LEV,2FJXV02.5JEJ,station wagon,2,N/A,19,25,21,28.0742,6,no
+SUBARU Legacy,2.5,(4 cyl),Auto-L4,4WD,Gasoline,CL,LEV,2FJXV02.5JHM,small car,2,N/A,19,25,21,28.0025,6,no
+SUBARU Legacy Wagon,2.5,(4 cyl),Man-5,4WD,Gasoline,CL,LEV,2FJXV02.5JHM,station wagon,2,N/A,19,25,21,27.2821,6,no
+SUBARU Legacy Wagon,2.5,(4 cyl),Auto-L4,4WD,Gasoline,CL,LEV,2FJXV02.5JHM,station wagon,2,N/A,19,25,21,27.8808,6,no
+SUBARU Legacy Wagon,3,(6 cyl),Auto-L4,4WD,Gasoline,CL,LEV,2FJXV03.0KFK,station wagon,2,N/A,17,24,20,25.7596,6,no
+SUZUKI Aerio,2,(4 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2SKXX2.00LC4,small car,2,N/A,23,28,25,32.7895,7,no
+SUZUKI Aerio,2,(4 cyl),Man-5,2WD,Gasoline,CL,LEV,2SKXX2.00LC4,small car,2,N/A,23,30,26,33.7481,8,no
+SUZUKI Aerio SX,2,(4 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2SKXX2.00LC4,station wagon,2,N/A,22,28,25,32.655,7,no
+SUZUKI Aerio SX,2,(4 cyl),Man-5,2WD,Gasoline,CL,LEV,2SKXX2.00LC4,station wagon,2,N/A,23,29,25,33.3851,7,no
+SUZUKI Esteem,1.6,(4 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2SKXX2.00LC4,small car,2,N/A,24,31,26,34.9888,8,no
+SUZUKI Esteem,1.8,(4 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2SKXX2.00LC4,small car,2,N/A,23,30,26,33.6865,8,no
+SUZUKI Esteem,1.8,(4 cyl),Man-5,2WD,Gasoline,CL,LEV,2SKXX2.00LC4,small car,2,N/A,24,32,27,36.165,8,no
+SUZUKI Esteem Wagon,1.6,(4 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2SKXX2.00LC4,station wagon,2,N/A,23,30,25,33.6761,7,no
+SUZUKI Esteem Wagon,1.8,(4 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2SKXX2.00LC4,station wagon,2,N/A,23,30,26,33.6865,8,no
+SUZUKI Esteem Wagon,1.8,(4 cyl),Man-5,2WD,Gasoline,CL,LEV,2SKXX2.00LC4,station wagon,2,N/A,24,31,26,35.0594,8,no
+SUZUKI Grand Vitara,2.5,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2SKXT2.49LC1,SUV,2,N/A,17,19,18,23.2318,5,no
+SUZUKI Grand Vitara,2.5,(6 cyl),Man-5,2WD,Gasoline,CL,LEV,2SKXT2.49LC1,SUV,2,N/A,17,20,18,23.9678,5,no
+SUZUKI Grand Vitara,2.5,(6 cyl),Auto-L4,4WD,Gasoline,CL,LEV,2SKXT2.49LC1,SUV,2,N/A,16,19,17,22.5209,4,no
+SUZUKI Grand Vitara,2.5,(6 cyl),Man-5,4WD,Gasoline,CL,LEV,2SKXT2.49LC1,SUV,2,N/A,17,20,18,23.3978,5,no
+SUZUKI Grand Vitara XL7,2.7,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2SKXT2.74LC1,SUV,1,N/A,15,18,17,21.5158,4,no
+SUZUKI Grand Vitara XL7,2.7,(6 cyl),Man-5,2WD,Gasoline,CL,LEV,2SKXT2.74LC1,SUV,1,N/A,16,19,17,22.0415,4,no
+SUZUKI Grand Vitara XL7,2.7,(6 cyl),Auto-L4,4WD,Gasoline,CL,LEV,2SKXT2.74LC1,SUV,1,N/A,15,18,16,21.2098,4,no
+SUZUKI Grand Vitara XL7,2.7,(6 cyl),Man-5,4WD,Gasoline,CL,LEV,2SKXT2.74LC1,SUV,1,N/A,16,19,17,21.8633,4,no
+SUZUKI Vitara,2,(4 cyl),Man-5,2WD,Gasoline,CL,LEV,2SKXX2.00LC4,SUV,2,N/A,20,23,21,27.4742,6,no
+SUZUKI Vitara,2,(4 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2SKXX2.00LC4,SUV,2,N/A,20,23,21,27.5233,6,no
+SUZUKI Vitara,2,(4 cyl),Auto-L4,4WD,Gasoline,CL,LEV,2SKXX2.00LC4,SUV,2,N/A,20,23,21,27.5233,6,no
+SUZUKI Vitara,2,(4 cyl),Man-5,4WD,Gasoline,CL,LEV,2SKXX2.00LC4,SUV,2,N/A,20,23,21,27.5888,6,no
+SUZUKI Vitara Convertible,2,(4 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2SKXX2.00LC4,SUV,2,N/A,20,23,21,27.6619,6,no
+SUZUKI Vitara Convertible,2,(4 cyl),Man-5,2WD,Gasoline,CL,LEV,2SKXX2.00LC4,SUV,2,N/A,20,24,22,28.5011,6,no
+SUZUKI Vitara Convertible,2,(4 cyl),Auto-L4,4WD,Gasoline,CL,LEV,2SKXX2.00LC4,SUV,2,N/A,20,23,21,27.5233,6,no
+SUZUKI Vitara Convertible,2,(4 cyl),Man-5,4WD,Gasoline,CL,LEV,2SKXX2.00LC4,SUV,2,N/A,20,23,21,27.5888,6,no
+TOYOTA 4Runner,3.4,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2TYXT03.4FFP,SUV,1,N/A,15,18,16,21.0314,4,no
+TOYOTA 4Runner,3.4,(6 cyl),Auto-L4,4WD,Gasoline,CL,LEV,2TYXT03.4FFP,SUV,1,N/A,15,18,16,20.4943,4,no
+TOYOTA Avalon,3,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2TYXV03.0FFD,large car,2,N/A,19,27,22,28.3911,6,no
+TOYOTA Camry,2.4,(4 cyl),Auto-L4,2WD,Gasoline,CL,ULEV,2TYXV02.4JJA,midsize car,3,N/A,21,29,24,31.0721,7,no
+TOYOTA Camry,2.4,(4 cyl),Man-5,2WD,Gasoline,CL,ULEV,2TYXV02.4JJA,midsize car,3,N/A,21,30,24,32.1176,7,no
+TOYOTA Camry,3,(6 cyl),Auto-L4,2WD,Gasoline,CL,ULEV,2TYXV03.0JJA,midsize car,3,N/A,18,26,21,26.9372,6,no
+TOYOTA Celica,1.8,(4 cyl),Auto-S4,2WD,Gasoline,CL,TLEV,2TYXV01.8DDC,small car,1,N/A,20,27,23,30.0592,7,no
+TOYOTA Celica,1.8,(4 cyl),Man-6,2WD,Gasoline,CL,TLEV,2TYXV01.8DDC,small car,1,N/A,20,29,23,30.758,7,no
+TOYOTA Celica,1.8,(4 cyl),Man-5,2WD,Gasoline,CL,TLEV,2TYXV01.8DDB,small car,1,N/A,24,30,27,35.1955,8,no
+TOYOTA Celica,1.8,(4 cyl),Auto-L4,2WD,Gasoline,CL,TLEV,2TYXV01.8DDB,small car,1,N/A,25,32,28,36.8719,8,no
+TOYOTA Corolla,1.8,(4 cyl),Auto-L3,2WD,Gasoline,CL,LEV,2TYXV01.8FFA,small car,2,N/A,25,30,27,35.9588,8,no
+TOYOTA Corolla,1.8,(4 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2TYXV01.8FFA,small car,2,N/A,26,36,30,39.4532,8,no
+TOYOTA Corolla,1.8,(4 cyl),Man-5,2WD,Gasoline,CL,LEV,2TYXV01.8FFA,small car,2,N/A,28,37,31,41.7188,9,no
+TOYOTA Echo,1.5,(4 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2TYXV01.5FFA,small car,2,N/A,27,35,30,40.6266,8,no
+TOYOTA Echo,1.5,(4 cyl),Man-5,2WD,Gasoline,CL,LEV,2TYXV01.5FFA,small car,2,N/A,29,37,32,43.4095,9,no
+TOYOTA Highlander,2.4,(4 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2TYXT02.4FFP,SUV,1,N/A,19,25,22,28.1912,6,no
+TOYOTA Highlander,2.4,(4 cyl),Auto-L4,4WD,Gasoline,CL,LEV,2TYXT02.4FFP,SUV,1,N/A,17,22,19,24.7323,5,no
+TOYOTA Highlander,3,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2TYXT03.0FFR,SUV,1,N/A,17,21,18,23.9236,5,no
+TOYOTA Highlander,3,(6 cyl),Auto-L4,4WD,Gasoline,CL,LEV,2TYXT03.0FFR,SUV,1,N/A,16,21,18,23.1592,5,no
+TOYOTA Land Cruiser,4.7,(8 cyl),Auto-L4,4WD,Gasoline,CA,LEV,2TYXT04.7FBV,SUV,0,N/A,12,15,13,16.469,1,no
+TOYOTA Land Cruiser,4.7,(8 cyl),Auto-L4,4WD,Gasoline,FA,T1,2TYXT04.7FBV,SUV,0,N/A,12,15,13,16.469,1,no
+TOYOTA MR2,1.8,(4 cyl),Man-5,2WD,Gasoline,CL,LEV,2TYXV01.8FFC,small car,2,N/A,22,27,24,31.7838,7,no
+TOYOTA Prius,1.5,(4 cyl),Auto-AV,2WD,Gasoline,CA,SLEV,2TYXV01.5LJ1,small car,9,N/A,42,41,41,57.5685,10,yes
+TOYOTA Prius,1.5,(4 cyl),Auto-AV,2WD,Gasoline,NL,ULEV,2TYXV01.5LJ1,small car,3,N/A,42,41,41,57.5685,10,no
+TOYOTA RAV4,2,(4 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2TYXT02.0FFH,SUV,2,N/A,21,26,23,30.2346,7,no
+TOYOTA RAV4,2,(4 cyl),Man-5,2WD,Gasoline,CL,LEV,2TYXT02.0FFH,SUV,2,N/A,22,28,24,31.8991,7,no
+TOYOTA RAV4,2,(4 cyl),Man-5,4WD,Gasoline,CL,LEV,2TYXT02.0FFH,SUV,2,N/A,20,25,22,28.4948,6,no
+TOYOTA RAV4,2,(4 cyl),Auto-L4,4WD,Gasoline,CL,LEV,2TYXT02.0FFH,SUV,2,N/A,20,25,22,28.8684,6,no
+TOYOTA Sequoia,4.7,(8 cyl),Auto-L4,2WD,Gasoline,CA,ULEV,2TYXT04.7JBW,SUV,1,N/A,13,17,14,18.4194,2,no
+TOYOTA Sequoia,4.7,(8 cyl),Auto-L4,4WD,Gasoline,CA,ULEV,2TYXT04.7JBW,SUV,1,N/A,13,16,14,17.8035,2,no
+TOYOTA Sequoia,4.7,(8 cyl),Auto-L4,2WD,Gasoline,FA,T1,2TYXT04.7JBW,SUV,0,N/A,13,17,14,18.4194,2,no
+TOYOTA Sequoia,4.7,(8 cyl),Auto-L4,4WD,Gasoline,FA,T1,2TYXT04.7JBW,SUV,0,N/A,13,16,14,17.8035,2,no
+TOYOTA Sienna,3,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2TYXT03.0FFP,minivan,1,N/A,17,23,19,24.7406,5,no
+TOYOTA Solara,2.4,(4 cyl),Auto-L4,2WD,Gasoline,CL,ULEV,2TYXV02.4JJA,small car,3,N/A,21,29,24,31.0721,7,no
+TOYOTA Solara,2.4,(4 cyl),Man-5,2WD,Gasoline,CL,ULEV,2TYXV02.4JJA,small car,3,N/A,21,30,24,32.1176,7,no
+TOYOTA Solara,3,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2TYXV03.0FFB,small car,2,N/A,17,25,20,25.9717,6,no
+TOYOTA Solara,3,(6 cyl),Man-5,2WD,Gasoline,CL,T1,2TYXV03.0BBC,small car,1,N/A,17,25,20,26.1509,6,no
+TOYOTA Solara Convertible,2.4,(4 cyl),Auto-L4,2WD,Gasoline,CL,ULEV,2TYXV02.4JJA,small car,3,N/A,20,28,23,30.1035,7,no
+TOYOTA Solara Convertible,3,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2TYXV03.0FFB,small car,2,N/A,17,24,19,25.0558,5,no
+TOYOTA Tacoma,2.4,(4 cyl),Auto-4,2WD,Gasoline,CL,LEV,2TYXT02.7FFH,pickup,2,N/A,19,23,21,26.9268,6,no
+TOYOTA Tacoma,2.4,(4 cyl),Man-5,2WD,Gasoline,CL,LEV,2TYXT02.7FFH,pickup,2,N/A,19,25,22,28.3262,6,no
+TOYOTA Tacoma,2.7,(4 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2TYXT02.7FFH,pickup,2,N/A,17,20,18,23.5202,5,no
+TOYOTA Tacoma,3.4,(6 cyl),Man-5,2WD,Gasoline,CL,LEV,2TYXT03.4FFH,pickup,2,N/A,16,21,18,23.5094,5,no
+TOYOTA Tacoma,2.7,(4 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2TYXT02.7FFP,pickup,1,N/A,17,20,18,23.5202,5,no
+TOYOTA Tacoma,2.7,(4 cyl),Auto-L4,4WD,Gasoline,CL,LEV,2TYXT02.7FFP,pickup,1,N/A,16,19,18,22.798,5,no
+TOYOTA Tacoma,2.7,(4 cyl),Man-5,4WD,Gasoline,CL,LEV,2TYXT02.7FFP,pickup,1,N/A,16,20,17,22.6646,4,no
+TOYOTA Tacoma,3.4,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2TYXT03.4FFP,pickup,1,N/A,15,18,16,21.0314,4,no
+TOYOTA Tacoma,3.4,(6 cyl),Auto-L4,4WD,Gasoline,CL,LEV,2TYXT03.4FFP,pickup,1,N/A,15,17,16,20.5587,4,no
+TOYOTA Tacoma,3.4,(6 cyl),Man-5,4WD,Gasoline,CL,LEV,2TYXT03.4FFP,pickup,1,N/A,15,18,16,20.9255,4,no
+TOYOTA Tundra,3.4,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2TYXT03.4FFP,pickup,1,N/A,15,18,16,20.5555,4,no
+TOYOTA Tundra,3.4,(6 cyl),Man-5,2WD,Gasoline,CL,LEV,2TYXT03.4FFP,pickup,1,N/A,15,18,16,20.6123,4,no
+TOYOTA Tundra,3.4,(6 cyl),Auto-L4,4WD,Gasoline,CL,LEV,2TYXT03.4FFP,pickup,1,N/A,14,16,15,18.8914,3,no
+TOYOTA Tundra,3.4,(6 cyl),Man-5,4WD,Gasoline,CL,LEV,2TYXT03.4FFP,pickup,1,N/A,14,16,15,19.2394,3,no
+TOYOTA Tundra,4.7,(8 cyl),Auto-L4,2WD,Gasoline,CA,LEV,2TYXT04.7FBY,pickup,1,N/A,13,17,15,18.8545,3,no
+TOYOTA Tundra,4.7,(8 cyl),Auto-L4,4WD,Gasoline,CA,LEV,2TYXT04.7FBY,pickup,1,N/A,13,16,14,17.9731,2,no
+TOYOTA Tundra,4.7,(8 cyl),Auto-L4,2WD,Gasoline,FA,T1,2TYXT04.7FBY,pickup,0,N/A,13,17,15,18.8545,3,no
+TOYOTA Tundra,4.7,(8 cyl),Auto-L4,2WD,Gasoline,FA,T1,2TYXT04.7XBX,pickup,0,N/A,13,17,15,18.8545,3,no
+TOYOTA Tundra,4.7,(8 cyl),Auto-L4,4WD,Gasoline,FA,T1,2TYXT04.7FBY,pickup,0,N/A,13,16,14,17.9731,2,no
+TOYOTA Tundra,4.7,(8 cyl),Auto-L4,4WD,Gasoline,FA,T1,2TYXT04.7XBX,pickup,0,N/A,13,16,14,17.9731,2,no
+VOLKSWAGEN Cabrio,2,(4 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2VWXV02.0227,small car,2,N/A,20,27,23,29.4874,7,no
+VOLKSWAGEN Cabrio,2,(4 cyl),Man-5,2WD,Gasoline,CL,LEV,2VWXV02.0227,small car,2,N/A,21,28,24,31.5877,7,no
+VOLKSWAGEN Eurovan,2.8,(6 cyl),Auto-L4,2WD,Gasoline,CL,TLEV,2VWXT02.8225,minivan,1,N/A,15,18,16,21.0238,4,no
+VOLKSWAGEN Eurovan Camper,2.8,(6 cyl),Auto-L4,2WD,Gasoline,CL,TLEV,2VWXT02.8225,special purpose,1,N/A,14,18,16,20.044,4,no
+VOLKSWAGEN GTI,1.8,(4 cyl),Auto-S5,2WD,Gasoline,CL,LEV,2ADXV01.8346,small car,2,N/A,19,27,22,28.8006,6,no
+VOLKSWAGEN GTI,1.8,(4 cyl),Man-6,2WD,Gasoline,CL,LEV,2ADXV01.8346,small car,2,N/A,20,28,23,30.1236,7,no
+VOLKSWAGEN GTI,1.8,(4 cyl),Man-5,2WD,Gasoline,CL,LEV,2ADXV01.8346,small car,2,N/A,21,28,24,31.3429,7,no
+VOLKSWAGEN GTI,2.8,(6 cyl),Man-5,2WD,Gasoline,CL,LEV,2VWXV02.8224,small car,2,N/A,18,26,21,27.0325,6,no
+VOLKSWAGEN GTI,2.8,(6 cyl),Man-6,2WD,Gasoline,CL,LEV,2VWXV02.8228,small car,2,N/A,19,27,22,28.4794,6,no
+VOLKSWAGEN Golf,2,(4 cyl),Auto-L4,2WD,Gasoline,CL,ULEV,2VWXV02.0223,small car,3,N/A,20,27,23,29.4874,7,no
+VOLKSWAGEN Golf,2,(4 cyl),Man-5,2WD,Gasoline,CL,ULEV,2VWXV02.0223,small car,3,N/A,21,28,24,31.5877,7,no
+VOLKSWAGEN Golf,2,(4 cyl),Auto-L4,2WD,Gasoline,NL,LEV,2VWXV02.0226,small car,2,N/A,20,27,23,29.4874,7,no
+VOLKSWAGEN Golf,2,(4 cyl),Man-5,2WD,Gasoline,NL,LEV,2VWXV02.0226,small car,2,N/A,21,28,24,31.5877,7,no
+VOLKSWAGEN Golf,1.9,(4 cyl),Auto-L4,2WD,diesel,CL,T1,2VWXV01.9233,small car,0,N/A,29,40,33,44.7749,8,no
+VOLKSWAGEN Golf,1.9,(4 cyl),Man-5,2WD,diesel,CL,T1,2VWXV01.9233,small car,0,N/A,35,44,38,52.6767,9,no
+VOLKSWAGEN Jetta,2,(4 cyl),Auto-L4,2WD,Gasoline,CL,ULEV,2VWXV02.0223,small car,3,N/A,20,27,23,29.4874,7,no
+VOLKSWAGEN Jetta,2,(4 cyl),Man-5,2WD,Gasoline,CL,ULEV,2VWXV02.0223,small car,3,N/A,21,28,24,31.5877,7,no
+VOLKSWAGEN Jetta,1.8,(4 cyl),Auto-S5,2WD,Gasoline,CL,LEV,2ADXV01.8346,small car,2,N/A,19,27,22,28.8006,6,no
+VOLKSWAGEN Jetta,1.8,(4 cyl),Man-5,2WD,Gasoline,CL,LEV,2ADXV01.8346,small car,2,N/A,21,29,24,31.2709,7,no
+VOLKSWAGEN Jetta,2,(4 cyl),Auto-L4,2WD,Gasoline,NL,LEV,2VWXV02.0226,small car,2,N/A,20,27,23,29.4874,7,no
+VOLKSWAGEN Jetta,2,(4 cyl),Man-5,2WD,Gasoline,NL,LEV,2VWXV02.0226,small car,2,N/A,21,28,24,31.5877,7,no
+VOLKSWAGEN Jetta,2.8,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2VWXV02.8224,small car,2,N/A,17,24,19,24.863,5,no
+VOLKSWAGEN Jetta,2.8,(6 cyl),Man-5,2WD,Gasoline,CL,LEV,2VWXV02.8224,small car,2,N/A,17,26,20,26.3827,6,no
+VOLKSWAGEN Jetta,2.8,(6 cyl),Man-6,2WD,Gasoline,CL,LEV,2VWXV02.8228,small car,2,N/A,19,27,22,28.4794,6,no
+VOLKSWAGEN Jetta,2.8,(6 cyl),Auto-L5,2WD,Gasoline,CL,LEV,2VWXV02.8228,small car,2,N/A,19,28,22,28.7622,6,no
+VOLKSWAGEN Jetta,1.9,(4 cyl),Auto-L4,2WD,diesel,CL,T1,2VWXV01.9233,small car,0,N/A,29,40,33,44.7749,8,no
+VOLKSWAGEN Jetta,1.9,(4 cyl),Man-5,2WD,diesel,CL,T1,2VWXV01.9233,small car,0,N/A,35,44,38,52.6767,9,no
+VOLKSWAGEN Jetta Wagon,2,(4 cyl),Auto-L4,2WD,Gasoline,CL,ULEV,2VWXV02.0223,station wagon,3,N/A,20,26,22,29.0986,6,no
+VOLKSWAGEN Jetta Wagon,2,(4 cyl),Man-5,2WD,Gasoline,CL,ULEV,2VWXV02.0223,station wagon,3,N/A,21,29,24,31.2697,7,no
+VOLKSWAGEN Jetta Wagon,1.8,(4 cyl),Auto-S5,2WD,Gasoline,CL,LEV,2ADXV01.8346,station wagon,2,N/A,19,27,22,28.8006,6,no
+VOLKSWAGEN Jetta Wagon,1.8,(4 cyl),Man-5,2WD,Gasoline,CL,LEV,2ADXV01.8346,station wagon,2,N/A,21,29,24,31.2709,7,no
+VOLKSWAGEN Jetta Wagon,2,(4 cyl),Auto-L4,2WD,Gasoline,NL,LEV,2VWXV02.0226,station wagon,2,N/A,20,26,22,29.0986,6,no
+VOLKSWAGEN Jetta Wagon,2,(4 cyl),Man-5,2WD,Gasoline,NL,LEV,2VWXV02.0226,station wagon,2,N/A,21,29,24,31.2697,7,no
+VOLKSWAGEN Jetta Wagon,2.8,(6 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2VWXV02.8224,station wagon,2,N/A,17,24,19,24.863,5,no
+VOLKSWAGEN Jetta Wagon,2.8,(6 cyl),Man-5,2WD,Gasoline,CL,LEV,2VWXV02.8224,station wagon,2,N/A,17,26,20,26.3827,6,no
+VOLKSWAGEN Jetta Wagon,1.9,(4 cyl),Auto-L4,2WD,diesel,CL,T1,2VWXV01.9233,station wagon,0,N/A,29,40,33,44.7749,8,no
+VOLKSWAGEN Jetta Wagon,1.9,(4 cyl),Man-5,2WD,diesel,CL,T1,2VWXV01.9233,station wagon,0,N/A,35,45,39,53.1673,9,no
+VOLKSWAGEN New Beetle,2,(4 cyl),Auto-L4,2WD,Gasoline,CL,ULEV,2VWXV02.0223,small car,3,N/A,20,27,23,29.4874,7,no
+VOLKSWAGEN New Beetle,2,(4 cyl),Man-5,2WD,Gasoline,CL,ULEV,2VWXV02.0223,small car,3,N/A,21,28,24,31.5877,7,no
+VOLKSWAGEN New Beetle,1.8,(4 cyl),Auto-L4,2WD,Gasoline,CL,LEV,2ADXV01.8346,small car,2,N/A,20,27,23,29.7231,7,no
+VOLKSWAGEN New Beetle,1.8,(4 cyl),Man-6,2WD,Gasoline,CL,LEV,2ADXV01.8346,small car,2,N/A,20,28,23,30.1236,7,no
+VOLKSWAGEN New Beetle,1.8,(4 cyl),Man-5,2WD,Gasoline,CL,LEV,2ADXV01.8346,small car,2,N/A,21,28,24,31.3429,7,no
+VOLKSWAGEN New Beetle,2,(4 cyl),Auto-L4,2WD,Gasoline,NL,LEV,2VWXV02.0226,small car,2,N/A,20,27,23,29.4874,7,no
+VOLKSWAGEN New Beetle,2,(4 cyl),Man-5,2WD,Gasoline,NL,LEV,2VWXV02.0226,small car,2,N/A,21,28,24,31.5877,7,no
+VOLKSWAGEN New Beetle,1.9,(4 cyl),Auto-L4,2WD,diesel,CL,T1,2VWXV01.9233,small car,0,N/A,29,39,33,44.4725,8,no
+VOLKSWAGEN New Beetle,1.9,(4 cyl),Man-5,2WD,diesel,CL,T1,2VWXV01.9233,small car,0,N/A,35,44,38,52.6767,9,no
+VOLKSWAGEN Passat,1.8,(4 cyl),Auto-S5,2WD,Gasoline,CL,ULEV,2ADXV01.8342,midsize car,3,N/A,19,28,22,28.8373,6,no
+VOLKSWAGEN Passat,1.8,(4 cyl),Man-5,2WD,Gasoline,CL,ULEV,2ADXV01.8342,midsize car,3,N/A,19,28,23,29.5194,7,no
+VOLKSWAGEN Passat,2.8,(6 cyl),Auto-S5,2WD,Gasoline,CL,LEV,2ADXV02.8334,midsize car,2,N/A,17,25,20,26.2012,6,no
+VOLKSWAGEN Passat,2.8,(6 cyl),Man-5,2WD,Gasoline,CL,LEV,2ADXV02.8334,midsize car,2,N/A,18,26,21,26.675,6,no
+VOLKSWAGEN Passat,2.8,(6 cyl),Auto-S5,4WD,Gasoline,CL,LEV,2ADXV02.8334,small car,2,N/A,17,24,19,25.2063,5,no
+VOLKSWAGEN Passat Wagon,1.8,(4 cyl),Auto-S5,2WD,Gasoline,CL,ULEV,2ADXV01.8342,station wagon,3,N/A,19,28,22,28.8373,6,no
+VOLKSWAGEN Passat Wagon,1.8,(4 cyl),Man-5,2WD,Gasoline,CL,ULEV,2ADXV01.8342,station wagon,3,N/A,19,28,23,29.5194,7,no
+VOLKSWAGEN Passat Wagon,2.8,(6 cyl),Auto-S5,4WD,Gasoline,CL,LEV,2ADXV02.8334,station wagon,2,N/A,17,24,19,25.2063,5,no
+VOLKSWAGEN Passat Wagon,2.8,(6 cyl),Auto-S5,2WD,Gasoline,CL,LEV,2ADXV02.8334,station wagon,2,N/A,17,25,20,25.8901,6,no
+VOLKSWAGEN Passat Wagon,2.8,(6 cyl),Man-5,2WD,Gasoline,CL,LEV,2ADXV02.8334,station wagon,2,N/A,18,26,21,26.675,6,no
+VOLVO C70 Convertible,2.3,(5 cyl),Auto-L5,2WD,Gasoline,NF,LEV,2VVXV2.43L5T,small car,2,N/A,17,24,20,25.8336,6,no
+VOLVO C70 Convertible,2.3,(5 cyl),Man-5,2WD,Gasoline,NF,LEV,2VVXV2.43L5T,small car,2,N/A,18,25,21,27.0373,6,no
+VOLVO C70 Convertible,2.4,(5 cyl),Auto-L5,2WD,Gasoline,NF,LEV,2VVXV2.43L5T,small car,2,N/A,18,25,21,26.9421,6,no
+VOLVO C70 Coupe,2.3,(5 cyl),Man-5,2WD,Gasoline,NF,LEV,2VVXV2.43L5T,small car,2,N/A,18,25,20,26.5731,6,no
+VOLVO C70 Coupe,2.3,(5 cyl),Auto-L5,2WD,Gasoline,NF,LEV,2VVXV2.43L5T,small car,2,N/A,18,26,21,27.54,6,no
+VOLVO S40,1.9,(4 cyl),Auto-L5,2WD,Gasoline,NF,LEV,2VVXV1.95L4T,small car,2,N/A,19,27,22,28.6649,6,no
+VOLVO S60,2.4,(5 cyl),Man-5,2WD,Gasoline,NF,ULEV,2VVXV2.43U5N,small car,3,N/A,19,25,21,27.8407,6,no
+VOLVO S60,2.4,(5 cyl),Auto-L5,2WD,Gasoline,NF,ULEV,2VVXV2.43U5N,small car,3,N/A,19,26,21,27.7381,6,no
+VOLVO S60,2.3,(5 cyl),Man-5,2WD,Gasoline,NF,LEV,2VVXV2.43L5T,small car,2,N/A,18,25,20,26.5731,6,no
+VOLVO S60,2.3,(5 cyl),Auto-S5,2WD,Gasoline,NF,LEV,2VVXV2.43L5T,small car,2,N/A,18,26,21,27.5387,6,no
+VOLVO S60,2.4,(5 cyl),Auto-S5,4WD,Gasoline,NF,LEV,2VVXV2.43L5T,small car,2,N/A,17,24,20,25.693,6,no
+VOLVO S60,2.4,(5 cyl),Auto-L5,2WD,Gasoline,NF,LEV,2VVXV2.43L5T,small car,2,N/A,18,26,21,27.4367,6,no
+VOLVO S80,2.9,(6 cyl),Auto-S4,2WD,Gasoline,NF,ULEV,2VVXV2.92U6T,midsize car,3,N/A,16,23,19,23.9823,5,no
+VOLVO S80,2.9,(6 cyl),Auto-L4,2WD,Gasoline,NF,ULEV,2VVXV2.92U6N,midsize car,3,N/A,17,23,19,25.3083,5,no
+VOLVO V40,1.9,(4 cyl),Auto-L5,2WD,Gasoline,NF,LEV,2VVXV1.95L4T,station wagon,2,N/A,19,27,22,28.6649,6,no
+VOLVO V70,2.4,(5 cyl),Man-5,2WD,Gasoline,NF,ULEV,2VVXV2.43U5N,station wagon,3,N/A,19,25,21,27.8407,6,no
+VOLVO V70,2.4,(5 cyl),Auto-L5,2WD,Gasoline,NF,ULEV,2VVXV2.43U5N,station wagon,3,N/A,19,26,21,27.7381,6,no
+VOLVO V70,2.3,(5 cyl),Auto-S5,2WD,Gasoline,NF,LEV,2VVXV2.43L5T,station wagon,2,N/A,17,24,20,25.8336,6,no
+VOLVO V70,2.3,(5 cyl),Man-5,2WD,Gasoline,NF,LEV,2VVXV2.43L5T,station wagon,2,N/A,18,25,21,27.0373,6,no
+VOLVO V70,2.4,(5 cyl),Auto-S5,4WD,Gasoline,NF,LEV,2VVXV2.43L5T,station wagon,2,N/A,17,24,20,25.693,6,no
+VOLVO V70,2.4,(5 cyl),Auto-L5,2WD,Gasoline,NF,LEV,2VVXV2.43L5T,station wagon,2,N/A,18,25,21,26.9389,6,no
+VOLVO V70 XC,2.4,(5 cyl),Auto-S5,4WD,Gasoline,NF,LEV,2VVXT2.43L5T,SUV,1,N/A,17,23,20,25.4804,6,no
+WINNEBAGO 200 Series,2.8,,,2WD,Gasoline,CA,LEV,2WBXT02.8225,special purpose,0,N/A,N/A,N/A,N/A,N/A,N/A,no
+WINNEBAGO 200 Series,2.8,,,2WD,Gasoline,FA,T1,2WBXT02.8225,special purpose,0,N/A,N/A,N/A,N/A,N/A,N/A,no
